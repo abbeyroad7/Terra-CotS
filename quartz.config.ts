@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Terra: Cataclysm of the Shattered",
+    pageTitle: "Terra: CotS",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
