@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
+	  "Foundry": "https://foundryredirect.com/tcs",
     },
   }),
 }
