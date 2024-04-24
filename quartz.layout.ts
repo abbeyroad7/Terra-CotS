@@ -9,6 +9,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
 	  "Foundry": "https://foundryredirect.com/tcs",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CotS/Memories",
+	  "Session Notes": "https://abbeyroad7.github.io/Terra-CotS/Sessions",
     },
   }),
 }
@@ -17,13 +19,14 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -35,8 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
