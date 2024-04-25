@@ -11,11 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "Terra",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "null",
-    },
+    
     locale: "en-US",
-    baseUrl: "abbeyroad7.github.io/Terra-CotS/",
+    baseUrl: "abbeyroad7.github.io/Terra-CotS",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
