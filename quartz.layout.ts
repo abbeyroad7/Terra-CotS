@@ -7,9 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Socratica: "https://www.socratica.info/",
-      "Attend a Session": "https://www.socratica.info/map",
-      GitHub: "https://github.com/Socratica-Org/toolbox",
+      "Discord": "https://discord.gg/uTk4Dyz8CB",
+	  "Foundry": "https://foundryredirect.com/tcs",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CotS/Memories",
+	  "Session Notes": "https://abbeyroad7.github.io/Terra-CotS/Sessions",
     },
   }),
 }
@@ -18,7 +19,6 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
@@ -26,24 +26,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    // Component.Darkmode(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    
     Component.DesktopOnly(Component.Explorer()),
-    // Component.DesktopOnly(Component.Graph()),
-    // Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
-    // Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
+
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    // Component.Darkmode(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }
