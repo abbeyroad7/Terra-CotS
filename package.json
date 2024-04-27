@@ -6,10 +6,10 @@
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://abbeyroad7.github.io/Terra-CoTs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/abbeyroad7/Terra-CoTs.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
