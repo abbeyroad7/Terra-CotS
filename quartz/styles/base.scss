@@ -154,7 +154,7 @@ a {
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 2rem;
+      gap: 1rem;
       top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
@@ -195,7 +195,7 @@ a {
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
-      margin-top: 2rem;
+      margin-top: 1rem;
     }
   }
 
