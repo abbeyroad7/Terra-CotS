@@ -4,8 +4,6 @@ title: Terra Cataclysm of the Shattered
 # Welcome to the Lore.
 
 Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.
-
-test
  
  ![[Skulk.png|center|256x256]]
 
