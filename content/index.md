@@ -3,7 +3,8 @@ title: Terra Cataclysm of the Shattered
 ---
 # Welcome to the Lore.
 
-Browse the index and learn of the (soon-to-be) complex histories of the peoples that reside within Terra.
+Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.
+ 
  ![[Skulk.png|center|256x256]]
 
 1. [[World/Beastiary/]]: Details the various types of creatures the party has encountered and logs them here.
