@@ -4,12 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  //header: [],
-  header: Component.Header({
-	links: {
-		"Beastiary": "https://abbeyroad7.github.io/Terra-CoTs/World/Beastiary/"
-	},
-  }),
+  header: [],
   footer: Component.Footer({
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
@@ -46,7 +41,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
