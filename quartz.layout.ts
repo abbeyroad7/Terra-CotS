@@ -18,13 +18,6 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-	//Component.Footer({
-	//	links: {
-	//	"Beastiary": "https://abbeyroad7.github.io/Terra-CoTs/World/Beastiary/",
-	//	"Dictionary": "https://abbeyroad7.github.io/Terra-CoTs/World/Dictionary/",
-	//	"History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/",
-	//	},
-	//}),
     Component.Breadcrumbs(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -44,10 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],

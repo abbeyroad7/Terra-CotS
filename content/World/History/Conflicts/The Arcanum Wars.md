@@ -1,5 +1,5 @@
 ### Background
-The Arcanum Wars were a series of global conflicts immediately following [[The Devine Restoration]] in 1388 [[Terra Calendar (TC)|TC]] and ultimately ending nearly 200 years later in 1564 TC. It was the single most divisive and destructive period of history since the [[World/History/Conflicts/Cataclysm of the Shattered|Cataclysm of the Shattered]].
+The Arcanum Wars were a series of global conflicts immediately following [[The Divine Restoration]] in 1388 [[Terra Calendar (TC)|TC]] and ultimately ending nearly 200 years later in 1564 TC. It was the single most divisive and destructive period of history since the [[World/History/Conflicts/Cataclysm of the Shattered|Cataclysm of the Shattered]].
 
 After Arilias defeated Sorvyn, the all-powerful God drew a deep breath inviting the waters of the Leyaub Ocean to quench the exposed magma left in the wake of their final battle. This created the Perlas Sea to the south of modern-day Thorq and Balfran, which tragically engulfed what was once entire countries home to millions of peoples.
 
