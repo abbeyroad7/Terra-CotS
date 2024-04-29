@@ -6,7 +6,8 @@ title: Terra Cataclysm of the Shattered
 Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.
  
  ![[Skulk.png|center|256x256]]
-
+<a href="World/Beastiary/">![[beastiary.png|380x575]]</a>
+ 
 1. [[World/Beastiary/]]: Details the various types of creatures the party has encountered and logs them here.
 2. [[World/Dictionary/]] Defines world-terms and references.
 3. [[World/Factions/]] The political landscape in Terra.
