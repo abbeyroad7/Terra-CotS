@@ -1,8 +1,9 @@
 @use "../../styles/variables.scss" as *;
 
 .search {
-  min-width: fit-content;
+  min-width: 30rem;
   max-width: 14rem;
+  margin-left: 2rem;
   flex-grow: 0.3;
 
   & > #search-icon {

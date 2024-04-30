@@ -5,7 +5,7 @@ title: Terra Cataclysm of the Shattered
 
 #### Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.
  
-<a href="World/Beastiary/">![[beastiary.png|center-left|240x363]]</a>
+<a href="World/Beastiary/Beastiary.md">![[beastiary.png|center-left|240x363]]</a>
 <a href="World/Dictionary/">![[dictionary.png|center-left|240x363]]</a>
 <a href="World/Factions/">![[factions.png|center-left|240x363]]</a>
 
