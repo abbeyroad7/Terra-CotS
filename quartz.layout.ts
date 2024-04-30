@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
   Component.PageTitle(),
+  Component.TagList(),
   ],
   footer: Component.Footer({
     links: {
