@@ -26,10 +26,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.MobileOnly(Component.Spacer()),
-    
+    //Component.MobileOnly(Component.Spacer()),
     
 	Component.DesktopOnly(Component.Backlinks()),
+	Component.DesktopOnly(Component.Graph()),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -46,5 +46,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     //Component.DesktopOnly(Component.Explorer()),
   ],
-  left: [],
+  left: [
+	Component.DesktopOnly(Component.Backlinks()),
+	Component.DesktopOnly(Component.Graph()),
+  ],
 }
