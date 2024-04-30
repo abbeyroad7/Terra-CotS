@@ -28,6 +28,8 @@ This is the landing page for the Factions page.
 	- **Viso**
 	- **Westler**
 - [[Gloridian Loyalists]]
+- **Maps**
+
 - [[Monarchists]]
 - [[Order of Celestria]]
 
