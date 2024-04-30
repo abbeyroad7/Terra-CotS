@@ -15,5 +15,3 @@ title: Terra Cataclysm of the Shattered
 <a href="World/Quests/">![[quests.png|left|240x363]]</a>
 <a href="World/Religion/">![[religion.png|left|240x363]]</a>
 <a href="World/Misc/">![[misc.png|left|240x363]]</a>
-
-
