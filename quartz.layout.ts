@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    //Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     
     
 	Component.DesktopOnly(Component.Backlinks()),
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    //Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.DesktopOnly(Component.Explorer()),
   ],
