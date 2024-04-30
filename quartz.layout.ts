@@ -34,15 +34,18 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Search(),
-	Component.DesktopOnly(Component.TableOfContents()),
+	//Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+  Component.Breadcrumbs(),
+  Component.ContentMeta()
+  ],
   right: [
-    Component.MobileOnly(Component.Spacer()),
+    //Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.DesktopOnly(Component.Explorer()),
   ],
