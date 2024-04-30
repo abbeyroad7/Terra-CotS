@@ -12,7 +12,7 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
 
 ArticleTitle.css = `
 .article-title {
-  margin: 2rem 0 0 0;
+  margin-bottom: 2rem;
 }
 `
 
