@@ -9,17 +9,26 @@ if %cho%==2 goto WEB
 if %cho%==3 goto GIT
 
 :SYNC
+@echo off
+cls
+powershell Copy-Item -Path 'D:\Documents\Notes\DND\Quartz\*\' -Destination 'C:\Users\Admin\quartz\content\' -Force -Recurse -Exclude configure.bat
 
+powershell Remove-Item -Path 'D:\Documents\Notes\DND\Quartz\*\' -Destination 'C:\Users\Admin\quartz\content\' -Force -Recurse -Exclude configure.bat
 pause
+cls
 goto START
 
 :WEB
+cls
 npx quartz sync
 pause
+cls
 goto START
 
 :GIT
+cls
 node
 npx quartz build --serve
 pause
+cls
 goto START
