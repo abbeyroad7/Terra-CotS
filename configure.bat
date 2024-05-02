@@ -20,8 +20,7 @@ goto START
 
 :WEB
 cls
-cd C:\Users\Admin\quartz
-npx quartz sync
+C:\Users\Admin\quartz\configure-sync.bat
 pause
 cls
 goto START
