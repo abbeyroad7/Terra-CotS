@@ -32,5 +32,9 @@ This is the landing page for the Factions page.
 
 - [[Monarchists]]
 - [[Order of Celestria]]
+- **Relationships**
+	- [[Western Eternal Treaty of 1532]]
+- **Territories**
+	- [[Zeilona]]
 
 %% End Waypoint %%
