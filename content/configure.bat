@@ -20,6 +20,7 @@ goto START
 
 :WEB
 cls
+cd C:\Users\Admin\quartz
 npx quartz sync
 pause
 cls
