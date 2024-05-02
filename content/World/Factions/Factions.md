@@ -29,7 +29,7 @@ This is the landing page for the Factions page.
 	- **Westler**
 - [[Gloridian Loyalists]]
 - **Maps**
-
+	- [[Aurelia]]
 - [[Monarchists]]
 - [[Order of Celestria]]
 - **Relationships**
