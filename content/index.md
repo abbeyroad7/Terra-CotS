@@ -1,5 +1,6 @@
 ---
 title: Terra Cataclysm of the Shattered
+state: Drafting
 ---
 # Welcome to the Lore.
 
