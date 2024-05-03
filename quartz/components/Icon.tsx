@@ -23,11 +23,12 @@ PageTitle.css = `
   max-height: 0rem;
 }
 .Logo {
-width: 6rem;
+width: 16rem;
+height: 8rem;
 
 margin-top: -2rem;
 margin-bottom: -1rem;
-margin-left: -2rem;
+margin-left: 0rem;
 }
 `
 
