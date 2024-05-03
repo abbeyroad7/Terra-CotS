@@ -20,6 +20,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import Icon from "./Icon"
 
 export {
   ArticleTitle,
@@ -44,4 +45,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  Icon,
 }
