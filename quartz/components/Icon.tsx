@@ -23,10 +23,10 @@ PageTitle.css = `
   max-height: 0rem;
 }
 .Logo {
-max-height: 140px;
-min-height: 50px;
-max-width: 340px;
-min-width: 250px;
+max-height: 14rem;
+min-height: 10rem;
+max-width: 20rem;
+min-width: 14rem;
 margin-top: -2rem;
 margin-bottom: -1rem;
 margin-left: -2rem;
