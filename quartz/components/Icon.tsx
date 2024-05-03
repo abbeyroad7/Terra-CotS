@@ -23,9 +23,12 @@ height: 8rem;
 margin-top: -2rem;
 margin-bottom: -1rem;
 margin-left: 0rem;
+
+@media screen and (min-width: 768px) {
+    .neighbourhood-img img {display:none;}
+}
+
 }
 `
 
-export default (() => Icon) satisfies QuartzComponentConstructor & {
-displayClass?: "desktop-only"
-}
+export default (() => Icon) satisfies QuartzComponentConstructor

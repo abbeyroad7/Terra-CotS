@@ -3,8 +3,7 @@ title: Terra Cataclysm of the Shattered
 state: Drafting
 ---
 # Welcome to the Lore.
-
-#### Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.
+<font size=4><b>Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.</b></font>
  
 <a href="World/Beastiary/Beastiary.md">![[beastiary.png|center-left|240x363]]</a>
 <a href="World/Dictionary/Dictionary.md">![[dictionary.png|center-left|240x363]]</a>
