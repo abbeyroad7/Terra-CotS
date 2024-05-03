@@ -28,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     //Component.MobileOnly(Component.Spacer()),
 	
+	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
 	Component.DesktopOnly(Component.RecentNotes()),
     //Component.DesktopOnly(Component.Explorer()),

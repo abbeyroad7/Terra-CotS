@@ -4,8 +4,8 @@ import { classNames } from "../util/lang"
 import { joinSegments } from "../util/path"
 import { i18n } from "../i18n"
 
-const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
-  const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
+const Icon: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
+  const title = cfg?.Icon ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const iconPath = joinSegments(baseDir, "static/DesktopLogo.jpg")
   return (
@@ -17,7 +17,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   )
 }
 
-PageTitle.css = `
+Icon.css = `
 .page-title {
   margin-bottom: 3rem;
   max-height: 0rem;
@@ -32,4 +32,4 @@ margin-left: 0rem;
 }
 `
 
-export default (() => PageTitle) satisfies QuartzComponentConstructor
+export default (() => Icon) satisfies QuartzComponentConstructor
