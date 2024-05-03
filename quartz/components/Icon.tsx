@@ -7,7 +7,7 @@ import { i18n } from "../i18n"
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
-  const iconPath = joinSegments(baseDir, "static/Logo.jpg")
+  const iconPath = joinSegments(baseDir, "static/DesktopLogo.jpg")
   return (
     <h1>
       <a href={baseDir}>
