@@ -5,10 +5,13 @@ import { joinSegments } from "../util/path"
 import { i18n } from "../i18n"
 
 const Icon: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
+  const title = cfg?.Icon ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const iconPath = joinSegments(baseDir, "static/DesktopLogo.jpg")
   return (
+    <h1>
         <img class="Logo" src={iconPath} />
+    </h1>
   )
 }
 
@@ -17,10 +20,12 @@ Icon.css = `
 width: 16rem;
 height: 8rem;
 
-margin-top: 0rem;
-margin-bottom: -0.5rem;
+margin-top: -2rem;
+margin-bottom: -1rem;
 margin-left: 0rem;
 }
 `
 
-export default (() => Icon) satisfies QuartzComponentConstructor
+export default (() => Icon) satisfies QuartzComponentConstructor & {
+displayClass?: "desktop-only"
+}
