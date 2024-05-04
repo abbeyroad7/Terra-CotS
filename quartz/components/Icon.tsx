@@ -10,7 +10,9 @@ const Icon: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentP
   const iconPath = joinSegments(baseDir, "static/DesktopLogo.jpg")
   return (
     <h1>
-        <img class="Logo" src={iconPath} />
+        <div style="max-height: 5000; overflow: hidden">
+			<img class="Logo" src={iconPath} />
+		</div>
     </h1>
   )
 }
@@ -23,10 +25,6 @@ height: 8rem;
 margin-top: -2rem;
 margin-bottom: -1rem;
 margin-left: 0rem;
-
-@media screen and (min-width: 768px) {
-    .neighbourhood-img img {display:none;}
-}
 
 }
 `
