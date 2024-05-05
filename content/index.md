@@ -16,3 +16,4 @@ sidebody: "Next session: May 14, 2024"
 <a href="World/Religion/Religion.md">![[religion.png|left|240x363]]</a>
 <a href="World/Misc/Misc.md">![[misc.png|left|240x363]]</a>
 <a href="World/Memories/Memories.md">![[memories.png|left|240x363]]</a>
+<a href="World/Memories/Getting-Started.md">![[getting-started.png|left|240x363]]</a>
