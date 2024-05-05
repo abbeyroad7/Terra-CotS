@@ -3,16 +3,18 @@ import { classNames } from "../util/lang"
 
 const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
+  const description = fileData.frontmatter?.title
   if (title) {
-    return <h1 class={classNames(displayClass, "side-body")}>{title}</h1>
+    return <h1 class={classNames(displayClass, "side-body")}>{title}<br><br><font size="3">{description}</font></br></br></h1>
   } else {
     return null
   }
 }
 
 SideBody.css = `
-.article-title {
-  margin-bottom: 2rem;
+.side-body {
+  margin-top: -1rem;
+  margin-left: -8rem;
 }
 `
 
