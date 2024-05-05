@@ -21,6 +21,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Icon from "./Icon"
+import SideBody from "./SideBody"
 
 export {
   ArticleTitle,
@@ -46,4 +47,5 @@ export {
   NotFound,
   Breadcrumbs,
   Icon,
+  SideBody,
 }

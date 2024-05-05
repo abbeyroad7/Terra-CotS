@@ -33,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Search(),
+    Component.SideBody(),
   ],
 }
 
@@ -42,9 +43,10 @@ export const defaultListPageLayout: PageLayout = {
   Component.Breadcrumbs(),
   ],
   right: [
-    //Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.SideBody()),
   ],
   left: [
 	Component.DesktopOnly(Component.Backlinks()),
