@@ -34,6 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Search(),
     Component.SideBody(),
+    //Component.Breadcrumbs(),
   ],
 }
 
@@ -46,6 +47,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Search()),
     //Component.DesktopOnly(Component.Explorer()),
+    //Component.DesktopOnly(Component.SideBody()),
     Component.DesktopOnly(Component.SideBody()),
   ],
   left: [

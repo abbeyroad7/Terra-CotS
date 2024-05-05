@@ -5,7 +5,7 @@ import { joinSegments } from "../util/path"
 import { i18n } from "../i18n"
 
 const Icon: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
-  //const title = cfg?.Icon ?? i18n(cfg.locale).propertyDefaults.title
+  const title = cfg?.Icon ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const iconPath = joinSegments(baseDir, "static/DesktopLogo.jpg")
   return (

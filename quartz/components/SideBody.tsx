@@ -7,10 +7,11 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   const title = fileData.frontmatter?.title
   //const baseDir = pathToRoot(fileData.slug!)
   const baseDir = pathToRoot(fileData.slug!)
-  //const description = joinSegments(pathToRoot, "static/DesktopLogo.jpg")
-  const description = joinSegments(baseDir, "/content/test.md")
+  //base const description = joinSegments(pathToRoot, "static/DesktopLogo.jpg")
+  const sidebody = fileData.frontmatter?.sidebody
+  //test const description = joinSegments(baseDir, "/content/test.md")
   if (title) {
-    return <h1 class={classNames(displayClass, "side-body")}>{title}<br><br><font size="3">{description}</font></br></br></h1>
+    return <h1 class={classNames(displayClass, "side-body")}>{title}<br><br><font size="3">{sidebody}</font></br></br></h1>
   } else {
     return null
   }
