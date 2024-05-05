@@ -1,9 +1,14 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { joinSegments } from "../util/path"
+import { pathToRoot } from "../util/path"
 
 const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
-  const description = fileData.frontmatter?.title
+  //const baseDir = pathToRoot(fileData.slug!)
+  const baseDir = pathToRoot("content/test.md")
+  //const description = joinSegments(pathToRoot, "static/DesktopLogo.jpg")
+  const description = joinSegments(baseDir, "content/test.md")
   if (title) {
     return <h1 class={classNames(displayClass, "side-body")}>{title}<br><br><font size="3">{description}</font></br></br></h1>
   } else {
