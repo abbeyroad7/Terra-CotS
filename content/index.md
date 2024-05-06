@@ -6,7 +6,7 @@ sidebody: "Next session: May 14, 2024"
 <font size=4><b>Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.</b></font>
  
 <a href="World/Beastiary/Beastiary.md">![[beastiary.png|center-left|240x363]]</a>
-<a href="World/Peoples/Peoples.md">![[peoples.png|left|240x363]]</a>
+<a href="World/Peoples/characters.md">![[characters.png|left|240x363]]</a>
 <a href="World/Dictionary/Dictionary.md">![[dictionary.png|center-left|240x363]]</a>
 
 <a href="World/Factions/Factions.md">![[factions.png|center-left|240x363]]</a>
