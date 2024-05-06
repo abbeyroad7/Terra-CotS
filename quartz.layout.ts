@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Search(),
-    Component.SideBody(),
+    //Component.SideBody(),
     //Component.Breadcrumbs(),
   ],
 }
