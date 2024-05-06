@@ -9,7 +9,7 @@ sidebody: "Next session: May 14, 2024"
 <a href="World/Characters/Characters.md">![[characters.png|left|240x363]]</a>
 <a href="World/Dictionary/Dictionary.md">![[dictionary.png|center-left|240x363]]</a>
 
-<a href="World/Factions/Factions.md">![[factions.png|center-left|240x363]]</a>
+<a href="World/Factions/Factions/Factions.md">![[factions.png|center-left|240x363]]</a>
 <a href="World/History/History.md">![[history.png|left|240x363]]</a>
 <a href="World/Items/Items.md">![[items.png|left|240x363]]</a>
 <a href="World/Quests/Quests.md">![[quests.png|left|240x363]]</a>
