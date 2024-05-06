@@ -5,6 +5,7 @@ This is the landing page for the Ball Fondlers.
 - [[Borislav]]
 - [[Freya]]
 - [[Goobert]]
+- **Guest Characters**
 - [[Scribbles]]
 - [[Yeldarb]]
 

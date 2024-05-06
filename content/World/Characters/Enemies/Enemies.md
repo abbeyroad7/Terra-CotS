@@ -1,0 +1,7 @@
+This is the landing page for Enemies.
+![[characters-enemies.png|center-left]]
+
+%% Begin Waypoint %%
+- [[Erlic, Celestrian Commander]]
+
+%% End Waypoint %%
