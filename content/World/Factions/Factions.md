@@ -4,7 +4,7 @@ This is the landing page for the Factions page.
 %% Begin Waypoint %%
 - **[[Countries]]**
 	- **Athis**
-	- **Balfran**
+	- **[[Balfran]]**
 	- **Byria**
 	- **Congia**
 	- **Estrelia**
