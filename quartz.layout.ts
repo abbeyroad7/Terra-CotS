@@ -11,8 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
 	  "Foundry": "https://foundryredirect.com/tcs",
-	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/Memories",
-	  "Session Notes": "https://abbeyroad7.github.io/Terra-CoTs/Sessions",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
     },
   }),
 }
