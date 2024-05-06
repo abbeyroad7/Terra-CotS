@@ -6,7 +6,6 @@ This is the landing page for the Peoples page.
 	- [[Tarog, the Tabby Cat]]
 - **Civilians**
 	- [[Batti]]
-	- [[Untitled]]
 	- [[Wald]]
 - **Enemies**
 	- [[Erlic]]
