@@ -1,3 +1,4 @@
-![[Pre1-Freya.jpg]]
+%% Begin Waypoint %%
+- [[Presession 1]]
 
-![[Pre1-Borislav-DeathofEmeric.jpg]]
+%% End Waypoint %%
