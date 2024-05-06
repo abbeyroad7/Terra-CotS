@@ -10,4 +10,4 @@ Born in the United Tribes of Moomia, Scribbles has spent a majority of his life,
 He spent most of his time with his beak in the books rather than out on the town. Looking for a chance to spread his metaphorical wings as a full-fledged wizard, Scribbles decided to travel to the Gloridian capital of Aurelia to discover the lost tomes of knowledge buried, burned, or abandoned by the western by the Western powers after the bloody Arcanum Wars.
 
 #### Evolution
-In short time after joining the Ball Fondlers, Scribbles and his comrades came upon a druidic spellbook in the abandoned Tanner's Market just outside the city walls of Aurelia. Here, they gathered the neccesarry ingredients and concocted what Freya translated as the [[Phylactery of Yappery]].
+In short time after joining the Ball Fondlers, Scribbles and his comrades came upon a druidic spellbook in the abandoned Tanner's Market just outside the city walls of Aurelia. Here, they gathered the necessary ingredients, including Borislav's spit, and concocted what [[Freya]] translated as the [[Phylactery of Yappery]]. With this potion, Scribbles was granted the ability to speak the Common tongue.
