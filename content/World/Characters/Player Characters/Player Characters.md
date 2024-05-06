@@ -1,12 +1,7 @@
 This is the landing page for the Ball Fondlers.
 ![[characters-playercharacters.png|center-left]]
-
-%% Begin Waypoint %%
-- [[Borislav]]
-- [[Freya]]
-- [[Goobert]]
-- **Guest Characters**
-- [[Scribbles]]
-- [[Yeldarb]]
-
-%% End Waypoint %%
+<a href="World/Characters/Player Characters/Borislav.md">![[characters-borislav.png|left|240x363]]</a>
+<a href="World/Characters/Player Characters/Freya.md">![[characters-freya.png|left|240x363]]</a>
+<a href="World/Characters/Player Characters/Goobert.md">![[characters-goobert.png|left|240x363]]</a>
+<a href="World/Characters/Player Characters/Scribbles.md">![[characters-scribbles.png|left|240x363]]</a>
+<a href="World/Characters/Player Characters/Yeldarb.md">![[characters-yeldarb.png|left|240x363]]</a>
