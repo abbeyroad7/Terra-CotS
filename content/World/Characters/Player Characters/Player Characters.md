@@ -1,4 +1,4 @@
-### The Ball Fondlers
+# The Ball Fondlers
 
 <a href="World/Characters/Player Characters/Borislav.md">![[characters-borislav.png|left|240x363]]</a>
 <a href="World/Characters/Player Characters/Freya.md">![[characters-freya.png|left|240x363]]</a>
@@ -8,5 +8,5 @@
 
 ------------------
 
-### Guest Characters
+# Guest Characters
 - 
