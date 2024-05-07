@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h4>Next Session: May 14, 2024</h4>
+		<h4>Next Session: May 14 @6:30pm</h4>
 		<	/br>
 		<	/br>
 		<h4>Navigation</h4>
