@@ -12,6 +12,7 @@ html {
 body,
 section {
   max-width: 100%;
+  margin-left: -4rem;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
