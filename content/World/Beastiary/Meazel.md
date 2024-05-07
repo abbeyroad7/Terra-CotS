@@ -1,3 +1,10 @@
-![[meazel.webp|right|280x348]]
+![[meazel.webp|right|328]]
 
-A grotesque and nearly hairless biped, the meazel lurks in underdark environments, and attacks its victims from behind, garroting smaller prey or in the case of larger prey, by lunging at them in the dark and teleporting them into a nearby lair, where other foul creatures finish off the unsuspecting victim.
+# Background
+A grotesque and nearly hairless biped, the meazel lurks in underdark environments, and attacks its victims from behind, garroting smaller prey to death. In the case of larger prey, the meazel prefers to lunge at them whilst they are unaware and teleport them into a nearby lair, where other foul creatures are able to finish off the unsuspecting victim.
+
+-------------------------------
+# Encounters
+The party first encountered a meazel in the sewer system below Aurelia. Locals referred to the creature as the Murkwhisperer. This biped attacked the party with [[DND/Quartz/World/Characters/Allies/Peroc, the Scavenger|Peroc]] and his cat, [[Tarog, the Tabby Cat|Tarog]] leading the way. It successfully lurched onto [[Scribbles]], disappearing the Kenku into a visage of black smoke. Scribbles was left all alone in a pitch black room, but he could hear the scampering feet of the arachnid horror that crept upon him. He battled the swarm off, and returned to the Ball Fondlers in tact. Meanwhile, the party battled the creature but upon being struck and bloodied, it had escaped into the darkness.
+
+On their voyage back into the sewers to repair the broken water level lever, the party yet again met face to face with the mysterious underdark monster. He managed to grab ahold of [[Yeldarb]] and sent him into a cavern occupied by the Spider Mother - a Giant Spider who's made the sewer system her dominion for decades. [[Yeldarb]] single-handedly defeated the arachnid and returned to the party. The Ball Fondlers had split into two groups in search for Yeldarb, leaving [[Scribbles]] with [[Squall]] and [[Gareth]]. In this time, the Meazel, with the help of a spider swarm, managed to overwhelm the three adventurers, and left them all unconscious. [[Borislav]] dashed back to his comrades and fought off the beast. After it sustained multiple slashes from the human male's halberd, it attempted to slink back into the shadows and escape once again, but with one last blinded slash, [[Borislav|Borislav the Fighter]] struck down the Murkwhisperer once and for all!
