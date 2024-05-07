@@ -1,4 +1,4 @@
-![[Skulk.png|center-right|348x348]]
+![[Skulk.png|right|348x348]]
 # Description
 Skulks are violent, invisible entities only visible by reflection. On the rare occasions when a skulk is visible, it appears as a drab, hairless biped.
 # Encounters

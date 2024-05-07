@@ -1,5 +1,4 @@
-
-![[meazel.webp|left|328]]
+![[meazel.webp|right|328]]
 
 # Background
 A grotesque and nearly hairless biped, the meazel lurks in underdark environments, and attacks its victims from behind, garroting smaller prey to death. In the case of larger prey, the meazel prefers to lunge at them whilst they are unaware and teleport them into a nearby lair, where other foul creatures are able to finish off the unsuspecting victim.
