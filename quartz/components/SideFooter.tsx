@@ -26,7 +26,7 @@ export default ((opts?: Options) => {
 
 SideFooter.css = `
 .side-footer {
-  margin-top: 8rem;
+  margin-top: 4rem;
   margin-left: -8rem;
   line-height: 55%;
   
