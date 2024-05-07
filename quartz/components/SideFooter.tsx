@@ -14,8 +14,7 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h4>Next Session: May 14 @6:30pm</h4>
-		<br></br>
+		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
 		<br></br>
 		<h4>Navigation</h4>
           {Object.entries(linksSide).map(([text, linksSide]) => (
@@ -27,9 +26,13 @@ export default ((opts?: Options) => {
 
 SideFooter.css = `
 .side-footer {
-  margin-top: -12rem;
+  margin-top: 0rem;
   margin-left: -8rem;
   line-height: 55%;
+  
+  h3 {
+	  line-height: 130%;
+  }
 }
 `
 
