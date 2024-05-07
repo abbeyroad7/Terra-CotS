@@ -1,5 +1,4 @@
 ---
-title: Terra Cataclysm of the Shattered
 sidebody: "Next session: May 14, 2024"
 ---
 # Welcome to the Lore.

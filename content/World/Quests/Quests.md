@@ -1,11 +1,10 @@
-This is the landing page for the Quests page.
-![[quests.png|center-left]]
+![[quests.png|right]]
 
-<font size=5><u>Active</u></font>
+# Active Quests
 - [[Vault Retrieval]]
 
 -----
-<font size=5><u>Index</u></font>
+# Quest Index
 %% Begin Waypoint %%
 - [[Repair the Lever, Kronk]]
 - [[Vault Retrieval]]
