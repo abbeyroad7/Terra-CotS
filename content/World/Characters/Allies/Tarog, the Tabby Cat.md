@@ -1,4 +1,4 @@
-![[Tarog, the Tabby.png|right|512]]
+![[Tarog, the Tabby.webp|right|292]]
 
 Tarog is a plump and playful orange tabby cat with bright green eyes and a mischievous streak. Despite his small size, he exudes confidence and curiosity, often darting around Peroc's feet as he goes about his scavenging expeditions. His fur is soft and well-groomed, a testament to the care and affection Peroc showers upon him.
 
