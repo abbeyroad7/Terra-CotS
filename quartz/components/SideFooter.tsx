@@ -33,6 +33,10 @@ SideFooter.css = `
   h3 {
 	  line-height: 130%;
   }
+  
+  @media (min-width:320px){
+	  margin-left: 0rem;
+  }
 }
 `
 
