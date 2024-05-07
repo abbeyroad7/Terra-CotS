@@ -34,7 +34,11 @@ SideFooter.css = `
 	  line-height: 130%;
   }
   
+  #Phone
   @media (min-width:320px){
+	  margin-left: 0rem;
+  }
+  @media (min-width:480px){
 	  margin-left: 0rem;
   }
 }
