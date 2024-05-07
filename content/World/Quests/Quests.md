@@ -1,4 +1,4 @@
-![[quests.png|right]]
+![[quests.png|left]]
 
 # Active Quests
 - [[Vault Retrieval]]
