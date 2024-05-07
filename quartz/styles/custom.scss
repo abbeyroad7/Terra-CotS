@@ -3,6 +3,13 @@
 
 .center{
 max-width: 60%;
+#Phone
+	@media (min-width:320px){
+	max-width: 100%;
+	}
+	@media (min-width:480px){
+	max-width: 100%;
+	}
 }
 
 .page-title {
