@@ -22,6 +22,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Icon from "./Icon"
 import SideBody from "./SideBody"
+import SideFooter from "./SideFooter"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   Breadcrumbs,
   Icon,
   SideBody,
+  SideFooter,
 }
