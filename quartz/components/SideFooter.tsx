@@ -26,7 +26,7 @@ SideFooter.css = `
 .side-footer {
   margin-top: -12rem;
   margin-left: -8rem;
-  line-height: 50%;
+  line-height: 55%;
 }
 `
 
