@@ -11,7 +11,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   const sidebody = fileData.frontmatter?.sidebody
   //test const description = joinSegments(baseDir, "/content/test.md")
   if (title) {
-    return <h1 class={classNames(displayClass, "side-body")}>{title}<br><br><font size="3">{sidebody}</font></br></br></h1>
+    return <h1 class={classNames(displayClass, "side-body")}><font size="3">{sidebody}</font></h1>
   } else {
     return null
   }
