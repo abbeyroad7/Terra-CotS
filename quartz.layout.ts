@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-  Component.PageTitle(),
+	Component.PageTitle(),
   ],
   footer: Component.Footer({
     links: {
@@ -21,6 +21,12 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.TagList(),
+	footer: Component.Footer({
+    links: {
+      "Discord": "https://discord.gg/uTk4Dyz8CB",
+	  "Foundry": "https://foundryredirect.com/tcs",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
+    },
   ],
   left: [
     //Component.MobileOnly(Component.Spacer()),
@@ -41,6 +47,12 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
   Component.Breadcrumbs(),
+  footer: Component.Footer({
+    links: {
+      "Discord": "https://discord.gg/uTk4Dyz8CB",
+	  "Foundry": "https://foundryredirect.com/tcs",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
+    },
   ],
   right: [
     Component.MobileOnly(Component.Spacer()),
