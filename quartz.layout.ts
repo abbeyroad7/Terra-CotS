@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       "Beastiary": "https://abbeyroad7.github.io/Terra-CoTs/World/Beastiary/Beastiary",
       "Characters": "https://abbeyroad7.github.io/Terra-CoTs/World/Characters/Characters",
       "Dictionary": "https://abbeyroad7.github.io/Terra-CoTs/World/Dictionary/Dictionary",
-      "Factions": "https://abbeyroad7.github.io/Terra-CoTs/World/Factions/Factions",
+      "Factions": "https://abbeyroad7.github.io/Terra-CoTs/World/Factions/Factions/Factions",
       "History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/History",
       "Items": "https://abbeyroad7.github.io/Terra-CoTs/World/Items/Items",
       "Quests": "https://abbeyroad7.github.io/Terra-CoTs/World/Quests/Quests",
