@@ -3,7 +3,6 @@
 # Active Quests
 - [[Vault Retrieval]]
 
------
 # Quest Index
 %% Begin Waypoint %%
 - [[Repair the Lever, Kronk]]
