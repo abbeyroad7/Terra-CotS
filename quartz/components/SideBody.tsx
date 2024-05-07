@@ -9,8 +9,11 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   const sidebody = fileData.frontmatter?.sidebody
   const sidebody2 = fileData.frontmatter?.sidebody2
   const sidebody3 = fileData.frontmatter?.sidebody3
-  
-  <h1 class={classNames(displayClass, "side-body")}>	<font size="3">{sidebody}	<br><br>{sidebody2}</br></br>	<br><br>{sidebody3}</br></br>		</font></h1>
+  if (sidebody) {
+    return <h1 class={classNames(displayClass, "side-body")}>	<font size="3">{sidebody}	<br><br>{sidebody2}</br></br>	<br><br>{sidebody3}</br></br>		</font></h1>
+  } else {
+    return <h1 class={classNames(displayClass, "side-body")}>	<font size="3">{sidebody}	<br><br>{sidebody2}</br></br>	<br><br>{sidebody3}</br></br>		</font></h1>
+  }
 }
 
 SideBody.css = `
