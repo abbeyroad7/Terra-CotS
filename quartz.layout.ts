@@ -52,9 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
     },
 	})),
     //Component.Breadcrumbs(),
-	
-	Component.DesktopOnly(Component.Outlinks()),
-	Component.DesktopOnly(Component.Backlinks()),
+
   
   ],
 }
@@ -87,9 +85,6 @@ export const defaultListPageLayout: PageLayout = {
       //"": "https://abbeyroad7.github.io/Terra-CoTs/World//",
     },
 	})),
-	
-	Component.DesktopOnly(Component.Outlinks()),
-	Component.DesktopOnly(Component.Backlinks()),
 	
   ],
   left: [
