@@ -23,6 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Icon from "./Icon"
 import SideBody from "./SideBody"
 import SideFooter from "./SideFooter"
+import Outlinks from "./Outlinks"
 
 export {
   ArticleTitle,
@@ -50,4 +51,5 @@ export {
   Icon,
   SideBody,
   SideFooter,
+  Outlinks,
 }

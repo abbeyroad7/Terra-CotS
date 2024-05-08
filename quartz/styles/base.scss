@@ -105,7 +105,7 @@ a {
 
 .mobile-only {
   display: none;
-  @media all and (max-width: -50px + $fullPageWidth) {
+  @media all and (max-width: $fullPageWidth) {
     display: initial;
   }
 }

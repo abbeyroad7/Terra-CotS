@@ -53,6 +53,8 @@ export const defaultContentPageLayout: PageLayout = {
 	})),
     //Component.Breadcrumbs(),
 	
+	Component.DesktopOnly(Component.Outlinks()),
+	Component.DesktopOnly(Component.Backlinks()),
   
   ],
 }
@@ -63,7 +65,7 @@ export const defaultListPageLayout: PageLayout = {
   Component.Breadcrumbs(),
   ],
   right: [
-    Component.MobileOnly(Component.Spacer()),
+    //Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Search()),
     //Component.DesktopOnly(Component.Explorer()),
     //Component.DesktopOnly(Component.SideBody()),
@@ -85,9 +87,14 @@ export const defaultListPageLayout: PageLayout = {
       //"": "https://abbeyroad7.github.io/Terra-CoTs/World//",
     },
 	})),
+	
+	Component.DesktopOnly(Component.Outlinks()),
+	Component.DesktopOnly(Component.Backlinks()),
+	
   ],
   left: [
-	Component.DesktopOnly(Component.Backlinks()),
+	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
+	Component.DesktopOnly(Component.RecentNotes()),
   ],
 }
