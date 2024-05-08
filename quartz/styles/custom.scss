@@ -3,13 +3,7 @@
 
 .page {
 	& .center{
-	max-width: 60%;
-	
-	@media all and (max-width: $mobileBreakpoint) {
-		max-width: 200%;
-		margin-left: 20rem;
-		}
-	}
+	max-width: 100%;
 }
 
 .page-title {
