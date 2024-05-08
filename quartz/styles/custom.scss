@@ -1,10 +1,8 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-.page {
-	& .center{
+.center{
 	max-width: 60%;
-	}
 }
 
 .page-title {
