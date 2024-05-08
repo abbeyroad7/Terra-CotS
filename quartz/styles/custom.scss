@@ -1,8 +1,13 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-.center{
-max-width: 60%;
+.page {
+	& .center{
+	max-width: 60%;
+	
+	@media all and (max-width: $mobileBreakpoint) {
+		max-width: 100%;
+	}
 }
 
 .page-title {
