@@ -1,6 +1,11 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+.center{
+	max-width: 80%;
+	margin-left: 4rem;
+}
+
 .page-title {
     height: 200px;
 }
