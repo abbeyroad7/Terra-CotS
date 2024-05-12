@@ -5,7 +5,6 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   const title = fileData.frontmatter?.title
   if (title) {
     return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>
-	<h4> v1.0.0</h4>
   } else {
     return null
   }
