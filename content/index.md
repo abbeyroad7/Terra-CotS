@@ -14,4 +14,8 @@
 <a href="World/Memories/Memories.md">![[memories.png|left|240x363]]</a>
 <a href="World/Memories/Getting-Started.md">![[getting-started.png|left|240x363]]</a>
 
+
+
+--------------------------
+
 <iframe frameBorder="0" width="600" height="100" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe>
