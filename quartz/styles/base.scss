@@ -100,6 +100,10 @@ a {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
     display: none;
+	.center{
+		max-width: 60%;
+		margin-left: -4rem;
+	}
   }
 }
 
