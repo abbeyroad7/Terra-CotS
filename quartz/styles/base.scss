@@ -111,7 +111,8 @@ a {
   @media all and (max-width: $fullPageWidth) {
     display: none;
 	.center{
-		margin-left: 4rem;
+		max-width: 140%;
+		margin-left: 16rem;
 	}
   }
 }
