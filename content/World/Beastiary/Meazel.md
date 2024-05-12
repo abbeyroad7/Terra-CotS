@@ -1,4 +1,4 @@
-![[meazel.webp|right|328]]                                   ![image|256x358](https://cdnb.artstation.com/p/assets/images/images/066/940/283/large/nikolai-chugunov-meazel-nikolai-chugunov-textures-01.jpg)
+![[meazel.webp|right|328]]
 
 # Background
 The meazel is a grotesque and thinly-haired biped that lurks in the underdark. Little is known of its origin, but it is believed that the creature is a twisted human soul, tormented and mutated from the Ethereal plane. It prefers to attack its victims from behind, often using a garrot or its bare hands to strangle small prey. With larger beasts, the meazel instead chooses to lunge at them, using its shadow-teleport ability to a nearby lair, where other foul creatures are waiting to feed.
