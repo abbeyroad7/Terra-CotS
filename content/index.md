@@ -12,4 +12,4 @@
 <a href="World/Religion/Religion.md">![[religion.png|left|240x363]]</a>
 <a href="World/Misc/Misc.md">![[misc.png|left|240x363]]</a>
 <a href="World/Memories/Memories.md">![[memories.png|left|240x363]]</a>
-<a href="World/Memories/Getting-Started.md">![[getting-started.png|left|240x363]]</a> <iframe frameBorder="0" width="600" height="100" marginwidth="50" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe>
+<a href="World/Memories/Getting-Started.md">![[getting-started.png|left|240x363]]</a>    <div style="padding:50px;"><iframe frameBorder="0" width="600" height="100" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe></div>
