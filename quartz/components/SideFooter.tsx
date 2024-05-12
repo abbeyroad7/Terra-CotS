@@ -14,7 +14,6 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<div style="padding:5px;"><iframe frameBorder="0" width="300" height="300" hspace="10" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
 		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
 		<br></br>
 		
@@ -22,7 +21,8 @@ export default ((opts?: Options) => {
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
           ))}
-
+		
+		<div style="padding:5px;"><iframe frameBorder="0" width="300" height="300" hspace="10" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
       </sidefooter>
     )
   }
