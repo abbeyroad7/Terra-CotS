@@ -19,7 +19,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   }
   
   if (home) {
-	  return <div style="padding:5px;"><iframe frameBorder="0" width="300" height="300" hspace="10" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
+	  return <h1 class={classNames(displayClass, "side-body")}> <div style="padding:5px;"><iframe frameBorder="0" width="300" height="300" hspace="10" src="https://bestvibes.me/quote-of-the-day"></iframe></div> </h1>
   } else {
 	  return null
   }
