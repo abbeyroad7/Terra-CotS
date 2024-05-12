@@ -12,7 +12,7 @@ html {
 body,
 section {
   max-width: 100%;
-  margin-left: -2rem;
+  margin-left: 0rem;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -100,20 +100,13 @@ a {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
     display: none;
-	.center{
-		margin-left: -4rem;
-	}
   }
 }
 
 .mobile-only {
-  display: initial;
+  display: none;
   @media all and (max-width: $fullPageWidth) {
-    display: none;
-	.center{
-		max-width: 140%;
-		margin-left: 16rem;
-	}
+    display: initial;
   }
 }
 
