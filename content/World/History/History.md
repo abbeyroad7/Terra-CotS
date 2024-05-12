@@ -3,6 +3,7 @@ This is the landing page for the History page.
 
 %% Begin Waypoint %%
 - **Conflicts**
+	- [[Arcana Question]]
 	- [[Cataclysm of the Shattered]]
 	- [[The Arcanum Wars]]
 	- [[The Divine Restoration]]
