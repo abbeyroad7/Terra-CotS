@@ -108,6 +108,11 @@ a {
   @media all and (max-width: $fullPageWidth) {
     display: initial;
   }
+	body,
+	section {
+	max-width: 150%;
+	margin-left: 10rem;
+	}
 }
 
 .page {
