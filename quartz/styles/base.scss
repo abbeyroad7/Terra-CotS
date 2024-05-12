@@ -101,7 +101,6 @@ a {
   @media all and (max-width: $fullPageWidth) {
     display: none;
 	.center{
-		max-width: 60%;
 		margin-left: -4rem;
 	}
   }
@@ -111,6 +110,9 @@ a {
   display: none;
   @media all and (max-width: $fullPageWidth) {
     display: initial;
+	.center{
+		margin-left: 4rem;
+	}
   }
 }
 
