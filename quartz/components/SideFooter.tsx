@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<iframe frameBorder="0" width="400" height="100" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe>
+		<iframe frameBorder="10" width="250" height="250" src="https://bestvibes.me/quote-of-the-day></iframe>
 		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
 		<br></br>
 		
