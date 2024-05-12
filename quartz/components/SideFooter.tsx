@@ -22,7 +22,7 @@ export default ((opts?: Options) => {
           ))}
 		  
 		<br></br>
-		<div style="padding:50px;"><iframe frameBorder="0" width="600" height="100" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe></div>
+		<div style="padding:50px;"><iframe frameBorder="0" width="300" height="50" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe></div>
 
       </sidefooter>
     )
