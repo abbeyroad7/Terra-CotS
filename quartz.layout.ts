@@ -66,7 +66,6 @@ export const defaultListPageLayout: PageLayout = {
     //Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Search()),
     //Component.DesktopOnly(Component.Explorer()),
-    //Component.DesktopOnly(Component.SideBody()),
     Component.DesktopOnly(Component.SideBody()),
     Component.DesktopOnly(Component.SideFooter({
 		linksSide: {

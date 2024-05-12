@@ -9,10 +9,19 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   const sidebody = fileData.frontmatter?.sidebody
   const sidebody2 = fileData.frontmatter?.sidebody2
   const sidebody3 = fileData.frontmatter?.sidebody3
+  
+  const home = fileData.frontmatter?.home
+  
   if (sidebody) {
     return <h1 class={classNames(displayClass, "side-body")}>	<font size="3">{sidebody}	<br><br>{sidebody2}</br></br>	<br><br>{sidebody3}</br></br>		</font></h1>
   } else {
     return null
+  }
+  
+  if (home) {
+	  return <div style="padding:5px;"><iframe frameBorder="0" width="300" height="300" hspace="10" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
+  } else {
+	  return null
   }
 }
 
