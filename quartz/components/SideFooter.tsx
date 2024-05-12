@@ -22,7 +22,7 @@ export default ((opts?: Options) => {
           ))}
 		  
 		<br></br>
-		<a target="_blank" href="https://kwize.com/quote-of-the-day/"><img id="img-preview" style="width:100%; max-width:300px; min-height:185px;" src="/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a><a style="display:block; font-size:12px; color:black;" href="https://kwize.com/quote-of-the-day/">Quote of the day @Kwize</a>
+		<div><a target="_blank" href="https://kwize.com/quote-of-the-day/"><img id="img-preview" style="width:100%; max-width:300px; min-height:185px;" src="/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a><a style="display:block; font-size:12px; color:black;" href="https://kwize.com/quote-of-the-day/">Quote of the day @Kwize</a></div>
       </sidefooter>
     )
   }
