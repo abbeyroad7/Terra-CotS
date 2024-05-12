@@ -21,8 +21,8 @@ export default ((opts?: Options) => {
               <br><a href={linksSide}>{text}</a></br>
           ))}
 		  
-		<br></br>
-		<iframe frameBorder="0" width="300" height="50" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe>
+		<br></br><br></br>
+		<iframe frameBorder="0" width="400" height="75" src="https://kwize.com/quote-of-the-day/embed/&txt=0"></iframe>
 
       </sidefooter>
     )
