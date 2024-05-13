@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
       <sidefooter class={classNames(displayClass, "side-footer")}>
 		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
 		
-		<h4>Navigation	<p align="right">v1.39.22</p>	</h4>
+		<h4>Navigation	<align="right">v1.39.23</align>	</h4>
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
           ))}
