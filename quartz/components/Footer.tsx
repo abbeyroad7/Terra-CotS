@@ -27,7 +27,7 @@ export default ((opts?: Options) => {
 
   Footer.css = `
 .page-title {
-  margin-bottom: 10rem;
+  margin-bottom: 40rem;
 }
 `
   return Footer
