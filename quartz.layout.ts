@@ -29,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
 	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
 	Component.DesktopOnly(Component.RecentNotes()),
+	Component.DesktopOnly(Component.SideBody()),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -51,7 +52,6 @@ export const defaultContentPageLayout: PageLayout = {
     },
 	})),
     //Component.Breadcrumbs(),
-	Component.DesktopOnly(Component.SideBody()),
   
   ],
 }
@@ -65,7 +65,6 @@ export const defaultListPageLayout: PageLayout = {
     //Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Search()),
     //Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.SideBody()),
     Component.DesktopOnly(Component.SideFooter({
 		linksSide: {
       "-Home": "https://abbeyroad7.github.io/Terra-CoTs/",
@@ -89,5 +88,6 @@ export const defaultListPageLayout: PageLayout = {
 	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
 	Component.DesktopOnly(Component.RecentNotes()),
+	Component.DesktopOnly(Component.SideBody()),
   ],
 }
