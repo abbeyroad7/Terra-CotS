@@ -25,10 +25,6 @@ export default ((opts?: Options) => {
     )
   }
 
-  Footer.css = `
-.footer {
-  margin-bottom: 10rem;
-}
-`
+  Footer.css = style
   return Footer
 }) satisfies QuartzComponentConstructor
