@@ -1,21 +1,6 @@
-This is the landing page for the History page.
-![[history.png|center-left]]
-
-%% Begin Waypoint %%
-- **Conflicts**
-	- [[Arcana Question]]
-	- [[Cataclysm of the Shattered]]
-	- [[The Arcanum Wars]]
-	- [[The Divine Restoration]]
-	- [[The Witchfire Crusades]]
-- **Cultures**
-- **Historical Figures**
-	- [[Sorvyn, the Necromancer]]
-- **Points of Interest**
-	- [[Den of Necromancy]]
-- [[Terra]]
-- **Timeline**
-	- [[First Age]]
-	- [[Second Age]]
-
-%% End Waypoint %%
+![[History.png|center-left]]
+<a href="World/History/Conflicts/Conflicts.md">![[history-conflicts.png|left|240x363]]</a>
+<a href="World/History/Cultures/Cultures.md">![[history-cultures.png|left|240x363]]</a>
+<a href="World/History/Historical Figures/Historical Figures.md">![[history-historicalfigures.png|left|240x363]]</a>
+<a href="World/History/Points of Interest/Points of Interest.md">![[history-pointsofinterest.png|left|240x363]]</a>
+<a href="World/History/Timeline/Timeline.md">![[history-timeline.png|left|240x363]]</a>
