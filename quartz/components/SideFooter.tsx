@@ -14,8 +14,8 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h4>v1.39.0</h4>
 		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
+		<h4 align="right">v1.39.1</h4>
 		<h4>Navigation</h4>
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
