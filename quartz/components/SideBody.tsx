@@ -25,6 +25,7 @@ SideBody.css = `
 	#QOTD {
 		width:100%;
 		text-align:left;
+		margin-right: 5rem;
 	}
 }
 `
