@@ -35,6 +35,9 @@ SideFooter.css = `
   h3 {
 	  line-height: 130%;
   }
+  br {
+	  line-height: 70%;
+  }
 }
 `
 
