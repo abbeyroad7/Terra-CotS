@@ -15,7 +15,6 @@ export default ((opts?: Options) => {
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
 		<h4>v1.39.0</h4>
-		<br></br>
 		<h3>Next Session: Tuesday, May 14 @6:30pm CT</h3>
 		<br></br>
 		
