@@ -7,12 +7,10 @@ import { pathToRoot } from "../util/path"
 const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
   const sidebody = fileData.frontmatter?.sidebody
-  const sidebody2 = fileData.frontmatter?.sidebody2
-  const sidebody3 = fileData.frontmatter?.sidebody3
   
   const home = fileData.frontmatter?.home
   if (home) {
-	   return <h1 class={classNames(displayClass, "side-body")}>		<iframe src="https://bestvibes.me/quote-of-the-day" title="QOTD"></iframe>		</h1>
+	   return <h1 class={classNames(displayClass, "side-body")}>		<iframe src="https://bestvibes.me/quote-of-the-day" title="QOTD" height="300" width="300" hspace="5" vspace="5" ></iframe>		</h1>
   } else {
 	  return null
   }
