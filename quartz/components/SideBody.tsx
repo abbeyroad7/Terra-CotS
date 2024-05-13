@@ -10,7 +10,13 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   
   const home = fileData.frontmatter?.home
   if (home) {
-	   return <p align="left"><iframe src="https://bestvibes.me/quote-of-the-day" title="QOTD" height="300" width="300" hspace="5" vspace="5"></iframe></p>
+	   return
+	   <div id='QOTD'>
+		<iframe scrolling="no" frameborder="no" clocktype="html5" 
+		style="overflow:hidden;border:0;margin:0;padding:0;width:300px;height:75px;" 
+		src="https://bestvibes.me/quote-of-the-day"></iframe>
+		</div>
+
   } else {
 	  return null
   }
@@ -20,6 +26,11 @@ SideBody.css = `
 .side-body {
 	margin-top: 0rem;
 	margin-left: 0rem;
+	
+	#QOTD {
+		width:100%;
+		text-align:center;
+	}
 }
 `
 
