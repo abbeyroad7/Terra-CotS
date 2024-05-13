@@ -18,7 +18,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
 
 SideBody.css = `
 .side-body {
-	margin-top: 5rem;
+	margin-top: 15rem;
 	margin-left: 0rem;
 }
 `
