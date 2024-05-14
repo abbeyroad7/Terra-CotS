@@ -10,7 +10,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   
   const home = fileData.frontmatter?.home
   if (home) {
-	   return <div id='QOTD'><iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow-x:hidden;border:2;margin:10;padding:0;width:300px;height:300px;" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
+	   return <div id='QOTD'><iframe style="overflow-x:hidden;width:300px;height:300px;" src="https://bestvibes.me/quote-of-the-day"></iframe></div>
 
   } else {
 	  return null
