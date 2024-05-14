@@ -11,7 +11,11 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
   const home = fileData.frontmatter?.home
   if (home) {
 	   return (
-	   <sidebody class={classNames(displayClass, "side-body")}> <iframe style="overflow-x:hidden;width:300px;height:300px;" src="https://bestvibes.me/quote-of-the-day"></iframe>	</sidebody>
+	   <sidebody class={classNames(displayClass, "side-body")}> 
+			<div style="padding:15px;">
+			<iframe src="https://bestvibes.me/quote-of-the-day"
+			</div>
+	   </sidebody>
 	)
   } else {
 	  return null
@@ -21,7 +25,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
 SideBody.css = `
 .side-body {
 	margin-top: 0rem;
-	margin-right: -10rem;
+	margin-right: 0rem;
 	
 }
 `
