@@ -13,8 +13,7 @@ const SideBody: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
 	   return (
 	   <sidebody class={classNames(displayClass, "side-body")}> 
 			<div style="padding:15px;">
-			<iframe src="https://bestvibes.me/quote-of-the-day"
-			</div>
+			<iframe src="https://bestvibes.me/quote-of-the-day"></div>
 	   </sidebody>
 	)
   } else {
