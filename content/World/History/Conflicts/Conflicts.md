@@ -1,5 +1,5 @@
-This is the landing page for Allies.
-![[characters-allies.png|center-left]]
+This is the landing page for Conflicts.
+![[history-conflicts.png|center-left]]
 
 %% Begin Waypoint %%
 - [[Arcana Question]]
