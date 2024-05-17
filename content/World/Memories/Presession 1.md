@@ -1,4 +1,4 @@
-![[00-01 Freya.webp|512|center]]
+![[00-01 Freya.webp|center|768]]
 
 ---------------------------------
 # That Time the Fire Genasi Befriended a Polar Bear
@@ -6,7 +6,7 @@ After being exiled to the tundras of Ettnia, Freya set up camp in  a remote area
 
 With no lure or net in hand, she used Speak with Animals again to call out to the fish to trick them into coming to shore. She managed to catch 2, but could not catch a third. With her sleight of hand, she chopped up the second fish in half and through the pieces out to vivacious polar bear, who didn't realize he had been tricked. It was then that they started their friendship, and Freya's igloo shortly became home to the bear as well.
 ![[pagebreak.webp|center]]
-![[00-01 Borislav.webp|512|center]]
+![[00-01 Borislav.webp|center|768]]
 
 -----------
 # The Death of Emeric

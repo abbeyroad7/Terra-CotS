@@ -5,6 +5,7 @@
 
 # Quest Index
 %% Begin Waypoint %%
+- [[A Faenapping]]
 - [[Repair the Lever, Kronk]]
 - [[Vault Retrieval]]
 

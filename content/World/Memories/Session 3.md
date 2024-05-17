@@ -1,4 +1,4 @@
-![[03.webp|512|center]]
+![[03.webp|center|512]]
 
 ---------------------------------
 # That Time the Fire Genasi Befriended a Polar Bear

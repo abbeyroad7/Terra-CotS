@@ -1,4 +1,4 @@
-![[RepairTheLever.webp|right|256]]
+![[Repair the Lever, Kronk.webp|right|256]]
 
 In the depths of the Aurelian sewers, the party came upon an empty alcove, which held an old and unlabeled wooden lever. Curious, [[Yeldarb]] pulled it with all his strength, and snapped the handle in two, ensuring that it stood stuck in the on-position. As he pulled, the sound of heavy cog-wheels creaked. Outside the room, the sewer pipe leading to the second level of the sewer system, emptied of water - allowing the party to scramble up the pipe and into the second level.
 

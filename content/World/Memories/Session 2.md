@@ -1,4 +1,4 @@
-![[02.webp|512|center]]
+![[02.webp|center|768]]
 
 ---------------------------------
 # From three to four
