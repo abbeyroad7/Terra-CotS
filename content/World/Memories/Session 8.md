@@ -1,0 +1,1 @@
+After arriving back at [[Arcane Liberation Front]] HQ
