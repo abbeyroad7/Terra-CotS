@@ -1,4 +1,3 @@
-![[pagebreak.webp|center]]
 ![[00-01 Freya.webp|512|center]]
 
 ---------------------------------
@@ -9,6 +8,7 @@ With no lure or net in hand, she used Speak with Animals again to call out to th
 ![[pagebreak.webp|center]]
 ![[00-01 Borislav.webp|512|center]]
 
+-----------
 # The Death of Emeric
 On a regular patrol through [[Zeilona]], Borislav and his comrade, Emeric, encountered a Gloridian patrol. The two soldiers fought for their lives and managed to fend off the invaders, but Emeric ultimately succumbed to his wounds - dying in Borislav's arms. The passing of his friend deeply affected Borislav, and perhaps became the most traumatic event in his entire servitude to the Zeilonan Army.
 ![[pagebreak.webp|center]]
