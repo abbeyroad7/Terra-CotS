@@ -1,8 +1,10 @@
+![[header.webp]]
 ![[03.webp|center|512]]
 
 ---------------------------------
-# That Time the Fire Genasi Befriended a Polar Bear
-After being exiled to the tundras of Ettnia, Freya set up camp in  a remote area by a lake full of fish. One day, a polar bear wandered into her camp. When Freya attempted to fight off the bear, she quickly learned she could not defeat the large mammal and chose instead to reason with the beast. Using Speak with Animals, she managed to convince the bear that she could wrestle up some fish, 3 specimens to be exact, as a peace offering.
+# Skulks in Anmouth
+As the newly-formed Ball Fondlers lead [[Bergil]] and [[Reggie]] to Aurelia, they bring the wagon to a stop in a small town named Anmouth. They strangely find the town center deserted at midday.
 
-With no lure or net in hand, she used Speak with Animals again to call out to the fish to trick them into coming to shore. She managed to catch 2, but could not catch a third. With her sleight of hand, she chopped up the second fish in half and through the pieces out to vivacious polar bear, who didn't realize he had been tricked. It was then that they started their friendship, and Freya's igloo shortly became home to the bear as well.
+As they investigate the tavern, they discover the establishment empty of patrons. [[Borislav]] and [[Goobert]] enter into the kitchen and look for clues. Here they find a hastily-mopped blood-stain behind the leg of a preparation table. As they continue their search, they hear a ghostly whisper behind them. They run to the dining room to join [[Freya]] and find a prepared feast of potatoes and turkey. Famished, Borislav takes a bite of the turkey, and notes that it has no seasoning. Another unembodied whisper passes by the group, they flee outside and look into the church across the townsquare.
 ![[pagebreak.webp|center]]
+
