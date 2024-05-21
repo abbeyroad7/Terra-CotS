@@ -4,6 +4,7 @@ The Arcane Liberation Front, or ALF, is a resistance movement based out of the A
 
 It is said they harbor multiple underground cells across the lands of Gloridia and the Duchy of Westler.
 
+----------------
 # Organization
 Members of the ALF include:
 - [[Fjornir Thornbrook]]
