@@ -1,4 +1,4 @@
-![[A Faenapping.webp|right|256]]
+![[A Faenapping.webp|right|512]]
 
 Impressed by the party's conduct for survival in the Aurelian sewers, [[Fjornir]] formally invited them to join the [[Arcane Liberation Front]]. After some nonserious discussion, the party agreed to help the resistance faction in their quest to liberate arcana in the world of Terra.
 
