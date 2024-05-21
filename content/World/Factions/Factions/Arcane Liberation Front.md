@@ -1,4 +1,4 @@
-![[header.webp|sban]]
+# Background
 ![[Arcane Liberation Front.webp|right|256]]
 The Arcane Liberation Front, or ALF, is a resistance movement based out of the Aurelian sewers. Their mission statement is 'to liberate the use of Arcana and harness its power for the well-being of all peoples worldwide'.
 
