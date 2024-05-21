@@ -1,6 +1,8 @@
 ![[Arcana1.webp|right]]
+
 # Introduction
 The source of magical energy in the world of Terra.
+![[pagebreak.webp]]
 
 # Schools of Arcana
 ## Divination
