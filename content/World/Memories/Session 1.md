@@ -1,4 +1,3 @@
-![[header.webp]]
 # The Long and Winding Road
 [[Borislav]] departs from the town of Thatchking, pulling a horse-drawn carriage to [[Aurelia]] to look for new employment. The fighter seeks to provide stability for his family back home in war-torn [[Zeilona]].  Along the dirt road, he passes a mighty Goliath Barbarian named [[Yeldarb]]. The two introduce themselves and reveal they are both traveling to Aurelia. They decide to ride onward together. As they continue into the night, Borislav notices something out of the corner of his eye - what appears to be an amorphous blob following them.
 
