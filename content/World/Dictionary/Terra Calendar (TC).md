@@ -7,7 +7,7 @@
 The first month of the year. A time when the winter frost begins to melt.
 
 ## Verd
-Second month. Winter's frost has mostly fully-melted by this point, with the coming of rain and spring.
+Second month. Coming of rain and spring.
 
 ## Tonn
 Third month. A month of storm.

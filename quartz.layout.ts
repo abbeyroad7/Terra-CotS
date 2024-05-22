@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
 	
 	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
-	Component.DesktopOnly(Component.RecentNotes()),
+	//Component.DesktopOnly(Component.RecentNotes()),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -88,6 +88,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
 	Component.DesktopOnly(Component.Icon()),
 	Component.DesktopOnly(Component.Graph()),
-	Component.DesktopOnly(Component.RecentNotes()),
+	//Component.DesktopOnly(Component.RecentNotes()),
   ],
 }
