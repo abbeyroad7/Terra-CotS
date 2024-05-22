@@ -1,5 +1,6 @@
-![[Chapter 1 - Dusk.svg]]
+![[Chapter 1 - Dusk.svg|center|1024]]
 
+![[pagebreak.webp]]
 # Indexed Memories
 %% Begin Waypoint %%
 - [[Presession 1]]
