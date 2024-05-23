@@ -1,5 +1,6 @@
 ![[Peroc, the Scavenger.webp|right|512]]
 
+# Background
 Peroc is a resourceful and opportunistic half-orc. He's always on the lookout for what he refers to as 'reshza'.
 
 Despite his rough exterior, he possesses a sharp wit and at times a sly sense of humor. He is fiercely independent and distrustful of authority, preferring to operate on the fringes of society where he can carve out his own path. However, he is not without a sense of loyalty, and those who earn his trust will find a steadfast ally in him.

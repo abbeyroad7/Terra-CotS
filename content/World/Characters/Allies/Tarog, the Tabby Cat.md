@@ -1,5 +1,5 @@
 ![[Tarog, the Tabby.webp|right|292]]
-
+# Background
 Tarog is a plump and playful orange tabby cat with bright green eyes and a mischievous streak. Despite his small size, he exudes confidence and curiosity, often darting around Peroc's feet as he goes about his scavenging expeditions. His fur is soft and well-groomed, a testament to the care and affection Peroc showers upon him.
 
 Tarog was a stray kitten that Peroc stumbled upon during one of his scavenging runs through the city streets. Drawn to the kitten's scrappy demeanor and independent spirit, Peroc took him in and quickly formed a bond with him. Since then, Tarog has become Peroc's loyal companion, accompanying him on his adventures and serving as both a source of comfort and entertainment during long nights spent in the wilderness.
