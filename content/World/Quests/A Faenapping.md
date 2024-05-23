@@ -4,5 +4,5 @@ Impressed by the party's conduct for survival in the Aurelian sewers, [[Fjornir 
 
 The party chose to relinquish the Ball Fondlers moniker and reinvent themselves by choosing a new party title - the Good Guys and then, Yeldarb.
 
-Fjornia had [[Rasha]] design forged documentation for the party members and introduced to them their Celestrian identifier sashes.
+Fjornir had [[Rasha]] design forged documentation for the party members and introduced to them their Celestrian identifier sashes.
 
