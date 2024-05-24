@@ -11,3 +11,5 @@ He spent most of his time with his beak in the books rather than out on the town
 
 # Evolution
 In short time after joining the Ball Fondlers, Scribbles and his comrades came upon a druidic spellbook in the abandoned Tanner's Market just outside the city walls of Aurelia. Here, they gathered the necessary ingredients, including Borislav's spit, and concocted what [[Freya]] translated as the [[Phylactery of Yappery]]. With this potion, Scribbles was granted the ability to speak the Common tongue.
+
+![[pagebreak.webp]]

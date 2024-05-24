@@ -9,4 +9,5 @@
 ------------------
 
 # Guest Characters
-- 
+
+<a href="World/Characters/Player Characters/Guest Characters/Elli Peer.md">![[characters-elli.webp|left|240x363]]</a>
