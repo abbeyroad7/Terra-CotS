@@ -20,8 +20,8 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
   	//Component.ArticleTitle(),
-    Component.Breadcrumbs(),
-    Component.TagList(),
+    //Component.Breadcrumbs(),
+    //Component.TagList(),
   ],
   left: [
     //Component.MobileOnly(Component.Spacer()),
@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Search(),
+    Component.DesktopOnly(Search()),
     Component.DesktopOnly(Component.SideFooter({
 		linksSide: {
       "-Home": "https://abbeyroad7.github.io/Terra-CoTs/",
@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-  Component.Breadcrumbs(),
+  //Component.Breadcrumbs(),
   ],
   right: [
     //Component.MobileOnly(Component.Spacer()),
