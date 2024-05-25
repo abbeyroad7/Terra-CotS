@@ -8,7 +8,7 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   } else {
 	  const title = fileData.frontmatter?.title
 		if (title) {
-			return <div class={classNames(displayClass, "article-title")} style="font-size: 40px;">{title}</div>
+			return <div class={classNames(displayClass, "article-title")} style="font-size: 40px;"><b>{title}</b></div>
 		} else {
 			return null
 		}

@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 This is the landing page for Allies.
 ![[characters-allies.png|center-left]]
 
