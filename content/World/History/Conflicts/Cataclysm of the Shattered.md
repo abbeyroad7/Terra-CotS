@@ -5,4 +5,4 @@ Svalgheim = Swallowed World (purgatory)
 
 to resurrect an army raised from demonic forces of [[Aiskhel]] and [[Svalgheim]].
 
-Between 1373 and 1388 [[TC]], [[Sorvyn|Sorvyn the Necromancer]] amassed
+Between 1373 and 1388 [[Terra Calendar (TC)|TC]], [[Sorvyn, the Necromancer|Sorvyn]] amassed

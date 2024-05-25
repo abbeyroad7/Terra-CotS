@@ -1,4 +1,4 @@
-![[02.webp|center|768]]
+![[Session 2.webp|center|768]]
 
 ---------------------------------
 # From three to four

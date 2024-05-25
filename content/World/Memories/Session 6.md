@@ -1,6 +1,6 @@
-![[Session 8.webp|right|768]]
+![[Session 6.webp|right|768]]
 
 ---------------------------------
-# A Faenapping
+# 
 
 ![[pagebreak.webp|center]]

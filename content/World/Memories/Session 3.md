@@ -1,4 +1,4 @@
-![[03.webp|center|512]]
+![[Session 3.webp|center|512]]
 
 ---------------------------------
 # Skulks in Anmouth
