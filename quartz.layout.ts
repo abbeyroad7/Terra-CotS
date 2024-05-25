@@ -19,8 +19,7 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-	Component.PageTitle(),
-  	//Component.ArticleTitle(),
+  	Component.ArticleTitle(),
     //Component.Breadcrumbs(),
     //Component.TagList(),
   ],
@@ -47,7 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
       "-Religion": "https://abbeyroad7.github.io/Terra-CoTs/World/Religion/Religion",
       "-Misc": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Misc",
       "-Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
-      "-Getting Started": "https://abbeyroad7.github.io/Terra-CoTs/World/Getting-Started/Getting-Started",
       //"": "https://abbeyroad7.github.io/Terra-CoTs/World//",
     },
 	})),
@@ -59,7 +57,6 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-  Component.PageTitle(),
   ],
   right: [
     //Component.MobileOnly(Component.Spacer()),
