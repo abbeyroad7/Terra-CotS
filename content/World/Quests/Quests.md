@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 ![[quests.png|left]]
 
 # Active Quests

@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 This is the landing page for Conflicts.
 ![[history-conflicts.png|center-left]]
 

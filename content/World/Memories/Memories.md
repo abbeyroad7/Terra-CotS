@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 ![[Chapter 1 - Dusk.svg|center|1024]]
 
 ![[pagebreak.webp]]

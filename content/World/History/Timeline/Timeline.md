@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 This is the landing page for Timeline.
 ![[history-timeline.png|center-left]]
 

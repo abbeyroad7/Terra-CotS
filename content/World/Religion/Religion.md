@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 This is the landing page for the Religions page.
 ![[religion.png|center-left]]
 

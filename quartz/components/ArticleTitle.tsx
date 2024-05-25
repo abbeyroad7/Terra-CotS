@@ -13,8 +13,6 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
 			return null
 		}
   }
-	
-  
 }
 
 ArticleTitle.css = `

@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 ![[history.png|center-left]]
 <a href="World/History/Conflicts/Conflicts.md">![[history-conflicts.png|left|240x363]]</a>
 <a href="World/History/Cultures/Cultures.md">![[history-cultures.png|left|240x363]]</a>
