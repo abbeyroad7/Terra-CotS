@@ -1,4 +1,6 @@
  <font size="15"><center>City Map</center></font>
+ ![[aurelia.jpg|wmed|center]]
+ 
  ![[aurelia.jpg|center|1024x1024]]
 
 <center>The Capital city and its districts.</center>
