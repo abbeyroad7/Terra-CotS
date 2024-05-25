@@ -32,6 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.SideFooter({
 		linksSide: {
       "-Home": "https://abbeyroad7.github.io/Terra-CoTs/",
