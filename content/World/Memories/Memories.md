@@ -15,7 +15,5 @@ landing: "true"
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
-- **Timeline**
-	- [[Chapter 1 - Dusk]]
 
 %% End Waypoint %%
