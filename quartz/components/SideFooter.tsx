@@ -17,11 +17,14 @@ export default ((opts?: Options) => {
 		<h3>Next Session: Tuesday, May 28 @6:30pm CT</h3>
 
 		<h4 style="text-align: left; width:49%; display: inline-block;">Navigation</h4>
-		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.44.071</h4>
+		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.44.072</h4>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
           ))}
+	<br><br>
+		<h4 style="text-align: right; width:50%;  display: inline-block;">Due to an issue in Quartz, you will need to zoom out in your browser until both sidebars are visible.</h4>
+	</br></br>
       </sidefooter>
     )
   }
