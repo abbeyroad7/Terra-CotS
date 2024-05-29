@@ -1,0 +1,23 @@
+-  <span style="background:rgba(3, 135, 102, 0.2)">Names</span>: Town of Writhe, wingnuts, bungo, Arcadia,
+- Incan punishment, tie to post and group of llamas spit
+- diet of bread and water/painful constipation
+- Ghost sickness
+- God Aspects
+- Scribbler's spellbook is stolen
+- contractual quests
+- Palechurch refuge
+- What made Anmouth turn to Scion?
+- Underground quest board
+- Scorned peoples for Arilias
+- Thalos lives
+- battletypes - racing, sports, stylepoint
+- Lich, soul item
+- greeders, raider name
+- forest buffalo
+- saw game killer quest, recruit to escape
+- celesteia worships necromancer
+- Thalos tricks celestrian conservatives to do his bidding
+- Thalos is attempting to open the portal to the shadowrealm™
+- earth magic hrows to eat town
+- iron monger
+- Sax dagger, Bogi bow, Ormr serpent sword, Skyrendr sword, 

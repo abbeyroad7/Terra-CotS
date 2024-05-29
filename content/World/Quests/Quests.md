@@ -4,7 +4,6 @@ landing: "true"
 ![[quests.png|left]]
 
 # Active Quests
-- [[A Faenapping]]
 - [[Vault Retrieval]]
 
 # Quest Index
