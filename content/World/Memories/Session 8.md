@@ -1,4 +1,4 @@
-![[Session 8.webp|right|768]]
+![[Session 8.webp|center|768]]
 
 ---------------------------------
 # A Faenapping

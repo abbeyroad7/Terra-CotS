@@ -1,4 +1,4 @@
-![[<% tp.file.title %>.webp|right|768]]
+![[<% tp.file.title %>.webp|center|768]]
 
 ---------------------------------
 # 

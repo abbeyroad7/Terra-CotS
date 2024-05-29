@@ -1,4 +1,4 @@
-![[Session 4.webp|right|768]]
+![[Session 4.webp|center|768]]
 
 ---------------------------------
 # 
