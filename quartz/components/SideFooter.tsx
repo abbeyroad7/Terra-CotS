@@ -14,17 +14,14 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h3>Next Session: Tuesday, May 28 @6:30pm CT</h3>
+		<h3>Next Session: Tuesday, June 11 @6:30pm CT</h3>
 
 		<h4 style="text-align: left; width:49%; display: inline-block;">Navigation</h4>
-		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.44.076</h4>
+		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.44.077</h4>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
           ))}
-	<br><br><br><br>
-		<div style="text-align: right; width:100%;  display: inline-block; font-size: 14px; line-height: 120%;">Due to an issue in Quartz, you will need to zoom out in your browser until both sidebars are visible.</div>
-	</br></br></br></br>
       </sidefooter>
     )
   }
