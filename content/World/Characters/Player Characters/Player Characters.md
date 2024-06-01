@@ -1,7 +1,7 @@
 ---
 landing: "true"
 ---
-# The Ball Fondlers
+# The Good Guys, and then Yeldarb
 
 <a href="World/Characters/Player Characters/Borislav.md">![[characters-borislav.png|left|240]]</a>
 <a href="World/Characters/Player Characters/Freya.md">![[characters-freya.png|left|240]]</a>

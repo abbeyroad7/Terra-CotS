@@ -1,6 +1,6 @@
 ```
 Requires: Leika's Stone
-Level 2 Spell
+Level 3 Spell
 ```
 
 By incantation, this spell invokes the [[Trickster God, Leika]] to conjure a glimpse into the past of a location at the caster's request.
