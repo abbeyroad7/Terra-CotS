@@ -9,5 +9,7 @@ This is the landing page for the Items page.
 	- [[The Teachings of the Hand of Scion]]
 - **Potions**
 	- [[Phylactery of Yappery]]
+- **Spells**
+	- [[Leika's Memory]]
 
 %% End Waypoint %%
