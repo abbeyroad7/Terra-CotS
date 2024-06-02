@@ -1,3 +1,6 @@
+---
+landing: "true"
+---
 This is the landing page for Beasts.
 ![[Characters-Beasts.webp|center-left]]
 
