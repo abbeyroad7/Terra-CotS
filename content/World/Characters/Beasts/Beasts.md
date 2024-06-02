@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Beasts.
-![[Characters-Beasts.webp|center-left]]
+![[characters-beasts.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Bergil, the Black Stallion]]

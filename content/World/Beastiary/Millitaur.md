@@ -1,4 +1,4 @@
-![[Millitaur.webp|right|328]]
+![[millitaur.webp|right|328]]
 
 # Background
 

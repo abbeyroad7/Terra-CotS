@@ -1,4 +1,4 @@
-![[Pombero.webp|right|328]]
+![[pombero.webp|right|328]]
 
 # Background
 
