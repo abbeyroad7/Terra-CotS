@@ -7,3 +7,5 @@ They are known for using venom to paralyze prey and feed on them after trapping 
 
 # Encounters
 The Ball Fondlers had encountered a Giant Spider, the mother to the swarms of baby arachnids that lurk in the Aurelian sewers.
+
+![[pagebreak.webp]]

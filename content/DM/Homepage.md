@@ -1,4 +1,4 @@
-[[Beastiary]]
+[[DND/Quartz/World/Beastiary/Beastiary]]
 [[Characters]]
 [[Dictionary]]
 [[Factions]]
