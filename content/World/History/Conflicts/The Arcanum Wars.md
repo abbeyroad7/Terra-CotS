@@ -6,6 +6,6 @@ After [[Arilias]] defeated [[Sorvyn]], the all-powerful God drew a deep breath i
 These events led to a continued global instability as regional powers vied for control of the newly-forged peninsula. Some sought to unbury the vast deposit of Arcana, while others tried to keep it hiden at all costs. After countless searches through the decades, the still-unfound deposit settled into the common mythos, as the [[Den of Necromancy]].
 
 ### Conclusion
-The end of the Arcanum Wars came when the lands of [[Thorq]] and [[Balfran]] signed a mutual Defense Pact with the [[Westler|Duchy of Westler]], leading to the signing of the [[Klaven Armistice]] shortly thereafter.
+The end of the Arcanum Wars came in 1564, when the lands of [[Thorq]] and [[Balfran]] signed a mutual Defense Pact with the [[Westler|Duchy of Westler]], leading to the signing of the [[Klaven Armistice]] shortly thereafter.
 
 What followed was nearly 70 years of uneasy global peace, as a renaissance of human and dwarf-led technology flourished with the decline of Arcane energy and a cold war between east and west emerged.
