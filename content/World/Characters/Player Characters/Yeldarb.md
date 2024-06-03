@@ -1,4 +1,4 @@
-![[Yeldarb.webp|left|368]]
+![[Yeldarb.webp|right|512]]
 
 
 # Introduction

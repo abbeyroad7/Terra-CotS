@@ -1,4 +1,4 @@
-![[Freya.webp|left|368]]
+![[Freya.webp|right|312]]
 
 
 # Introduction

@@ -1,4 +1,4 @@
-![[Goobert.webp|left|368]]
+![[Goobert.webp|right|412]]
 
 
 # Introduction

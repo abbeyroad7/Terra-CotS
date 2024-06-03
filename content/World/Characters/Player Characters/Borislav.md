@@ -1,4 +1,4 @@
-![[Borislav.webp|left|768]]
+![[Borislav.webp|right|612]]
 
 
 # Introduction
