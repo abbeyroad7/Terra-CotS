@@ -1,4 +1,4 @@
-![[<% tp.file.title %>.webp|right|328]]
+![[<% tp.file.title %>.webp|left|512]]
 
 # Background
 

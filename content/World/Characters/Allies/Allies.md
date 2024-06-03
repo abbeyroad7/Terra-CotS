@@ -9,6 +9,7 @@ This is the landing page for Allies.
 - [[Gareth Silverstream]]
 - [[Garla Skullgore]]
 - [[Gunnar Goldvein]]
+- [[Harold]]
 - [[Kalaron Thornscale]]
 - [[Lyra]]
 - [[Lyris Fren]]
