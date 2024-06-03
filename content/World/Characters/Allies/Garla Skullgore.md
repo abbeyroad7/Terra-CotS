@@ -1,6 +1,6 @@
 ![[Garla.webp|left|512]]
 # Background
-Garla Skullgore is an adolescent half-orc born out of the Forgehealm district in [[Aurelia]] to an orc mother and a human father. Growing up, she struggled with being outcast for being of mixed-race, along with the violence and worries of poverty.
+Garla Skullgore is a young adult half-orc born out of the Forgehealm district in [[Aurelia]] to an orc mother and a human father. Growing up, she struggled with being outcast for being of mixed-race, along with the violence and worries of poverty.
 
 In her teenage years, her parents were killed during [[The Witchfire Crusades]], cementing her life-long hatred for the [[Gloridia|Gloridian Empire]].
 
