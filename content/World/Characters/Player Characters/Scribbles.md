@@ -1,4 +1,4 @@
-![[Scribbles.webp|right|512]]
+![[Scribbles.webp|left|368]]
 
 
 # Introduction
