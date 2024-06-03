@@ -5,7 +5,7 @@ This is the landing page for Civilians.
 ![[characters-civilians.png|center-left]]
 
 %% Begin Waypoint %%
-- [[Batti]]
-- [[Wald]]
+- [[Batti, Innkeeper]]
+- [[Wald, Innkeeper]]
 
 %% End Waypoint %%
