@@ -11,7 +11,7 @@ Shortly after meeting the [[Arcane Liberation Front]] and discovering their livi
 
 There, they met face to face again with the Meazel. He lunged at [[Yeldarb]] and dropped him into a cavern occupied by the Spider Mother - a [[Giant Spider]], who'd made the sewer system her dominion.
 
-[[Yeldarb]] narrowly defeated the large arachnid despite sustaining critical injuries. Meanwhile, the Ball Fondlers had split into two groups in search for their missing Barbarian, leaving [[Scribbles]] to guard [[Squall]] and [[Gareth]], as the two worked to repair the lever.
+[[Yeldarb]] narrowly defeated the large arachnid despite sustaining critical injuries. Meanwhile, the Ball Fondlers had split into two groups in search for their missing Barbarian, leaving [[Scribbles]] to guard [[Squall, the Artificer]] and [[Gareth]], as the two worked to repair the lever.
 
 In this time, the Meazel, with the help of a spider swarm, attacked the three left-behind members, and left them all unconscious. [[Borislav]] dashed back to his comrades and fought off the beast. After it sustained multiple slashes from the human male's halberd, it attempted to slink back into the shadows and escape once again, but with one last desperate slash, [[Borislav|Borislav the Fighter]] managed to strike down the Murkwhisperer once and for all!
 

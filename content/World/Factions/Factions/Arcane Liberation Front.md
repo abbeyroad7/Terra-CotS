@@ -13,7 +13,7 @@ Members of the Arcane Liberation Front include:
 - [[Lyra]] - Half-orc. Supply runner.
 - [[Silvan Oakheart]] - Half-elf. Merchant.
 - [[Sam William]] - Human. [[Arilias, the One True Creator|Arilian]] priest.
-- [[Squall]] - Kenku. Artificer.
+- [[Squall, the Artificer]] - Kenku. Artificer.
 - [[Garla Skullgore]] - Half-orc. Third in command.
 - [[Lyris Fren]] - Satyr. Musical drunk.
 - [[Rasha Moonstar]] - Tabaxi. [[Keeper of Knowledge]]

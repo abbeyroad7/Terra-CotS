@@ -17,7 +17,7 @@ This is the landing page for Allies.
 - [[Rasha Moonstar]]
 - [[Sam William]]
 - [[Silvan Oakheart]]
-- [[Squall]]
+- [[Squall, the Artificer]]
 - [[Thalgar Thornscale]]
 - [[Torinn Thornscale]]
 - [[Vorka Thornscale]]

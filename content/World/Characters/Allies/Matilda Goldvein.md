@@ -1,4 +1,4 @@
-![[Matilda.webp|left|512]]
+![[Matilda.webp|left|368]]
 # Background
 
 
