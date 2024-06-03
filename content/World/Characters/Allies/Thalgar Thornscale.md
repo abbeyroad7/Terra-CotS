@@ -1,4 +1,4 @@
-![[Thalgar.webp|right|512]]
+![[Thalgar.webp|left|512]]
 # Background
 
 

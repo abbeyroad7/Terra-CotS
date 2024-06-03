@@ -1,4 +1,4 @@
-![[Peroc, the Scavenger.webp|right|512]]
+![[Peroc, the Scavenger.webp|left|512]]
 
 # Background
 Peroc is a resourceful and opportunistic half-orc. He's always on the lookout for what he refers to as 'reshza'.

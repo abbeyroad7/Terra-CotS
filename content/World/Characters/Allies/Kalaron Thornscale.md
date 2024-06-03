@@ -1,4 +1,4 @@
-![[Kalaron.webp|right|512]]
+![[Kalaron.webp|left|512]]
 # Background
 
 

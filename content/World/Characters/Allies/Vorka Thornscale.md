@@ -1,4 +1,4 @@
-![[Vorka.webp|right|512]]
+![[Vorka.webp|left|512]]
 # Background
 
 

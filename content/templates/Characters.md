@@ -1,4 +1,4 @@
-![[<% tp.file.title.split(' ')[0] %>.webp|right|512]]
+![[<% tp.file.title.split(' ')[0] %>.webp|left|512]]
 # Background
 
 

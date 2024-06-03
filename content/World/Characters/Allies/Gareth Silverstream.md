@@ -1,4 +1,4 @@
-![[Gareth.webp|right|512]]
+![[Gareth.webp|left|512]]
 # Background
 
 

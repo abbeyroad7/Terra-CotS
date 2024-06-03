@@ -1,4 +1,4 @@
-![[Sam William.webp|right|512]]
+![[Sam William.webp|left|512]]
 # Background
 
 

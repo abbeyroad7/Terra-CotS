@@ -1,4 +1,4 @@
-![[Garla.webp|right|512]]
+![[Garla.webp|left|512]]
 # Background
 
 

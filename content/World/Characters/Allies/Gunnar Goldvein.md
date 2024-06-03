@@ -1,4 +1,4 @@
-![[Gunnar.webp|right|512]]
+![[Gunnar.webp|left|512]]
 # Background
 
 

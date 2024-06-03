@@ -1,4 +1,4 @@
-![[Squall.webp|right|512]]
+![[Squall.webp|left|512]]
 # Background
 
 

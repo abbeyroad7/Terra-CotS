@@ -1,4 +1,4 @@
-![[Lyris.webp|right|512]]
+![[Lyris.webp|left|512]]
 # Background
 
 

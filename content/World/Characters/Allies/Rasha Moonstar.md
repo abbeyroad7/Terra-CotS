@@ -1,4 +1,4 @@
-![[Rasha.webp|right|512]]
+![[Rasha.webp|left|512]]
 # Background
 
 

@@ -1,4 +1,4 @@
-![[Lyra.webp|right|512]]
+![[Lyra.webp|left|512]]
 # Background
 
 

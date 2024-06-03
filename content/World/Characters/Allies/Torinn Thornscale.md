@@ -1,4 +1,4 @@
-![[Torinn.webp|right|512]]
+![[Torinn.webp|left|512]]
 # Background
 
 
