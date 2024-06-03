@@ -1,4 +1,4 @@
-![[Elli Peer.webp|right|368]]
+![[Elli Peer.webp|left|512]]
 
 
 # Introduction

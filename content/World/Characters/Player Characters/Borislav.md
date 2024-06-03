@@ -1,4 +1,4 @@
-![[Borislav.webp|left|512]]
+![[Borislav.webp|left|768]]
 
 
 # Introduction
@@ -9,6 +9,6 @@ Borislav was raised in a small agricultural village as the oldest of 8 siblings.
 
 A life of adventure surely waited there! His parents were strictly against the idea. thinking he'd get himself hurt, or worse, killed. The dream was temporarily crushed, but as food became harder and harder to come by, his folks begrudgingly accepted. He enlisted right away, did his basic training, and was away on his adventurous new life! ...Or so he thought. It was nothing but 5 years of standing guard, monthly patrols of the countryside, and training drills. There was the occasional brawl, sure, but the whole ordeal left a lot to be desired. The stipends weren't great either. He was barely able to send any money home. It was enough to live on, but he wanted his household to thrive.
 
-After his military service, he used his savings to buy all of his military-issue equipment from The Quartermaster and set out on the journey he's waited his whole life for
+After his military service, he used his savings to buy all of his military-issue equipment from The Quartermaster and set out on the journey he's waited his whole life for!
 
 ![[pagebreak.webp]]
