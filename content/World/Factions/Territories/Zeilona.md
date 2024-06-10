@@ -1,3 +1,4 @@
+# Introduction
 The bread basket of the west, Zeilona is an agrarian society known for its lush fields that follow the many rivers that flow through its flatlands.
 
 Many have attempted to conquer Zeilona in the times of Arcanum, but its rulers proved unyielding and its people steadfast. A trade ally of much of the west, including its much larger neighbor, Gloridia, since the inception of the [[Western Eternal Treaty of 1532]].
@@ -6,3 +7,5 @@ Unable to feed their population and simultaneously expand their conquests in the
 Despite this, Gloridia assimilated the lands of Zeilona in 1628. By 1629, the Zeilonan ruling class that hadn't yet assimilated or surrendered were exiled.
 
 Now it is just the dredges that remain for the freedom of Zeilona. Gorilla warfare is rampant.
+
+![[pagebreak.webp]]
