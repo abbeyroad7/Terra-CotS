@@ -1,5 +1,4 @@
 # Introduction
-
 A question that is poised on what to do with the Arcane-based people of Terra.
 
 Following [[The Divine Restoration]], western empires sought to eliminate Arcane energy by any means necessary, including in the use of indefinite detention and mass extermination of those who bore its power. This prejudiced ideology culminated into the [[The Witchfire Crusades]].
