@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
   	Component.ArticleTitle(),
-    //Component.Breadcrumbs(),
+    Component.Breadcrumbs(),
     //Component.TagList(),
   ],
   left: [

@@ -1,6 +1,4 @@
 # Introduction
-![[Sorvyn, the Necromancer]] 
-
 In a final ascension for power, [[Sorvyn, the Necromancer]] destroyed the veil between life and death, bringing about what historians refer to as the [[World/History/Conflicts/Cataclysm of the Shattered|Cataclysm of the Shattered]]. It is said that this event, spurred the [[Arilias, the One True Creator|One True Creator God, Arilias]] from his deep sleep and brought him back to the [[Mortal Coil]] to confront Sorvyn.
 
 The skirmish ravaged the world of Terra, leaving millions dead and the land forever scarred.
