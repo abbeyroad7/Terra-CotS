@@ -1,5 +1,15 @@
 ---
 landing: "true"
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+_template: ""
+_templateName: ""
+sticker: emoji//1f4d4
 ---
 ![[history.png|center-left]]
 <a href="World/History/Conflicts/Conflicts.md">![[history-conflicts.png|left|240]]</a>

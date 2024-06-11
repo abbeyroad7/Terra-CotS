@@ -1,5 +1,15 @@
 ---
 landing: "true"
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+_template: ""
+_templateName: ""
+sticker: emoji//1f576-fe0f
 ---
 This is the landing page for the Items page.
 ![[items.png|center-left]]

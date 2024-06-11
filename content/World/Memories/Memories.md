@@ -1,5 +1,15 @@
 ---
 landing: "true"
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+_template: ""
+_templateName: ""
+sticker: emoji//1f4a4
 ---
 ![[Chapter 1 - Dusk.svg|center|1024]]
 

@@ -1,5 +1,15 @@
 ---
 landing: "true"
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+_template: ""
+_templateName: ""
+sticker: emoji//271d-fe0f
 ---
 This is the landing page for the Religions page.
 ![[religion.png|center-left]]

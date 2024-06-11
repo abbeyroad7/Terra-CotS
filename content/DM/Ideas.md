@@ -1,4 +1,5 @@
--  <span style="background:rgba(3, 135, 102, 0.2)">Names</span>: Town of Writhe, wingnuts, bungo, Arcadia, Nixa, Nibling, Veil of Tears, Noxium
+- Names: Town of Writhe, wingnuts, bungo, Arcadia, Nixa, Nibling, Veil of Tears, Noxium
+
 - Incan punishment, tie to post and group of llamas spit
 - diet of bread and water/painful constipation
 - Ghost sickness
