@@ -1,4 +1,4 @@
-![[Arcana Question2.webp|center|512]]![[Arcana Question.webp|center|554]]
+![[Arcana Question2.webp|p+cl|512]]![[Arcana Question.webp|p+cr|554]]
 # Introduction
 A question that is poised on what to do with the Arcane-based people of Terra.
 
