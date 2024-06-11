@@ -1,3 +1,4 @@
+![[Cataclysm of the Shattered.webp|center|768]]
 # Introduction
 In his final trial to apotheosis, [[Sorvyn|Sorvyn, the Necromancer]] pursued the hidden pathways between worlds to amass an undead army from [[Aiskhel]] and [[Svalgheim]]. Using [[Yggdrasil's Branch]], he breached the temporal gateway between the [[Mortal Coil]] and the [[Everstream]], ensnaring a horde of demonic entities obedient to his every command.
 
