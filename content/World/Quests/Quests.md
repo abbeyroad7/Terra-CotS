@@ -14,7 +14,6 @@ sticker: emoji//1f4cd
 ![[quests.png|left]]
 
 # Active Quests
-- [[Vault Retrieval]]
 
 # Quest Index
 %% Begin Waypoint %%

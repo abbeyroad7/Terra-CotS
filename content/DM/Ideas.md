@@ -8,7 +8,6 @@
 - contractual quests
 - Palechurch refuge
 - What made Anmouth turn to Scion?
-- Underground quest board
 - Scorned peoples for Arilias
 - Thalos lives
 - battletypes - racing, sports, stylepoint
@@ -16,10 +15,8 @@
 - greeders, raider name
 - forest buffalo
 - saw game killer quest, recruit to escape
-- celesteia worships necromancer
 - Thalos tricks celestrian conservatives to do his bidding
 - Thalos is attempting to open the portal to the shadowrealm™
 - earth magic hrows to eat town
 - iron monger
 - Sax dagger, Bogi bow, Ormr serpent sword, Skyrendr sword, 
-- Arilias creates, evil burns
