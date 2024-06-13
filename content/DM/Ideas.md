@@ -17,6 +17,6 @@
 - saw game killer quest, recruit to escape
 - Thalos tricks celestrian conservatives to do his bidding
 - Thalos is attempting to open the portal to the shadowrealm™
-- earth magic hrows to eat town
+- earth magic grows to eat town
 - iron monger
 - Sax dagger, Bogi bow, Ormr serpent sword, Skyrendr sword, 
