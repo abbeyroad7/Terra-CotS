@@ -14,4 +14,6 @@ Once everyone had come out, they combed around Elli's manor, only to find it des
 
 The party asked the nearby barkeep if he knew of its whereabouts and after receiving the information, they made a dash to the market to find Puck and Elli whispering amongst themselves in a room off to the side of the market.
 
-A battle ensued, and the party managed to capture both fairies.
+A battle ensued, and the party managed to capture both fairies, bringing them back to ALF-HQ for interrogation.
+
+![[pagebreak.webp]]
