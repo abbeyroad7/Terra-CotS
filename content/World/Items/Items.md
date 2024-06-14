@@ -9,7 +9,7 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
-sticker: emoji//1f576-fe0f
+sticker: emoji//1f6e0-fe0f
 ---
 This is the landing page for the Items page.
 ![[items.png|center-left]]

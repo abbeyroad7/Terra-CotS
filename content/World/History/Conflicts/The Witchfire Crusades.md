@@ -1,3 +1,5 @@
+![[The Witchfire Crusades.webp|center|512]]
+
 # Introduction
 Following [[The Divine Restoration]] in 1388 TC, [[Sorvyn, the Necromancer|Sorvyn's]] demonic armies scattered across the globe. [[Gloridia]], still wounded from the damage inflicted by the necromancer, sought to eliminate all remaining Arcane energy and led a ruthless charge to remove its scourge from the world.
 
