@@ -1,5 +1,6 @@
 # Requirements
 Level 3 Spell
+
 Materials: Leika's Stone
 
 # Effects
