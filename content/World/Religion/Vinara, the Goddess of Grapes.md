@@ -1,3 +1,7 @@
+---
+aliases:
+  - Vinara
+---
 # Introduction
 **Domains:** Nature, Life
 **Symbol:** A cluster of grapes intertwined with grapevines

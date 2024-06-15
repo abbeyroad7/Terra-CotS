@@ -1,3 +1,7 @@
+---
+aliases:
+  - Scion
+---
 # Introduction
 **Domains:** Death, War
 **Symbol:** A blood-stained dagger or sacrificial altar

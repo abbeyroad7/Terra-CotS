@@ -1,3 +1,7 @@
+---
+aliases:
+---
+
 ![[<% tp.file.title.split(' ')[0] %>.webp|left|512]]
 # Background
 

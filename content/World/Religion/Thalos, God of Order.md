@@ -1,3 +1,7 @@
+---
+aliases:
+  - Thalos
+---
 # Introduction
 **Domains:** Law, Protection
 **Symbol:** A golden scale balanced perfectly on a pedestal, flanked by twin pillars representing order and stability

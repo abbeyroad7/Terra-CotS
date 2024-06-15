@@ -1,3 +1,7 @@
+---
+aliases:
+  - Serephina
+---
 # Introduction
 **Domains:** Luck, Travel
 **Symbol:** A set of dice adorned with horseshoes

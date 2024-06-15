@@ -1,3 +1,7 @@
+---
+aliases:
+---
+
 ![[<% tp.file.title %>.webp|left|512]]
 
 # Background

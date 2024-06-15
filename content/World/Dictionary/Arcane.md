@@ -1,3 +1,10 @@
+---
+aliases:
+  - Arcana
+  - magic
+  - Creation Magic
+---
+
 ![[Arcana1.webp|center]]
 
 # Introduction

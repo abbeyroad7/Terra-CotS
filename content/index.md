@@ -1,6 +1,8 @@
 ---
 home: "true"
 landing: "true"
+tags:
+  - dnd
 ---
 # Welcome to the Lore.
 <font size=4><b>Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.</b></font>

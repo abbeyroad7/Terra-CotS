@@ -1,3 +1,4 @@
+
 ![[Map-Terra.webp|center|1024]]
 
 # Introduction

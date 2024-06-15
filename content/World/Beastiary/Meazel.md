@@ -1,3 +1,8 @@
+---
+aliases:
+  - Murkwhisperer
+---
+
 ![[meazel.webp|left|328]]
 
 # Background

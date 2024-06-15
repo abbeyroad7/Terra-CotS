@@ -1,8 +1,14 @@
+---
+aliases:
+  - Arilias
+  - One True Creator
+  - Moose God
+---
 # Introduction
-**Domains:** Creation, Protection, Knowledge
-**Symbol:** A majestic moose with antlers spread wide, surrounded by swirling celestial energies.
+**Domains:** Creation, Knowledge
+**Symbol:** A majestic moose with antlers spread wide, surrounded by swirling celestial energy.
 
 **Description:**
-Arilias is a deity of immense power and wisdom. He depicts Himself as a towering giant moose with fur that shimmers like the night sky.
+Arilias is the master deity, responsible for creating the known universe and all that lie within it. In the [[Mortal Coil]], He is depicted as a giant moose with fur that shimmers of the night sky.
 
 ![[pagebreak.webp]]

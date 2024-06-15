@@ -1,3 +1,7 @@
+---
+aliases:
+  - Leika
+---
 # Introduction
 **Domains**: Trickery, Deceit
 **Symbol**: A rams head
