@@ -1,5 +1,6 @@
 ---
-aliases:
+aliases: 
+status: in progress
 ---
 
 ![[<% tp.file.title %>.webp|left|512]]
