@@ -1,4 +1,4 @@
-![[Session 10.webp|center|768]]
+![[Session 10.webp|p+cl|468]]![[Session 10b.webp|p+cr|468]]
 
 ---------------------------------
 # Bank Vault

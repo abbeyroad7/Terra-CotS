@@ -1,3 +1,4 @@
+![[Leika's Stone.webp|center|368]]
 # Requirements
 **Level 3 Spell** (S)
 
