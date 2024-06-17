@@ -1,33 +1,35 @@
 ---
 landing: "true"
 ---
-This is the landing page for Nation States.
-![[factions-nationstates.webp|center-left]]
+![[factions-nationstates.webp|center-right]]
 
 %% Begin Waypoint %%
-- **Athis**
+- **[[Athis]]**
 - **[[Balfran]]**
-- **Byria**
+- **[[Byria]]**
 - **Congia**
-- **Estrelia**
-- **Ettnia**
-- **Fontia**
-- **Frace**
+	- [[Untitled]]
+- **[[Estrelia]]**
+- **[[Ettnia]]**
+- **[[Fontia]]**
+- **[[Frace]]**
 - **[[Gloridia]]**
-- **Hohe**
-- **Jowz**
-- **Krish**
-- **Lignia**
+- **[[Hohe]]**
+- **[[Jowz]]**
+- **[[Krish]]**
+- **[[Lignia]]**
 - **Lomia**
-- **Moomia**
-- **Shaba**
-- **Sohan**
-- **Thorq**
-- **Toraga**
-- **Urmir**
-- **Vannes**
-- **Vilia**
+	- [[Loomia]]
+- **[[Moomia]]**
+- **[[Shaba]]**
+- **[[Sohan]]**
+- **[[Thorq]]**
+- **[[Toraga]]**
+- **[[Urmir]]**
+- **[[Vannes]]**
+- **[[Vilia]]**
 - **Viso**
+	- [[Visio]]
 - **Westler**
 
 %% End Waypoint %%

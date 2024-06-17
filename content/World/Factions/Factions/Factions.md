@@ -12,5 +12,5 @@ This is the landing page for the Factions page.
 
 %% End Waypoint %%
 
-<a href="World/Factions/Relationships/Relationships.md">![[Factions-Relationships.webp|left|240]]</a>
+<a href="World/Factions/Diplomacy/Diplomacy.md">![[factions-diplomacy.webp|left|240]]</a>
 <a href="World/Factions/Nation States/Nation States.md">![[factions-nationstates.webp|left|240]]</a>

@@ -1,3 +1,7 @@
+---
+aliases:
+  - TC
+---
 ![[TC.webp|right|512]]
 
 # Background
