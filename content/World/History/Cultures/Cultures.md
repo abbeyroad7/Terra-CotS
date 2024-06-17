@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Cultures.
-![[history-cultures.png|center-left]]
+![[history-cultures.webp|center-left]]
 
 %% Begin Waypoint %%
 

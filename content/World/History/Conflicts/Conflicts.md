@@ -12,7 +12,7 @@ _templateName: ""
 sticker: emoji//1fa78
 ---
 This is the landing page for Conflicts.
-![[history-conflicts.png|center-left]]
+![[history-conflicts.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Arcana Question]]

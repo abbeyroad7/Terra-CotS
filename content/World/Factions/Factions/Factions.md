@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for the Factions page.
-![[factions.png|center-left]]
+![[factions.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Arcane Liberation Front]]

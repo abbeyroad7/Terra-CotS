@@ -12,7 +12,7 @@ _templateName: ""
 sticker: emoji//271d-fe0f
 ---
 This is the landing page for the Religions page.
-![[religion.png|center-left]]
+![[religion.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Arilias, the One True Creator]]

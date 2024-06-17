@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Timeline.
-![[history-timeline.png|center-left]]
+![[history-timeline.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[First Age]]

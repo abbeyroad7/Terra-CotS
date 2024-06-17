@@ -12,7 +12,7 @@ _templateName: ""
 sticker: emoji//1f47e
 ---
 This is the landing page for the Beastiary.
-![[beastiary.png|center-left]]
+![[beastiary.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Giant Spider]]

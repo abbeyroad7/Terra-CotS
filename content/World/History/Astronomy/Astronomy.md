@@ -12,7 +12,7 @@ _templateName: ""
 sticker: emoji//1f319
 ---
 This is the landing page for Astronomy.
-![[history-astronomy.png|center-left]]
+![[history-astronomy.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Aiskhel]]

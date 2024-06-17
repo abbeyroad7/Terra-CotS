@@ -12,7 +12,7 @@ _templateName: ""
 sticker: emoji//1f4d9
 ---
 This is the landing page for the Dictionary.
-![[dictionary.png|center-left]]
+![[dictionary.webp|center-left]]
 
 %% Begin Waypoint %%
 - [[Arcane]]
