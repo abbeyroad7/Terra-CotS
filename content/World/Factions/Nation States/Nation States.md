@@ -7,8 +7,7 @@ landing: "true"
 - **[[Athis]]**
 - **[[Balfran]]**
 - **[[Byria]]**
-- **Congia**
-	- [[Untitled]]
+- **[[Congia]]**
 - **[[Estrelia]]**
 - **[[Ettnia]]**
 - **[[Fontia]]**
@@ -18,8 +17,7 @@ landing: "true"
 - **[[Jowz]]**
 - **[[Krish]]**
 - **[[Lignia]]**
-- **Lomia**
-	- [[Loomia]]
+- **[[Lomia]]**
 - **[[Moomia]]**
 - **[[Shaba]]**
 - **[[Sohan]]**
@@ -28,8 +26,7 @@ landing: "true"
 - **[[Urmir]]**
 - **[[Vannes]]**
 - **[[Vilia]]**
-- **Viso**
-	- [[Visio]]
-- **Westler**
+- **[[Viso]]**
+- **[[Westler]]**
 
 %% End Waypoint %%
