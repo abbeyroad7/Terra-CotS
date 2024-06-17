@@ -1,22 +1,33 @@
-- Names: Town of Writhe, wingnuts, bungo, Arcadia, Nixa, Nibling, Veil of Tears, Noxium
-
-- Incan punishment, tie to post and group of llamas spit
-- diet of bread and water/painful constipation
-- Ghost sickness
-- God Aspects
-- Scribbler's spellbook is stolen
-- contractual quests
-- Palechurch refuge
-- What made Anmouth turn to Scion?
-- Scorned peoples for Arilias
-- Thalos lives
-- battletypes - racing, sports, stylepoint
-- Lich, soul item
-- greeders, raider name
-- forest buffalo
-- saw game killer quest, recruit to escape
-- Thalos tricks celestrian conservatives to do his bidding
-- Thalos is attempting to open the portal to the shadowrealm™
-- earth magic grows to eat town
-- iron monger
-- Sax dagger, Bogi bow, Ormr serpent sword, Skyrendr sword, 
+#### Names
+- Nixa #warrior
+- Nibling #creature
+- Yagmar #barbarian
+- Greeders #raiders
+#### Locations
+- Writhe #town
+- Arcadia #city-coastal
+#### Items
+- wingnuts #food
+- bungos #tool
+- Noxium #drug
+- iron monger #weapon
+- Sax dagger #weapon 
+- Bogi bow #weapon 
+- Ormr serpent sword #weapon 
+- Skyrendr sword #weapon 
+#### Worldbuilding
+- Incan punishment, tie to post and group of llamas spit #culture
+- Veil of Tears #lore
+- diet of bread and water/painful constipation #culture
+- God Aspects #lore
+- forest buffalo #beastiary
+#### Quests:
+- demon who infects like Smile movie #side
+- Ghost sickness #side
+- Scribbler's spellbook is stolen #main
+- Palechurch refuge #main
+- What made Anmouth turn to Scion? #main
+- battletypes - racing, sports, stylepoint #side
+- Lich, soul item #side
+- saw game killer quest, recruit to escape #side
+- earth magic grows to eat town #side
