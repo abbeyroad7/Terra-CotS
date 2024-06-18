@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sorvyn
-  - Necromancer
 ---
 # Introduction
 Sorvyn, the Necromancer, born of unknown origin and age, was a formidable wielder of dark arts, who aspired to ascend mortality and claim Godhood. Through the manipulation of arcane energies and the forbidden arts of necromancy, he sought to consolidate all the [[Arcane]] of the world, believing he would be able to reshape reality and time at will.

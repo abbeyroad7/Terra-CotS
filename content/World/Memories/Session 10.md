@@ -1,3 +1,6 @@
+---
+status: in progress
+---
 ![[Session 10.webp|p+cl|412]]![[Session 10b.webp|p+cr|412]]![[Session 10c.webp|p+cr|412]]
 
 ---------------------------------

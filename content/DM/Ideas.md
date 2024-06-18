@@ -32,3 +32,4 @@
 - saw game killer quest, recruit to escape #side
 - earth magic grows to eat town #side
 - Venetian assassins to protect artistinal trade secrets #side 
+- Teeth snatch monster #side 
