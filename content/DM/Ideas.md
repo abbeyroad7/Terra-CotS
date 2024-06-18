@@ -25,7 +25,8 @@
 - demon who infects like Smile movie #side
 - Ghost sickness #side
 - Scribbler's spellbook is stolen #main
-- Palechurch refuge #main
+- Escape the sewers #main : Session 15
+- Palechurch refuge #main : Session 16
 - What made Anmouth turn to Scion? #main
 - battletypes - racing, sports, stylepoint #side
 - Lich, soul item #side

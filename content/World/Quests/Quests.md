@@ -12,7 +12,11 @@ _templateName: ""
 sticker: emoji//1f4cd
 ---
 ![[quests.webp|left]]
-
+# Available Quests
+- [[Royal Hideout]]
+- [[Celestrian Espionage]]
+- [[Supply Run]]
+- [[Investigate Matilda Goldvein]]
 # Active Quests
 
 # Quest Index
