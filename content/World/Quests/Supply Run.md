@@ -1,7 +1,7 @@
 ---
 status: in progress
 ---
-![[Supply Run.webp|right|256]]
+![[Supply Run.webp|center|512]]
 #### Mission
 Gather the party and attempt a supply run through the city.
 #### Objective
