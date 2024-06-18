@@ -22,10 +22,11 @@ sticker: emoji//1f4cd
 
 # Quest Index
 %% Begin Waypoint %%
-- [[A Faenapping]]
 - [[Celestrian Espionage]]
-- [[Repair the Lever, Kronk]]
+- **[[Completed]]**
+- [[Investigate Matilda Goldvein]]
 - [[Royal Hideout]]
-- [[Vault Retrieval]]
+- [[Seek Celestrian Employment]]
+- [[Supply Run]]
 
 %% End Waypoint %%
