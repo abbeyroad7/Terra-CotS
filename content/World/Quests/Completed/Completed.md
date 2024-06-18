@@ -9,3 +9,9 @@ _sort:
 _template: ""
 _templateName: ""
 ---
+%% Begin Waypoint %%
+- [[A Faenapping]]
+- [[Repair the Lever, Kronk]]
+- [[Vault Retrieval]]
+
+%% End Waypoint %%

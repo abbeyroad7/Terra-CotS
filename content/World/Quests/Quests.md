@@ -12,21 +12,10 @@ _templateName: ""
 sticker: emoji//1f4cd
 ---
 ![[quests.webp|left]]
-# Available Quests
-- [[Royal Hideout]]
-- [[Celestrian Espionage]]
-- [[Supply Run]]
-- [[Investigate Matilda Goldvein]]
-- [[Seek Celestrian Employment]]
 # Active Quests
 
-# Quest Index
-%% Begin Waypoint %%
-- [[Celestrian Espionage]]
-- **[[Completed]]**
-- [[Investigate Matilda Goldvein]]
-- [[Royal Hideout]]
-- [[Seek Celestrian Employment]]
-- [[Supply Run]]
-
-%% End Waypoint %%
+# Available Quests
+![[Available]]
+``
+# Quest History
+![[Completed]]
