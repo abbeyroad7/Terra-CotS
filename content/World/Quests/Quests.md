@@ -17,6 +17,7 @@ sticker: emoji//1f4cd
 - [[Celestrian Espionage]]
 - [[Supply Run]]
 - [[Investigate Matilda Goldvein]]
+- [[Seek Celestrian Employment]]
 # Active Quests
 
 # Quest Index

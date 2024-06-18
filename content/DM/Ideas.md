@@ -34,3 +34,6 @@
 - earth magic grows to eat town #side
 - Venetian assassins to protect artistinal trade secrets #side 
 - Teeth snatch monster #side 
+- City job board: bounty hunters, soldier, blacksmith, horse wrangler, body cleanup #side
+- King of Gloridia is found (by player or NPCs) and taken to the gallows. Give players option to save. #main
+- Small skirmishes in the residential district to the west. #main : session 15
