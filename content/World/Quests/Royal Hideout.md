@@ -1,7 +1,7 @@
 ---
 status: in progress
 ---
-![[King.webp|center|512]]
+![[King.webp|right|512]]
 #### Objective
 Seek out the hideout location at the Aurelian National Bank.
 
