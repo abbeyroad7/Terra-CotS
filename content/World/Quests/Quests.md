@@ -22,7 +22,9 @@ sticker: emoji//1f4cd
 # Quest Index
 %% Begin Waypoint %%
 - [[A Faenapping]]
+- [[Celestrian Espionage]]
 - [[Repair the Lever, Kronk]]
+- [[Royal Hideout]]
 - [[Vault Retrieval]]
 
 %% End Waypoint %%
