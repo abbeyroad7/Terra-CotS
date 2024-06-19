@@ -16,6 +16,6 @@ sticker: emoji//1f4cd
 
 # Available Quests
 ![[Available]]
-``
+
 # Quest History
 ![[Completed]]
