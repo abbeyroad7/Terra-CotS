@@ -1,10 +1,10 @@
 ---
 status: in progress
 ---
-![[Investigate Matilda Goldvein.webp|right|256]]
+![[Investigate Matilda Goldvein.webp|center|512]]
 #### Mission
 Investigate Matilda's disappearance.
 #### Objective
-Bring Matilda back to her family or find out what happened to her.
+Inquire about the events that lead up to her disappearance.
 
 ![[pagebreak.webp]]

@@ -11,7 +11,7 @@ _template: ""
 _templateName: ""
 sticker: emoji//1f4cd
 ---
-![[quests.webp|right]]
+![[quests.webp|p+l]]
 # Active Quests
 
 # Available Quests
