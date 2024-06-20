@@ -1,9 +1,10 @@
 ## 2024-06-20
+-  14h49 · [[Session 10]]
+-  14h25 · [[Quests]]
 -  14h22 · [[The Witchfire Crusades]]
 -  14h22 · [[The Divine Restoration]]
 -  14h22 · [[The Arcanum Wars]]
 -  14h21 · [[Arcana Question]]
--  01h06 · [[Quests]]
 -  01h04 · [[index]]
 -  00h52 · [[quest]]
 -  00h43 · [[Leika's Memory]]
@@ -29,4 +30,3 @@
 -  21h30 · [[Supply Run]]
 -  13h46 · [[Seek Celestrian Employment]]
 -  13h32 · [[Investigate Matilda Goldvein]]
--  01h17 · [[Quests]]
