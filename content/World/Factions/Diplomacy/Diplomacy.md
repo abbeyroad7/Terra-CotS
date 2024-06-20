@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Diplomacy.
-![[factions-diplomacy.webp|center-right]]
+![[sidebreak.webp|right]]![[factions-diplomacy.webp|right]]
 
 %% Begin Waypoint %%
 - **[[Treaties]]**

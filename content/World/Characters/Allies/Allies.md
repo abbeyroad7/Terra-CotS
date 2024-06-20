@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Allies.
-![[characters-allies.png|center-left]]
+![[sidebreak.webp|right]]![[characters-allies.webp|right]]
 
 %% Begin Waypoint %%
 - [[Fjornir Thornbrook]]

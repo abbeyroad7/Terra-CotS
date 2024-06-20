@@ -1,7 +1,7 @@
 ---
 landing: "true"
 ---
-![[factions-nationstates.webp|center-right]]
+![[sidebreak.webp|right]]![[factions-nationstates.webp|right]]
 
 %% Begin Waypoint %%
 - **[[Athis]]**

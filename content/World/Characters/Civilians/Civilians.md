@@ -2,7 +2,7 @@
 landing: "true"
 ---
 This is the landing page for Civilians.
-![[characters-civilians.png|center-left]]
+![[sidebreak.webp|right]]![[characters-civilians.webp|right]]
 
 %% Begin Waypoint %%
 - [[Batti Knave, Innkeeper]]
