@@ -1,6 +1,7 @@
 ## 2024-06-19
+-  22h27 · [[Nation States]]
+-  22h22 · [[Landing Pages]]
 -  22h19 · [[Diplomacy]]
--  22h19 · [[Nation States]]
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
@@ -30,4 +31,3 @@
 -  13h03 · [[Religion]]
 -  13h02 · [[Items]]
 -  13h02 · [[Timeline]]
--  13h02 · [[Points of Interest]]

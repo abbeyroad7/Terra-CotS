@@ -2,7 +2,7 @@
 landing: "true"
 ---
 ![[sidebreak.webp|right]]![[factions-nationstates.webp|right]]
-
+# Nation States of Terra
 %% Begin Waypoint %%
 - **[[Athis]]**
 - **[[Balfran]]**
@@ -30,3 +30,4 @@ landing: "true"
 - **[[Westler]]**
 
 %% End Waypoint %%
+
