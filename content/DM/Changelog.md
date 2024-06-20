@@ -1,8 +1,8 @@
 ## 2024-06-20
+-  01h06 · [[Quests]]
 -  01h06 · [[Arcana Question]]
 -  01h05 · [[The Arcanum Wars]]
 -  01h04 · [[index]]
--  00h59 · [[Quests]]
 -  00h52 · [[quest]]
 -  00h50 · [[The Witchfire Crusades]]
 -  00h50 · [[The Divine Restoration]]
