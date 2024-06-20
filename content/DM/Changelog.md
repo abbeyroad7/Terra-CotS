@@ -1,4 +1,6 @@
 ## 2024-06-19
+-  23h31 · [[Allies]]
+-  23h30 · [[Characters]]
 -  23h29 · [[Available]]
 -  23h29 · [[Quests]]
 -  23h19 · [[24-06-20]]
@@ -10,7 +12,6 @@
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
--  22h16 · [[Allies]]
 -  21h30 · [[Supply Run]]
 -  13h46 · [[Seek Celestrian Employment]]
 -  13h32 · [[Investigate Matilda Goldvein]]
@@ -29,5 +30,4 @@
 -  18h00 · [[Batti Knave, Innkeeper]]
 -  17h59 · [[Erlic, Celestrian Commander]]
 -  13h13 · [[Leika's Memory]]
--  13h03 · [[Characters]]
 -  13h03 · [[Factions]]
