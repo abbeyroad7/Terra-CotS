@@ -9,6 +9,7 @@ _sort:
 _template: ""
 _templateName: ""
 ---
+![[menu.webp|40]]
 %% Begin Waypoint %%
 - [[Celestrian Espionage]]
 - [[Explore Aurelia]]

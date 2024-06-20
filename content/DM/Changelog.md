@@ -1,8 +1,9 @@
 ## 2024-06-19
+-  23h40 · [[Completed Quests]]
+-  23h40 · [[Available Quests]]
+-  23h40 · [[Quests]]
 -  23h35 · [[Characters]]
 -  23h35 · [[Allies]]
--  23h29 · [[Available]]
--  23h29 · [[Quests]]
 -  23h19 · [[24-06-20]]
 -  23h09 · [[Problem Reports]]
 -  23h08 · [[Thinking Errors]]
@@ -18,8 +19,6 @@
 -  01h17 · [[Quests]]
 -  01h17 · [[Celestrian Espionage]]
 -  01h14 · [[Explore Aurelia]]
-## 2024-06-18
--  17h42 · [[Completed]]
 ## 2024-06-17
 -  23h44 · [[Royal Hideout]]
 -  23h08 · [[Memories]]
