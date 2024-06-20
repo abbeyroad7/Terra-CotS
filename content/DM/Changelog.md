@@ -1,5 +1,5 @@
 ## 2024-06-20
--  00h52 · [[Quests]]
+-  00h56 · [[Quests]]
 -  00h52 · [[quest]]
 -  00h50 · [[The Witchfire Crusades]]
 -  00h50 · [[The Arcanum Wars]]
