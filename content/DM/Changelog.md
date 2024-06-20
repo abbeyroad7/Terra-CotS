@@ -1,6 +1,10 @@
 ## 2024-06-20
--  00h49 · [[Quests]]
--  00h45 · [[The Divine Restoration]]
+-  00h52 · [[Quests]]
+-  00h52 · [[quest]]
+-  00h50 · [[The Witchfire Crusades]]
+-  00h50 · [[The Arcanum Wars]]
+-  00h50 · [[Arcana Question]]
+-  00h50 · [[The Divine Restoration]]
 -  00h43 · [[Leika's Memory]]
 -  00h37 · [[Completed Quests]]
 -  00h37 · [[Available Quests]]
@@ -26,8 +30,3 @@
 -  13h32 · [[Investigate Matilda Goldvein]]
 -  01h17 · [[Quests]]
 -  01h17 · [[Celestrian Espionage]]
--  01h14 · [[Explore Aurelia]]
-## 2024-06-17
--  23h44 · [[Royal Hideout]]
--  23h08 · [[Memories]]
--  19h41 · [[Den of Necromancy]]
