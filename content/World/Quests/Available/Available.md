@@ -18,4 +18,3 @@ _templateName: ""
 - [[Supply Run]]
 
 %% End Waypoint %%
-

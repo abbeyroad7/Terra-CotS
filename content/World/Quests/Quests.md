@@ -15,7 +15,7 @@ sticker: emoji//1f4cd
 # Active Quests
 
  ![[menu.webp|40]]
-![[Available]]
+!![[Available]]
 
  ![[checkmark.webp|50]]
-![[Completed]]
+!![[Completed]]
