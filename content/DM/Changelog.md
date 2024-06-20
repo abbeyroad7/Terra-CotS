@@ -1,4 +1,5 @@
 ## 2024-06-20
+-  00h43 · [[Leika's Memory]]
 -  00h42 · [[Quests]]
 -  00h37 · [[Completed Quests]]
 -  00h37 · [[Available Quests]]
@@ -30,4 +31,3 @@
 -  23h08 · [[Memories]]
 -  19h41 · [[Den of Necromancy]]
 -  19h37 · [[Sorvyn, the Necromancer]]
--  19h20 · [[Session 10]]
