@@ -14,8 +14,8 @@ sticker: emoji//1f4cd
 ![[sidebreak.webp|right]]![[quests.webp|right]]
 # Active Quests
 
-# Available Quests
+# Available Quests ![[menu.webp|50]]
 ![[Available]]
 
-# Quest History
+# Quest History ![[checkmark.webp|50]]
 ![[Completed]]

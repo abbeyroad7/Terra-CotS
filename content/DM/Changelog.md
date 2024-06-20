@@ -1,4 +1,5 @@
 ## 2024-06-19
+-  22h52 · [[Quests]]
 -  22h27 · [[Nation States]]
 -  22h22 · [[Landing Pages]]
 -  22h19 · [[Diplomacy]]
@@ -7,7 +8,6 @@
 -  22h17 · [[Civilians]]
 -  22h16 · [[Allies]]
 -  21h30 · [[Supply Run]]
--  21h06 · [[Quests]]
 -  13h46 · [[Seek Celestrian Employment]]
 -  13h32 · [[Investigate Matilda Goldvein]]
 -  01h17 · [[Quests]]
