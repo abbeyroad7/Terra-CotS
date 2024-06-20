@@ -1,4 +1,4 @@
-![[sidebreak.webp|hmed]]![[sidebreak.webp|hmed]]![[The Arcanum Wars2.webp|p+cr|600]]![[The Arcanum Wars3.webp|p+cr|600]]
+![[sidebreak.webp|hm-sm]]![[sidebreak.webp|hm-sm]]![[The Arcanum Wars2.webp|p+cr|600]]![[The Arcanum Wars3.webp|p+cr|600]]
 # Introduction
 The Arcanum Wars were a series of global conflicts immediately following [[The Divine Restoration]] in 1388 [[Terra Calendar (TC)|TC]] and ultimately ending nearly 200 years later in 1564 TC. It was the most divisive and destructive period of history since the [[World/History/Conflicts/Cataclysm of the Shattered|Cataclysm of the Shattered]].
 

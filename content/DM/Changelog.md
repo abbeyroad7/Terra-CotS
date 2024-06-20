@@ -1,9 +1,9 @@
 ## 2024-06-20
+-  00h58 · [[The Arcanum Wars]]
+-  00h57 · [[Arcana Question]]
 -  00h56 · [[Quests]]
 -  00h52 · [[quest]]
 -  00h50 · [[The Witchfire Crusades]]
--  00h50 · [[The Arcanum Wars]]
--  00h50 · [[Arcana Question]]
 -  00h50 · [[The Divine Restoration]]
 -  00h43 · [[Leika's Memory]]
 -  00h37 · [[Completed Quests]]
