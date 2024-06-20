@@ -17,5 +17,3 @@ sticker: emoji//1f9cd
 <a href="World/Characters/Civilians/Civilians.md">![[characters-civilians.webp|left|240]]</a>
 <a href="World/Characters/Enemies/Enemies.md">![[characters-enemies.webp|left|240]]</a>
 <a href="World/Characters/Player Characters/Player Characters.md">![[characters-playercharacters.webp|left|240]]</a>
-
-![[pagebreak.webp]]

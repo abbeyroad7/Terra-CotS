@@ -24,5 +24,3 @@ This is the landing page for Allies.
 - [[Vorka Thornscale]]
 
 %% End Waypoint %%
-
-![[pagebreak.webp]]

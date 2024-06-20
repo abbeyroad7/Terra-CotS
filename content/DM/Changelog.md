@@ -1,6 +1,6 @@
 ## 2024-06-19
--  23h31 · [[Allies]]
--  23h30 · [[Characters]]
+-  23h35 · [[Characters]]
+-  23h35 · [[Allies]]
 -  23h29 · [[Available]]
 -  23h29 · [[Quests]]
 -  23h19 · [[24-06-20]]
