@@ -1,3 +1,5 @@
+![[Pasted image 20240522213503.png|512]]
+
 Event: 
 Facts: 
 Problem: 
