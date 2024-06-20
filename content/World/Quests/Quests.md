@@ -12,5 +12,6 @@ _templateName: ""
 sticker: emoji//1f4cd
 ---
 ![[quests.webp|right]]![[sidebreak.webp|right]]
-!![[Available Quests]]
-!![[Completed Quests]]
+![[Available Quests]]![[menu.webp|right|50]]
+
+![[Completed Quests]]![[checkmark.webp|right|50]]

@@ -9,7 +9,6 @@ _sort:
 _template: ""
 _templateName: ""
 ---
-![[checkmark.webp|50]]
 %% Begin Waypoint %%
 - [[A Faenapping]]
 - [[Repair the Lever, Kronk]]
