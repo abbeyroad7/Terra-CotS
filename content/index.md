@@ -3,9 +3,12 @@ home: "true"
 landing: "true"
 tags:
   - dnd
+aliases:
+  - Quartz
+  - Index
 ---
 # Welcome to the Lore.
-<font size=4><b>Browse the (soon-to-be) complex histories of the peoples that reside in the world of Terra.</b></font>
+<font size=4><b>Browse the complex histories of the peoples that reside in the world of Terra.</b></font>
  
 <a href="World/Beastiary/Beastiary.md">![[beastiary.webp|center-left|240]]</a>
 <a href="World/Characters/Characters.md">![[characters.webp|left|240]]</a>

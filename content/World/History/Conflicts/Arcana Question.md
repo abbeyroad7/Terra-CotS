@@ -1,4 +1,4 @@
-![[sidebreak.webp|hmicro]]![[sidebreak.webp|hmicro]]![[Arcana Question2.webp|p+cl|600]]![[Arcana Question.webp|p+c|600]]
+![[sidebreak.webp|hsmall]]![[sidebreak.webp|hsmall]]![[Arcana Question2.webp|p+cl|600]]![[Arcana Question.webp|p+c|600]]
 # Introduction
 A question that is poised on what to do with the Arcane-based people of Terra.
 

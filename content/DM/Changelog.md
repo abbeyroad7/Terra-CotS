@@ -1,7 +1,8 @@
 ## 2024-06-20
--  01h02 · [[Arcana Question]]
+-  01h06 · [[Arcana Question]]
+-  01h05 · [[The Arcanum Wars]]
+-  01h04 · [[index]]
 -  00h59 · [[Quests]]
--  00h58 · [[The Arcanum Wars]]
 -  00h52 · [[quest]]
 -  00h50 · [[The Witchfire Crusades]]
 -  00h50 · [[The Divine Restoration]]
@@ -29,4 +30,3 @@
 -  13h46 · [[Seek Celestrian Employment]]
 -  13h32 · [[Investigate Matilda Goldvein]]
 -  01h17 · [[Quests]]
--  01h17 · [[Celestrian Espionage]]
