@@ -11,10 +11,10 @@ _template: ""
 _templateName: ""
 sticker: emoji//1f4cd
 ---
-![[sidebreak.webp|right]]![[quests.webp|right]]
+![[sidebreak.webp|left]]![[quests.webp|left]]
 # Active Quests
 
-# Available Quests ![[menu.webp|50]]
+# Available Quests ![[menu.webp|40]]
 ![[Available]]
 
 # Quest History ![[checkmark.webp|50]]
