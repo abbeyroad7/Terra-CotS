@@ -4,7 +4,14 @@ landing: "true"
 This is the landing page for Races.
 ![[sidebreak.webp]]![[Races.webp|right]]
 The following list links to the known races in the world of Terra.
-- Aarokocra
+
+| Aarokocra | Aasimar    | Arboren   | Autognome | Bugbear | Centaur    |
+| --------- | ---------- | --------- | --------- | ------- | ---------- |
+| Cervan    | Changeling | Deathfung | Deity     | Dhampir | Dragonborn |
+| Duergar   | Dwarf      | Eladrin   | Elf       | Fairy   | Firbolg    |
+|           |            |           |           |         |            |
+
+
 - Aasimar
 - Arboren
 - Autognome
