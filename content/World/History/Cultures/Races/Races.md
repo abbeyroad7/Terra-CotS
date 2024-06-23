@@ -1,7 +1,7 @@
 ---
 landing: "true"
 ---
-![[sidebreak.webp]]![[cultures-races.webp|right]]
+![[cultures-races.webp|right]]![[sidebreak.webp]]
 The following list links to the known races in the world of Terra.
 
 | Aarokocra | Aasimar    | Arboren    | Autognome | Bugbear  | Centaur    |
