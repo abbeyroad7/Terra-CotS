@@ -13,6 +13,7 @@ export const sharedPageComponents: SharedLayout = {
 	  "Foundry": "https://foundryredirect.com/tcs",
 	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
 	  "History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/History",
+	  "Changelog": "https://abbeyroad7.github.io/Terra-CoTs/DM/Changelog",
     },
   }),
 }

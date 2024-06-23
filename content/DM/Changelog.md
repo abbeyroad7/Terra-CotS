@@ -1,8 +1,12 @@
+## 2024-06-23
+-  08h54 · [[Cloudhopper]]
+-  00h03 · [[Beastiary]]
 ## 2024-06-22
+-  23h51 · [[Investigate Hilda Goldvein]]
+-  23h50 · [[Supply Run]]
 -  23h07 · [[Hilda Goldvein]]
 -  23h06 · [[Allies]]
 -  22h02 · [[Gunnar Goldvein]]
--  21h58 · [[Investigate Hilda Goldvein]]
 -  21h06 · [[Available Quests]]
 ## 2024-06-21
 -  21h12 · [[Memories]]
@@ -26,7 +30,6 @@
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
--  21h30 · [[Supply Run]]
 -  13h46 · [[Seek Celestrian Employment]]
 -  01h17 · [[Celestrian Espionage]]
 -  01h14 · [[Explore Aurelia]]
@@ -46,10 +49,8 @@
 -  13h02 · [[Cultures]]
 -  13h02 · [[Astronomy]]
 -  13h02 · [[History]]
--  13h01 · [[Beastiary]]
 -  01h09 · [[Athis]]
 -  01h09 · [[Fontia]]
 -  01h09 · [[Ettnia]]
 -  01h09 · [[Estrelia]]
 -  01h09 · [[Frace]]
--  01h09 · [[Hohe]]

@@ -15,6 +15,7 @@ This is the landing page for the Beastiary.
 ![[beastiary.webp|center-left]]
 
 %% Begin Waypoint %%
+- [[Cloudhopper]]
 - [[Giant Spider]]
 - [[Meazel]]
 - [[Millitaur]]
