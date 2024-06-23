@@ -17,6 +17,7 @@ This is the landing page for Conflicts.
 %% Begin Waypoint %%
 - [[Arcana Question]]
 - [[Cataclysm of the Shattered]]
+- [[Siege of Aurelia]]
 - [[The Arcanum Wars]]
 - [[The Divine Restoration]]
 - [[The Witchfire Crusades]]

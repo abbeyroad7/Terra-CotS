@@ -15,16 +15,16 @@ The party then decided it was in their piqued interest to travel to the [[Aureli
 
 The teller behind the glass prompted for documentation to substantiate their claim to the vault. While being questioned, Yeldarb proudly proclaimed himself a kinsmen of the Knaves. Realizing his grave error, Yeldarb clamored for time to distract the teller and the Celestrian guard. He pulled out his battleaxes and began juggling them, drawing the attention of more soldiers.
 
-Before they could apprehend the armed barbarian, he flung an axe up and missed the catch. The axe bore into the bank shelf, splitting it into two. Amused, the teller decided not to press charge, and merely charged his person for damages.
+Before they could apprehend the armed barbarian, he flung an axe up and missed the catch. The axe bore into the bank shelf, splitting it into two. Amused, the teller decided not to press charges, and merely billed the performer for his damages.
 
-Meanwhile, [[Scribbles]] had been forging a birth certificate for Yeldarb Knave and had come scampering behind the distracted foot soldiers. The faked document was accepted, and the party was led back into the vaults by yet another guard escort.
+Meanwhile, [[Scribbles]] had been forging a birth certificate for a 'Yeldarb Knave' and had come scampering behind the distracted foot soldiers. The faked document was accepted, and the party was led back into the vaults by yet another guard escort.
 
 Here, they were instructed that only one person may enter at any given time, whilst being watched by two more armed guards inside the vault. The others must wait outside. The party deliberated for a moment, before sending in [[Goobert]] with the key as he tended to be the most investigative member of the group.
 
 Inside Goobert came face to face with a wall of vaults, each with their own respective lock box. He recognized some were inscribed with emblems and names, but he did not see one written for Knave. In an act of desperation, he went back out to consult with the rest of the party and pieced together the correct emblem to seek out.
 
-After pulling the lockbox, Goobert brought it to the center-podium and opened it. Inside, a rather plain-looking grey stone, the size of a fully-grown [[Cloudhopper|Cloudhopper]] skull, lay. The grey plasmoid shrugged his liquid shoulders, and as henlifted the stone, his eyes saw a flash of pale blue light.
+After pulling the lockbox, Goobert brought it to the center-podium and opened it. Inside, a rather plain-looking grey stone, the size of a fully-grown [[Cloudhopper|Cloudhopper]] skull, lay. The grey plasmoid shrugged his liquid shoulders, and as he lifted the stone, his eyes saw a flash of pale blue light.
 
-The soldier escorts were gone. He was fully alone. He wandered around, inspecting the corners, suspecting some sort of joke was being played.
+The soldier escorts were gone. He was fully alone. He wandered around, inspecting the corners, suspecting some sort of joke was being played, but he was still alone.
 
 ![[pagebreak.webp|center]]

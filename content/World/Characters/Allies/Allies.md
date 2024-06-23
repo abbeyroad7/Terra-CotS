@@ -10,6 +10,7 @@ This is the landing page for Allies.
 - [[Garla Skullgore]]
 - [[Gunnar Goldvein]]
 - [[Harold]]
+- [[Hilda Goldvein]]
 - [[Kalaron Thornscale]]
 - [[Lyra]]
 - [[Lyris Fren]]
