@@ -1,86 +1,19 @@
 ---
 landing: "true"
 ---
-This is the landing page for Races.
-![[sidebreak.webp]]![[Races.webp|right]]
+![[sidebreak.webp]]![[cultures-races.webp|right]]
 The following list links to the known races in the world of Terra.
 
-| Aarokocra | Aasimar    | Arboren   | Autognome | Bugbear | Centaur    |
-| --------- | ---------- | --------- | --------- | ------- | ---------- |
-| Cervan    | Changeling | Deathfung | Deity     | Dhampir | Dragonborn |
-| Duergar   | Dwarf      | Eladrin   | Elf       | Fairy   | Firbolg    |
-|           |            |           |           |         |            |
-
-
-- Aasimar
-- Arboren
-- Autognome
-- Bugbear
-- Centaur
-- Cervan
-- Changeling
-- Deathfung
-- Deity
-- Dhampir
-- Dragonborn
-- Duergar
-- Dwarf
-- Eladrin
-- Elf
-- Fairy
-- Firbolg
-- Floran
-- Gallus
-- Genasi
-- Giant
-- Giff
-- Gith
-- Githyanki
-- Githzerai
-- Gnome
-- Goblin
-- Goliath
-- Grung
-- Hadozee
-- Half-Elf
-- Half-Giant
-- Half-Orc
-- Halfling
-- Harengon
-- Hedge
-- Hexblood
-- Hobgoblin
-- Human
-- Kalashtar
-- Kender
-- Kenku
-- Kobold
-- Leonin
-- Lizardfolk
-- Locathah
-- Loxodon
-- Luma
-- Mapach
-- Minotaur
-- Necromancer
-- Ogre
-- Orc
-- Owlin
-- Plasmoid
-- Satyr
-- Shadar-Kai
-- Shifter
-- Simic
-- Skaven
-- Tabaxi
-- Thrikreen
-- Tiefling
-- Tortle
-- Triton
-- Troll
-- Vedalken
-- Verdan
-- Vulpin
-- Warforged
-- Wizard
-- Yuan-Ti
+| Aarokocra | Aasimar    | Arboren    | Autognome | Bugbear  | Centaur    |
+| --------- | ---------- | ---------- | --------- | -------- | ---------- |
+| Cervan    | Changeling | Deathfung  | Deity     | Dhampir  | Dragonborn |
+| Duergar   | Dwarf      | Eladrin    | Elf       | Fairy    | Firbolg    |
+| Floran    | Gallus     | Genasi     | Giant     | Giff     | Gith       |
+| Githyanki | Githzerai  | Gnome      | Goblin    | Goliath  | Grung      |
+| Hadozee   | Half-Elf   | Half-Giant | Halfling  | Harengon | Hedge      |
+| Hexblood  | Hobgoblin  | Human      | Kalashtar | Kender   | Kenku      |
+| Kobold    | Leonin     | Lizardfolk | Locathah  | Loxodon  | Luma       |
+| Mapach    | Minotaur   | Ogre       | Orc       | Owlin    | Plasmoid   |
+| Satyr     | Shadar-Kai | Shifter    | Simic     | Skavern  | Tabaxi     |
+| Thrikreen | Tiefling   | Tortle     | Triton    | Troll    | Vedalken   |
+| Verdan    | Vulpin     | Warforged  | Wizard    | Yuan-Ti  |            |
