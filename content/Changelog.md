@@ -1,5 +1,5 @@
 ## 2024-06-23
--  18h40 · [[Races]]
+-  18h45 · [[Races]]
 -  16h54 · [[Cultures]]
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
