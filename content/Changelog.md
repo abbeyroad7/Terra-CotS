@@ -1,5 +1,6 @@
 ## 2024-06-23
--  23h46 · [[Cultures]]
+-  23h49 · [[Cultures]]
+-  23h48 · [[Leika's Memory]]
 -  20h42 · [[Races]]
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
@@ -23,7 +24,6 @@
 -  14h21 · [[Arcana Question]]
 -  01h04 · [[index]]
 -  00h52 · [[quest]]
--  00h43 · [[Leika's Memory]]
 -  00h37 · [[Completed Quests]]
 ## 2024-06-19
 -  23h35 · [[Characters]]
