@@ -1,3 +1,6 @@
+## 2024-06-24
+-  18h50 · [[Investigate Hilda Goldvein's Disappearance]]
+-  18h50 · [[Available Quests]]
 ## 2024-06-23
 -  23h49 · [[Cultures]]
 -  23h48 · [[Leika's Memory]]
@@ -6,12 +9,10 @@
 -  08h54 · [[Cloudhopper]]
 -  00h03 · [[Beastiary]]
 ## 2024-06-22
--  23h51 · [[Investigate Hilda Goldvein]]
 -  23h50 · [[Supply Run]]
 -  23h07 · [[Hilda Goldvein]]
 -  23h06 · [[Allies]]
 -  22h02 · [[Gunnar Goldvein]]
--  21h06 · [[Available Quests]]
 ## 2024-06-21
 -  21h12 · [[Memories]]
 -  21h12 · [[Session 10]]

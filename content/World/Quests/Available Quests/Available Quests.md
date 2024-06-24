@@ -12,7 +12,7 @@ _templateName: ""
 %% Begin Waypoint %%
 - [[Celestrian Espionage]]
 - [[Explore Aurelia]]
-- [[Investigate Hilda Goldvein]]
+- [[Investigate Hilda Goldvein's Disappearance]]
 - [[Royal Hideout]]
 - [[Seek Celestrian Employment]]
 - [[Supply Run]]
