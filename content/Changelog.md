@@ -1,3 +1,5 @@
+## 2024-06-25
+-  07h49 · [[Aurelia]]
 ## 2024-06-24
 -  19h01 · [[Investigate Hilda Goldvein's Disappearance]]
 -  18h59 · [[Races]]
@@ -54,4 +56,3 @@
 -  01h09 · [[Athis]]
 -  01h09 · [[Fontia]]
 -  01h09 · [[Ettnia]]
--  01h09 · [[Estrelia]]
