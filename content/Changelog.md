@@ -1,10 +1,10 @@
 ## 2024-06-24
--  18h50 · [[Investigate Hilda Goldvein's Disappearance]]
+-  19h01 · [[Investigate Hilda Goldvein's Disappearance]]
+-  18h59 · [[Races]]
 -  18h50 · [[Available Quests]]
 ## 2024-06-23
 -  23h49 · [[Cultures]]
 -  23h48 · [[Leika's Memory]]
--  20h42 · [[Races]]
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
 -  00h03 · [[Beastiary]]
