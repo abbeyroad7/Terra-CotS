@@ -1,7 +1,7 @@
 ---
 status: in progress
 ---
-![[Session 11.webp|left|512]]![[Session 11b.webp|left|512]]![[Session 11c.webp|left|512]]
+![[Session 11.webp|p+cr|412]]![[Session 11b.webp|p+cr|412]]![[Session 11c.webp|p+cr|412]]
 
 ---------------------------------
 # The Search for Hilda: The Dwarven Tunnels
