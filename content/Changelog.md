@@ -1,3 +1,6 @@
+## 2024-06-26
+-  00h02 · [[Session 11]]
+-  00h00 · [[Memories]]
 ## 2024-06-25
 -  07h55 · [[Investigate Hilda Goldvein's Disappearance]]
 -  07h49 · [[Aurelia]]
@@ -16,7 +19,6 @@
 -  23h06 · [[Allies]]
 -  22h02 · [[Gunnar Goldvein]]
 ## 2024-06-21
--  21h12 · [[Memories]]
 -  21h12 · [[Session 10]]
 -  14h10 · [[Conflicts]]
 ## 2024-06-20
@@ -55,4 +57,3 @@
 -  13h02 · [[History]]
 -  01h09 · [[Athis]]
 -  01h09 · [[Fontia]]
--  01h09 · [[Ettnia]]
