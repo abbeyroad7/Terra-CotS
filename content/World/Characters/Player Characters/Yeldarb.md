@@ -7,4 +7,7 @@ Yeldarb is an adult Goliath and barbarian. Built with a hardy skin often compare
 # Background
 Little is known about the stone barbarian, but he has revealed to the party that he was born in the rural mountains from the United Tribes of Moomia, where he was banished for yet undisclosed reasons.
 
+# Evolution
+
+
 ![[pagebreak.webp]]

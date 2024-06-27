@@ -1,4 +1,7 @@
 ## 2024-06-26
+-  22h30 · [[Goobert]]
+-  22h29 · [[Yeldarb]]
+-  22h28 · [[Elli Peer]]
 -  22h23 · [[Scribbles]]
 -  22h04 · [[Session 10]]
 -  22h03 · [[Session 11]]
@@ -54,6 +57,3 @@
 -  13h02 · [[Items]]
 -  13h02 · [[Timeline]]
 -  13h02 · [[Points of Interest]]
--  13h02 · [[Historical Figures]]
--  13h02 · [[Astronomy]]
--  13h02 · [[History]]
