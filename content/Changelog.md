@@ -1,7 +1,8 @@
 ## 2024-06-26
+-  22h04 · [[Session 10]]
+-  22h03 · [[Session 11]]
 -  22h02 · [[Aquatic Troll]]
 -  21h57 · [[Beastiary]]
--  21h36 · [[Session 11]]
 -  00h00 · [[Memories]]
 ## 2024-06-25
 -  07h55 · [[Investigate Hilda Goldvein's Disappearance]]
@@ -20,7 +21,6 @@
 -  23h06 · [[Allies]]
 -  22h02 · [[Gunnar Goldvein]]
 ## 2024-06-21
--  21h12 · [[Session 10]]
 -  14h10 · [[Conflicts]]
 ## 2024-06-20
 -  14h25 · [[Quests]]
