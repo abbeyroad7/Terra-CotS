@@ -1,5 +1,7 @@
 ## 2024-06-26
--  00h19 · [[Session 11]]
+-  22h02 · [[Aquatic Troll]]
+-  21h57 · [[Beastiary]]
+-  21h36 · [[Session 11]]
 -  00h00 · [[Memories]]
 ## 2024-06-25
 -  07h55 · [[Investigate Hilda Goldvein's Disappearance]]
@@ -12,7 +14,6 @@
 -  23h48 · [[Leika's Memory]]
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
--  00h03 · [[Beastiary]]
 ## 2024-06-22
 -  23h50 · [[Supply Run]]
 -  23h07 · [[Hilda Goldvein]]
@@ -56,4 +57,3 @@
 -  13h02 · [[Astronomy]]
 -  13h02 · [[History]]
 -  01h09 · [[Athis]]
--  01h09 · [[Fontia]]
