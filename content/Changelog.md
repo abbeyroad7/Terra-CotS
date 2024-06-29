@@ -1,4 +1,5 @@
 ## 2024-06-28
+-  22h07 · [[Races]]
 -  21h49 · [[Elara Moonshade]]
 -  20h42 · [[Allies]]
 ## 2024-06-26
@@ -15,7 +16,6 @@
 -  07h55 · [[Investigate Hilda Goldvein's Disappearance]]
 -  07h49 · [[Aurelia]]
 ## 2024-06-24
--  18h59 · [[Races]]
 -  18h50 · [[Available Quests]]
 ## 2024-06-23
 -  23h49 · [[Cultures]]
