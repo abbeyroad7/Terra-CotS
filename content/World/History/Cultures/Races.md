@@ -3,7 +3,7 @@ landing: "true"
 ---
 ![[sidebreak.webp|right]]![[cultures-races.webp|right]]
 
-The following list links to the known races in the world of Terra.
+The following list links to the 78 **known** races in the world of Terra.
 
 | [Aarokocra]()  | [Aasimar]()    | [Amphibious]() | [Arboren]()   | [Autognome]() | [Bugbear]()     | [Centaur]()    |
 | -------------- | -------------- | -------------- | ------------- | ------------- | --------------- | -------------- |
@@ -17,4 +17,6 @@ The following list links to the known races in the world of Terra.
 | [Orc]()        | [Owlin]()      | [Plasmoid]()   | [Porcein]()   | [Satyr]()     | [Shadar-Kai]()  | [Shifter]()    |
 | [Simic]()      | [Skaven]()     | [Tabaxi]()     | [Thrikreen]() | [Tiefling]()  | [Tortle]()      | [Triton]()     |
 | [Troll]()      | [Vedalken]()   | [Verdan]()     | [Warforged]() | [Warlock]()   | [Wizard]()      | [Yuan-Ti]()    |
+
+
 

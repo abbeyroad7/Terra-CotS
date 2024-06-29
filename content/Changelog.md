@@ -1,5 +1,5 @@
 ## 2024-06-28
--  22h07 · [[Races]]
+-  22h35 · [[Races]]
 -  21h49 · [[Elara Moonshade]]
 -  20h42 · [[Allies]]
 ## 2024-06-26
