@@ -1,3 +1,6 @@
+## 2024-06-28
+-  21h49 · [[Elara Moonshade]]
+-  20h42 · [[Allies]]
 ## 2024-06-26
 -  22h30 · [[Goobert]]
 -  22h29 · [[Yeldarb]]
@@ -22,7 +25,6 @@
 ## 2024-06-22
 -  23h50 · [[Supply Run]]
 -  23h07 · [[Hilda Goldvein]]
--  23h06 · [[Allies]]
 -  22h02 · [[Gunnar Goldvein]]
 ## 2024-06-21
 -  14h10 · [[Conflicts]]
@@ -56,4 +58,3 @@
 -  13h03 · [[Religion]]
 -  13h02 · [[Items]]
 -  13h02 · [[Timeline]]
--  13h02 · [[Points of Interest]]
