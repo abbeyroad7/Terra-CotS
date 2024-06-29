@@ -1,16 +1,11 @@
 ---
-landing: "true"
 cssclasses:
-  - whiteRed, whiteRed-rounded, wideTable
+  - customMargin
+  - academia
 ---
-![[sidebreak.webp|right]]![[cultures-races.webp|right]]
-
-The following list links to the 78 known races in the world of [[Terra]].
-
-`cssclass: whiteRed, whiteRed-rounded, wideTable`
-
-| [Aarokocra](https://5e.tools/races.html#aarakocra_mpmm) | [Aasimar](https://5e.tools/races.html#aasimar_mpmm) | [Amphibious]() | [Arboren]()   | [Autognome]() | [Bugbear]()     | [Centaur]()    |
+|                                                         |                                                     |                |               |               |                 |                |
 | ------------------------------------------------------- | --------------------------------------------------- | -------------- | ------------- | ------------- | --------------- | -------------- |
+| [Aarokocra](https://5e.tools/races.html#aarakocra_mpmm) | [Aasimar](https://5e.tools/races.html#aasimar_mpmm) | [Amphibious]() | [Arboren]()   | [Autognome]() | [Bugbear]()     | [Centaur]()    |
 | [Cervan]()                                              | [Changeling]()                                      | [Constructs]() | [Deathfung]() | [Deity]()     | [Dhampir]()     | [Dragonborn]() |
 | [Duergar]()                                             | [Dwarf]()                                           | [Eladrin]()    | [Elf]()       | [Fairy]()     | [Firbolg]()     | [Floran]()     |
 | [Gallus]()                                              | [Genasi]()                                          | [Giant]()      | [Giff]()      | [Gith]()      | [Githyanki]()   | [Githzerai]()  |
@@ -21,6 +16,3 @@ The following list links to the 78 known races in the world of [[Terra]].
 | [Orc]()                                                 | [Owlin]()                                           | [Plasmoid]()   | [Porcein]()   | [Satyr]()     | [Shadar-Kai]()  | [Shifter]()    |
 | [Simic]()                                               | [Skaven]()                                          | [Tabaxi]()     | [Thrikreen]() | [Tiefling]()  | [Tortle]()      | [Triton]()     |
 | [Troll]()                                               | [Vedalken]()                                        | [Verdan]()     | [Warforged]() | [Warlock]()   | [Wizard]()      | [Yuan-Ti]()    |
-
-
-
