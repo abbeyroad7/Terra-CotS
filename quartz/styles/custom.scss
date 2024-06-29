@@ -142,11 +142,14 @@ img {
 
 /* Table */
 .callout[data-callout="infobox"] table {
-  margin: auto;
-  width: 100%;
-  font-size: 16px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  background-color: rgb(30, 30, 30);
+	background-color: #0a0a0a;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	/*max-width: 100%;*/
+	border: 1px solid black;
+	overflow-x: auto;	
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
 .callout[data-callout="infobox"] th {
