@@ -163,7 +163,7 @@ img {
 }
 
 .callout[data-callout="infobox"] td {
-	border: 1px solid black;
+border: 1px solid black;
 	border-left: 2px solid #b3b3b3bb;
 	padding: 0.51rem;
 	line-height: 1.3;
@@ -172,7 +172,10 @@ img {
 }
 
 body {
-  background-color: #0a0a0a;
+  --image-border-color: var(--background-modifier-border);
+  --image-border-width: 1px;
+  --image-border-padding: 8px;
+  --image-border-background: var(--td);
 }
 
 /*----Image Positions/Adjustments----*/
