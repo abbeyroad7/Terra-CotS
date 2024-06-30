@@ -2,8 +2,8 @@
 status: in progress
 ---
 ![[<% tp.file.title %>.webp|center|512]]
-#### Mission
+# Mission
 
-#### Objective
+# Objective
 
 ![[pagebreak.webp]]

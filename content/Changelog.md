@@ -1,13 +1,14 @@
 ## 2024-06-30
+-  11h14 · [[Races]]
+-  02h53 · [[Misc]]
+-  02h53 · [[Useful Videos]]
 -  02h44 · [[Supply Run]]
 -  02h44 · [[Seek Celestrian Employment]]
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
 -  02h44 · [[Explore Aurelia]]
 -  02h43 · [[Celestrian Espionage]]
--  02h37 · [[Misc]]
 -  02h36 · [[Guidelines & Rules]]
 -  02h04 · [[Naming Conventions]]
--  02h04 · [[Races]]
 ## 2024-06-29
 -  12h39 · [[Untitled]]
 ## 2024-06-28
@@ -59,4 +60,3 @@
 -  19h37 · [[Sorvyn, the Necromancer]]
 -  18h00 · [[Wald Knave, Innkeeper]]
 -  18h00 · [[Batti Knave, Innkeeper]]
--  17h59 · [[Erlic, Celestrian Commander]]
