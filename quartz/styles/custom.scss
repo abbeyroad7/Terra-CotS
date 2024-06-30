@@ -153,12 +153,17 @@ img {
   padding-left: 12px; 
   padding-right: 0px;
   vertical-align: top;
+  text-align: center;
 }
 
 .callout[data-callout="infobox"] td {
  padding-left: 12px; 
  padding-right: 0px;
  vertical-align: top;
+ border: 1px solid black;
+ border-left: 2px solid #b3b3b3bb;
+ line-height: 1.3;
+ text-align: center; 
 }
 
 body {
@@ -181,7 +186,14 @@ body {
 }
 
 .popover.hover-popover {
-  
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 150px;
+  --small-med: 200px;
+  --med-small: 250px;
+  --medium: 300px;
+  --med-tall: 450px;
+  --tall: 500px;
 }
 
 /*----Mobile----*/
