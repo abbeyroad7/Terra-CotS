@@ -1,5 +1,6 @@
 ## 2024-06-30
--  15h17 · [[Races]]
+-  15h25 · [[Races]]
+-  15h24 · [[Guidelines & Rules]]
 -  02h53 · [[Misc]]
 -  02h53 · [[Useful Videos]]
 -  02h44 · [[Supply Run]]
@@ -7,7 +8,6 @@
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
 -  02h44 · [[Explore Aurelia]]
 -  02h43 · [[Celestrian Espionage]]
--  02h36 · [[Guidelines & Rules]]
 -  02h04 · [[Naming Conventions]]
 ## 2024-06-29
 -  12h39 · [[Untitled]]
