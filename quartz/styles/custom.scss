@@ -146,7 +146,7 @@ img {
   width: 100%;
   font-size: 16px;
   border: 1px solid rgba(255, 255, 255, 0.1);
-  background-color: rgb(10, 10, 10);
+  background-color: rgb(30, 30, 30);
 }
 
 .callout[data-callout="infobox"] th {
@@ -181,14 +181,7 @@ body {
 }
 
 .popover.hover-popover {
-  --micro: 70px;
-  --tiny: 100px;
-  --small: 150px;
-  --small-med: 200px;
-  --med-small: 250px;
-  --medium: 300px;
-  --med-tall: 450px;
-  --tall: 500px;
+  
 }
 
 /*----Mobile----*/
