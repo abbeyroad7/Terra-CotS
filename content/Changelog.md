@@ -1,5 +1,9 @@
 ## 2024-06-30
--  01h49 · [[Races]]
+-  02h24 · [[Guidelines]]
+-  02h07 · [[Misc]]
+-  02h07 · [[What the World of Terra Will Be]]
+-  02h04 · [[Naming Conventions]]
+-  02h04 · [[Races]]
 ## 2024-06-29
 -  12h39 · [[Untitled]]
 ## 2024-06-28
@@ -56,7 +60,3 @@
 -  19h37 · [[Sorvyn, the Necromancer]]
 -  18h00 · [[Wald Knave, Innkeeper]]
 -  18h00 · [[Batti Knave, Innkeeper]]
--  17h59 · [[Erlic, Celestrian Commander]]
--  13h03 · [[Factions]]
--  13h03 · [[Religion]]
--  13h02 · [[Items]]

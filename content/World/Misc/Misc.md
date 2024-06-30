@@ -13,7 +13,9 @@ sticker: emoji//1f4ac
 ---
 # Index
 %% Begin Waypoint %%
+- [[Guidelines]]
 - [[Naming Conventions]]
+- [[What the World of Terra Will Be]]
 
 %% End Waypoint %%
 
