@@ -670,46 +670,12 @@ img[alt~=border],
 }
 
 //*TOHP*/
-tbody,
-li,
-p {
-  line-height: 1.6rem;
-  background-color: #0a0a0a;
-}
-
-.table-container {
-  overflow-x: auto;
-
-  & > table {
-    background-color: #0a0a0a;
-	margin: 1rem;
-    padding: 1.5rem;
-    border-collapse: collapse;
-
-    th,
-    td {
-      min-width: 75px;
-    }
-
-    & > * {
-      line-height: 2rem;
-    }
+  .body td {
+    border-bottom: 1px solid #464D58; /* Darker border color */
   }
-}
-
-th {
-  text-align: left;
-  padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
-}
-
-td {
-  padding: 0.2rem 0.7rem;
-}
-
-tr {
-  border-bottom: 1px solid var(--lightgray);
-  &:last-child {
-    border-bottom: none;
+  .body tr:nth-child(even) td {
+    background-color: #1a1a1a; /* Darker shade for even rows */
   }
-}
+  .body tr:hover td {
+    background-color: #4F483E; /* Darker shade on hover */
+  }
