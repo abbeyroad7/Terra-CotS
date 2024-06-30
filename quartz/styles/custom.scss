@@ -142,31 +142,23 @@ img {
 
 /* Table */
 .callout[data-callout="infobox"] table {
-	background-color: #0a0a0a;
-	border-collapse: collapse;
-	border-spacing: 0;
-	width: auto;
-	/*max-width: 100%;*/
-	border: 1px solid black;
-	overflow-x: auto;	
-	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin: auto;
+  width: 100%;
+  font-size: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgb(30, 30, 30);
 }
 
 .callout[data-callout="infobox"] th {
   padding-left: 12px; 
   padding-right: 0px;
   vertical-align: top;
-  text-align: center;
 }
 
 .callout[data-callout="infobox"] td {
  padding-left: 12px; 
  padding-right: 0px;
  vertical-align: top;
- border: 1px solid black;
- border-left: 2px solid #b3b3b3bb;
- line-height: 1.3;
- text-align: center; 
 }
 
 body {
