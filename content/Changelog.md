@@ -1,7 +1,11 @@
 ## 2024-06-30
--  02h36 · [[Guidelines]]
--  02h07 · [[Misc]]
--  02h07 · [[What the World of Terra Will Be]]
+-  02h44 · [[Supply Run]]
+-  02h44 · [[Seek Celestrian Employment]]
+-  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
+-  02h44 · [[Explore Aurelia]]
+-  02h43 · [[Celestrian Espionage]]
+-  02h37 · [[Misc]]
+-  02h36 · [[Guidelines & Rules]]
 -  02h04 · [[Naming Conventions]]
 -  02h04 · [[Races]]
 ## 2024-06-29
@@ -20,7 +24,6 @@
 -  21h57 · [[Beastiary]]
 -  00h00 · [[Memories]]
 ## 2024-06-25
--  07h55 · [[Investigate Hilda Goldvein's Disappearance]]
 -  07h49 · [[Aurelia]]
 ## 2024-06-24
 -  18h50 · [[Available Quests]]
@@ -30,7 +33,6 @@
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
 ## 2024-06-22
--  23h50 · [[Supply Run]]
 -  23h07 · [[Hilda Goldvein]]
 -  22h02 · [[Gunnar Goldvein]]
 ## 2024-06-21
@@ -51,12 +53,10 @@
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
--  13h46 · [[Seek Celestrian Employment]]
--  01h17 · [[Celestrian Espionage]]
--  01h14 · [[Explore Aurelia]]
 ## 2024-06-17
 -  23h44 · [[Royal Hideout]]
 -  19h41 · [[Den of Necromancy]]
 -  19h37 · [[Sorvyn, the Necromancer]]
 -  18h00 · [[Wald Knave, Innkeeper]]
 -  18h00 · [[Batti Knave, Innkeeper]]
+-  17h59 · [[Erlic, Celestrian Commander]]

@@ -2,8 +2,8 @@
 status: in progress
 ---
 ![[Celestrian Espionage.webp|center|512]]
-#### Mission
+# Mission
 Perform surveillance on Celestrian guard and troop movement.
-#### Objective
+# Objective
 Gather intel for ALF-command.
 ![[pagebreak.webp]]

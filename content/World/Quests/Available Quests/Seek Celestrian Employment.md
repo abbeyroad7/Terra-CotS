@@ -2,9 +2,9 @@
 status: in progress
 ---
 ![[Seek Celestrian Employment.webp|center|512]]
-#### Mission
+# Mission
 Sign up to the Job Board and align yourself publicly with Celestrian forces.
-#### Objective
+# Objective
 Gain employment and earn an income working in Aurelia.
 
 ![[pagebreak.webp]]
