@@ -9,8 +9,8 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Terra: Cataclysm of the Shattered",
-    enableSPA: false,
-    enablePopovers: false,
+    enableSPA: true,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
