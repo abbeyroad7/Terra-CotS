@@ -6,7 +6,7 @@ cssclasses:
 ---
 ![[sidebreak.webp|right]]![[cultures-races.webp|right]]
 
-# The 79 Known Races
+# Known Races
 
 |                                                         |                                                           |                                                                  |                                                                |                                                              |                                                           |                                                           |
 | ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
@@ -22,10 +22,10 @@ cssclasses:
 | [Shifter](https://5e.tools/races.html#shifter_mpmm)     | [Simic](https://5e.tools/races.html#simic%20hybrid_ggr)   | [Siren](https://5e.tools/races.html#siren_psx)                   | [Skaven](https://www.dandwiki.com/wiki/Skaven_(5e_Race))       | [Tabaxi](https://5e.tools/races.html#tabaxi_mpmm)            | [Thri-kreen](https://5e.tools/races.html#thri-kreen_aag)  | [Tiefling](https://5e.tools/races.html#tiefling_phb)      |
 | [Tortle](https://5e.tools/races.html#tortle_mpmm)       | [Triton](https://5e.tools/races.html#triton_mpmm)         | [Troll](https://forgottenrealms.fandom.com/wiki/Troll)           | [Vedalken](https://5e.tools/races.html#vedalken_ggr)           | [Verdan](https://5e.tools/races.html#verdan_ai)              | [Warforged](https://5e.tools/races.html#warforged_erlw)   | [Yuan-Ti](https://5e.tools/races.html#yuan-ti_mpmm)       |
 
-# Ancestral Lands in Terra
+# Ancestral Lands of [[Terra]]
 
-|                                            |             |           |            |              |            |             |           |
-| ------------------------------------------ | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
-| [[Athis]]                                  | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
-| [[Gloridia]] ![[bullet-gloridia.webp\|14]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
-| [[Thorq]]                                  | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
+|                                                   |             |           |            |              |            |             |           |
+| ------------------------------------------------- | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
+| [[Athis]]                                         | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
+| [[Gloridia]] ![[bullet-gloridia.webp\|center\|8]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
+| [[Thorq]]                                         | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
