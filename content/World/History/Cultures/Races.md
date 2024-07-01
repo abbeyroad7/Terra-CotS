@@ -29,4 +29,3 @@ cssclasses:
 | [[Athis]]                                 | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
 | ![[bullet-gloridia.webp\|8]] [[Gloridia]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
 | [[Thorq]]                                 | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
-test
