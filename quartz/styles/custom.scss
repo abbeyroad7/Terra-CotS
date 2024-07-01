@@ -684,3 +684,7 @@ img[alt~=border],
 	text-align: center;
 	font-size: 14.5px;
 }
+td>img {
+  vertical-align: middle;
+  max-height: 20px;
+}
