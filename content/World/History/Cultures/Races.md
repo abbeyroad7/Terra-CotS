@@ -6,7 +6,7 @@ cssclasses:
 ---
 ![[sidebreak.webp|right]]![[cultures-races.webp|right]]
 
-# The following list links to the 79 known races in the world of [[Terra]].
+# The 79 Known Races
 
 |                                                         |                                                           |                                                                  |                                                                |                                                              |                                                           |                                                           |
 | ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
@@ -24,8 +24,8 @@ cssclasses:
 
 # Ancestral Lands in Terra
 
-|              |             |           |            |              |            |             |           |
-| ------------ | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
-| [[Athis]]    | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
-| [[Gloridia]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
-| [[Thorq]]    | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
+|                                            |             |           |            |              |            |             |           |
+| ------------------------------------------ | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
+| [[Athis]]                                  | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
+| [[Gloridia]] ![[bullet-gloridia.webp\|14]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
+| [[Thorq]]                                  | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
