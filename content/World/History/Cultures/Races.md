@@ -4,7 +4,7 @@ cssclasses:
   - customMargin
   - academia
 ---
-![[sidebreak.webp|right]]![[cultures-races.webp|right]]
+![[cultures-races.webp|right]]
 
 # Known Races
 
