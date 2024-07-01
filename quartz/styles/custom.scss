@@ -680,7 +680,7 @@ img[alt~=border],
 	overflow-x: auto;	
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 	text-align: center;
-	font-size: 14px;
+	font-size: 14.5px;
 }
  tr {
     line-height: 20px;
@@ -693,4 +693,8 @@ img[alt~=border],
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  img {
+    height:100%;
   }
