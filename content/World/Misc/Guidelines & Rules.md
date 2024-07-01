@@ -1,3 +1,4 @@
+![[guidelines.webp|banner]]
 # Introduction
 - When we first started this campaign in the February of 2024, me and the original players had convened together to establish what the game will look like in terms of gameplay.
 - This Session 0 reflects the tone of our campaign and I would refer any new players to these guidelines so they can know what to expect when joining our world.

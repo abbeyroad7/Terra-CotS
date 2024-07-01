@@ -22,7 +22,7 @@ cssclasses:
 | [Shifter](https://5e.tools/races.html#shifter_mpmm)     | [Simic](https://5e.tools/races.html#simic%20hybrid_ggr)   | [Siren](https://5e.tools/races.html#siren_psx)                   | [Skaven](https://www.dandwiki.com/wiki/Skaven_(5e_Race))       | [Tabaxi](https://5e.tools/races.html#tabaxi_mpmm)            | [Thri-kreen](https://5e.tools/races.html#thri-kreen_aag)  | [Tiefling](https://5e.tools/races.html#tiefling_phb)      |
 | [Tortle](https://5e.tools/races.html#tortle_mpmm)       | [Triton](https://5e.tools/races.html#triton_mpmm)         | [Troll](https://forgottenrealms.fandom.com/wiki/Troll)           | [Vedalken](https://5e.tools/races.html#vedalken_ggr)           | [Verdan](https://5e.tools/races.html#verdan_ai)              | [Warforged](https://5e.tools/races.html#warforged_erlw)   | [Yuan-Ti](https://5e.tools/races.html#yuan-ti_mpmm)       |
 
-# Ancestral Lands of [[Terra]]
+# Ancestral Lands of Terra
 
 |                                           |             |           |            |              |            |             |           |
 | ----------------------------------------- | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
