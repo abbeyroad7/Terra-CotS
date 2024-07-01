@@ -1,7 +1,8 @@
-![[guidelines.webp|banner]]
 # Introduction
 - When we first started this campaign in the February of 2024, me and the original players had convened together to establish what the game will look like in terms of gameplay.
 - This Session 0 reflects the tone of our campaign and I would refer any new players to these guidelines so they can know what to expect when joining our world.
+
+![[guidelines.webp|banner]]
 # Player Behavior
 - Please understand that this is a game, and I try my best to make it fun and excitable for my players, so don't be a dick. I know dice rolls can be frustrating sometimes, but remember that it's just a game.
 - We play digitally, so eating, bathroom breaks, answers calls/texts are to be expected, but try and stay focused during the game, and if you need to step away for any reason, try and not to be too distracting to your fellow players.
