@@ -30,5 +30,4 @@ cssclasses:
 | ![[bullet-gloridia.webp\|12]] [[Gloridia]] | ![[bullet-hohe.webp\|12]] [[Hohe]]       | ![[bullet-jowz.webp\|12]] [[Jowz]]     | ![[bullet-krish.webp\|12]] [[Krish]]   | ![[bullet-lignia.webp\|12]] [[Lignia]]     | ![[bullet-moomia.webp\|12]] [[Moomia]] | ![[bullet-shaba.webp\|12]] [[Shaba]]   | ![[bullet-loomia.webp\|12]] [[Loomia]]   |
 | ![[bullet-sohan.webp\|12]] [[Sohan]]       | ![[bullet-thorq.webp\|12]] [[Thorq]]     | ![[bullet-toraga.webp\|12]] [[Toraga]] | ![[bullet-urmir.webp\|12]] [[Urmir]]   | ![[bullet-vannes.webp\|12]] [[Vannes]]     | ![[bullet-vilia.webp\|12]] [[Vilia]]   | ![[bullet-viso.webp\|12]] [[Viso]]     | ![[bullet-westler.webp\|12]] [[Westler]] |
 
-![[pagebreak.webp]]
 ![[Map-Terra.webp]]
