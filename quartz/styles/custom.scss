@@ -674,9 +674,7 @@ img[alt~=border],
 	background-color: #0a0a0a;
 	border-collapse: collapse;
 	border-spacing: 0;
-	width: 100%;
-	display: flex;
-	justify-content: center;
+	width: auto;
 	/*max-width: 100%;*/
 	border: 1px #0F0F0F;
 	overflow-x: auto;	
@@ -684,7 +682,19 @@ img[alt~=border],
 	text-align: center;
 	font-size: 14.5px;
 }
-td>img {
-  vertical-align: middle;
-  max-height: 20px;
-}
+ tr {
+    line-height: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  th, td {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  img {
+    height:20px;
+  }
