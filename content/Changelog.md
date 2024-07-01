@@ -1,6 +1,6 @@
 ## 2024-07-01
--  11h19 · [[Races]]
--  00h05 · [[Guidelines & Rules]]
+-  14h08 · [[Races]]
+-  11h20 · [[Guidelines & Rules]]
 ## 2024-06-30
 -  02h53 · [[Misc]]
 -  02h53 · [[Useful Videos]]
