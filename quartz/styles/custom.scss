@@ -696,7 +696,7 @@ img[alt~=border],
   th, td {
     width: 100%;
 	height: 100%;
-    display: inline;
+    display: flex;
     justify-content: center;
     align-items: center;
   }
