@@ -700,3 +700,8 @@ img[alt~=border],
     justify-content: center;
     align-items: center;
   }
+  
+  td>img {
+  vertical-align: middle;
+  max-height: 20px;
+}
