@@ -24,8 +24,8 @@ cssclasses:
 
 # Ancestral Lands of Terra
 
-|                                            |             |           |            |              |            |             |           |
-| ------------------------------------------ | ----------- | --------- | ---------- | ------------ | ---------- | ----------- | --------- |
-| [[Athis]]                                  | [[Balfran]] | [[Byria]] | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]]  | [[Frace]] |
-| ![[bullet-gloridia.webp\|12]] [[Gloridia]] | [[Hohe]]    | [[Jowz]]  | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]   | [[Sohan]] |
-| [[Thorq]]                                  | [[Toraga]]  | [[Urmir]] | [[Vannes]] | [[Vilia]]    | [[Viso]]   | [[Westler]] |           |
+|                                            |                                      |            |            |              |            |            |                                       |     |
+| :----------------------------------------- | :----------------------------------- | :--------- | :--------- | :----------- | :--------- | :--------- | :------------------------------------ | --- |
+| [[Athis]]                                  | [[Balfran]]                          | [[Byria]]  | [[Congia]] | [[Estrelia]] | [[Ettnia]] | [[Fontia]] | [[Frace]]                             |     |
+| ![[bullet-gloridia.webp\|12]] [[Gloridia]] | [[Hohe]]                             | [[Jowz]]   | [[Krish]]  | [[Lignia]]   | [[Moomia]] | [[Shaba]]  | ![[bullet-loomia.webp\|12]][[Loomia]] |     |
+| [[Sohan]]                                  | ![[bullet-thorq.webp\|12]] [[Thorq]] | [[Toraga]] | [[Urmir]]  | [[Vannes]]   | [[Vilia]]  | [[Viso]]   | [[Westler]]                           |     |
