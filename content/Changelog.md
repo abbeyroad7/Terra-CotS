@@ -1,6 +1,6 @@
 ## 2024-06-30
+-  22h43 · [[Races]]
 -  22h03 · [[Guidelines & Rules]]
--  22h00 · [[Races]]
 -  02h53 · [[Misc]]
 -  02h53 · [[Useful Videos]]
 -  02h44 · [[Supply Run]]
