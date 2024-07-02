@@ -1,4 +1,5 @@
 ## 2024-07-02
+-  14h03 · [[Spite, the Domestic Crow]]
 -  00h33 · [[Races]]
 -  00h19 · [[Freya]]
 ## 2024-07-01
@@ -60,4 +61,3 @@
 -  19h41 · [[Den of Necromancy]]
 -  19h37 · [[Sorvyn, the Necromancer]]
 -  18h00 · [[Wald Knave, Innkeeper]]
--  18h00 · [[Batti Knave, Innkeeper]]
