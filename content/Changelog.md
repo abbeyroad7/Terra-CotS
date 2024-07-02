@@ -1,5 +1,7 @@
+## 2024-07-02
+-  00h33 · [[Races]]
+-  00h19 · [[Freya]]
 ## 2024-07-01
--  14h33 · [[Races]]
 -  11h20 · [[Guidelines & Rules]]
 ## 2024-06-30
 -  02h53 · [[Misc]]
@@ -59,4 +61,3 @@
 -  19h37 · [[Sorvyn, the Necromancer]]
 -  18h00 · [[Wald Knave, Innkeeper]]
 -  18h00 · [[Batti Knave, Innkeeper]]
--  17h59 · [[Erlic, Celestrian Commander]]
