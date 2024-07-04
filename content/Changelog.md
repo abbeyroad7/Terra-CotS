@@ -1,12 +1,17 @@
+## 2024-07-04
+-  18h02 · [[Staff of Flowers]]
+-  01h05 · [[Elara Moonshade]]
+-  01h05 · [[Useful Videos]]
+-  01h04 · [[Guidelines & Rules]]
+-  01h04 · [[Weapons]]
 ## 2024-07-02
+-  18h58 · [[The Teachings of the Hand of Scion]]
+-  18h36 · [[Items]]
 -  14h05 · [[Spite, the Domestic Crow]]
 -  00h33 · [[Races]]
 -  00h19 · [[Freya]]
-## 2024-07-01
--  11h20 · [[Guidelines & Rules]]
 ## 2024-06-30
 -  02h53 · [[Misc]]
--  02h53 · [[Useful Videos]]
 -  02h44 · [[Supply Run]]
 -  02h44 · [[Seek Celestrian Employment]]
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
@@ -14,7 +19,6 @@
 -  02h43 · [[Celestrian Espionage]]
 -  02h04 · [[Naming Conventions]]
 ## 2024-06-28
--  21h49 · [[Elara Moonshade]]
 -  20h42 · [[Allies]]
 ## 2024-06-26
 -  22h30 · [[Goobert]]
@@ -56,8 +60,3 @@
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
-## 2024-06-17
--  23h44 · [[Royal Hideout]]
--  19h41 · [[Den of Necromancy]]
--  19h37 · [[Sorvyn, the Necromancer]]
--  18h00 · [[Wald Knave, Innkeeper]]
