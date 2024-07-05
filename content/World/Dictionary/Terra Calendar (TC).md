@@ -1,6 +1,17 @@
 ---
 aliases:
   - TC
+  - calendar
+  - Tháw
+  - Verd
+  - Tonn
+  - Terramál
+  - Felum
+  - Blótmálnur
+  - Sedoth
+  - Ernoth
+  - Theloth
+  - Vertramál
 ---
 ![[TC.webp|right|512]]
 

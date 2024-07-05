@@ -1,9 +1,10 @@
 ## 2024-07-05
+-  07h56 · [[Naming Conventions]]
+-  07h56 · [[Terra Calendar (TC)]]
 -  07h51 · [[Aurelia]]
 ## 2024-07-04
 -  19h31 · [[Terra]]
 -  19h27 · [[Gloridia]]
--  19h04 · [[Naming Conventions]]
 -  18h12 · [[Items]]
 -  18h02 · [[Staff of Flowers]]
 -  01h05 · [[Elara Moonshade]]
@@ -59,4 +60,3 @@
 -  22h27 · [[Nation States]]
 -  22h19 · [[Diplomacy]]
 -  22h18 · [[Dictionary]]
--  22h17 · [[Player Characters]]
