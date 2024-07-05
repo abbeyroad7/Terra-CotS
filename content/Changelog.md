@@ -1,12 +1,11 @@
 ## 2024-07-04
+-  18h12 · [[Items]]
 -  18h02 · [[Staff of Flowers]]
 -  01h05 · [[Elara Moonshade]]
 -  01h05 · [[Useful Videos]]
 -  01h04 · [[Guidelines & Rules]]
--  01h04 · [[Weapons]]
 ## 2024-07-02
 -  18h58 · [[The Teachings of the Hand of Scion]]
--  18h36 · [[Items]]
 -  14h05 · [[Spite, the Domestic Crow]]
 -  00h33 · [[Races]]
 -  00h19 · [[Freya]]
@@ -60,3 +59,5 @@
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
 -  22h17 · [[Civilians]]
+## 2024-06-17
+-  23h44 · [[Royal Hideout]]

@@ -21,7 +21,7 @@ This is the landing page for the Items page.
 	- [[Phylactery of Yappery]]
 - **Spells**
 	- [[Leika's Memory]]
-- **[[Weapons]]**
+- **Weapons**
 	- [[Staff of Flowers]]
 
 %% End Waypoint %%
