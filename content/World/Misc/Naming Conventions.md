@@ -1,7 +1,6 @@
-![[NamingConventions.webp|banner]]
-
+![[NamingConventions.webp|banner+small]]
 # Introduction
-Many of the names I've chosen for the campaign follow Proto-Norse/Germanic/French linguistic models. Using these as a template, I've compounded and altered the words to fit into an English pronunciation more naturally.
+Many of the names I've chosen for the campaign follow Proto-Norse/Germanic/French linguistic models. Using these languages as a template for prefixes and suffixes, I've combined and altered these words to fit more smoothly into an English pronunciation.
 
 Examples include:
 - [[Aiskhel]] = Corpse hell
