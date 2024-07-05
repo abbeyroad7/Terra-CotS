@@ -1,5 +1,6 @@
+## 2024-07-05
+-  07h51 · [[Aurelia]]
 ## 2024-07-04
--  20h00 · [[Aurelia]]
 -  19h31 · [[Terra]]
 -  19h27 · [[Gloridia]]
 -  19h04 · [[Naming Conventions]]
