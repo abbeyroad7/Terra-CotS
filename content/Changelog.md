@@ -1,4 +1,6 @@
 ## 2024-07-04
+-  19h13 · [[Aurelia]]
+-  19h04 · [[Naming Conventions]]
 -  18h12 · [[Items]]
 -  18h02 · [[Staff of Flowers]]
 -  01h05 · [[Elara Moonshade]]
@@ -16,7 +18,6 @@
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
 -  02h44 · [[Explore Aurelia]]
 -  02h43 · [[Celestrian Espionage]]
--  02h04 · [[Naming Conventions]]
 ## 2024-06-28
 -  20h42 · [[Allies]]
 ## 2024-06-26
@@ -29,8 +30,6 @@
 -  22h02 · [[Aquatic Troll]]
 -  21h57 · [[Beastiary]]
 -  00h00 · [[Memories]]
-## 2024-06-25
--  07h49 · [[Aurelia]]
 ## 2024-06-24
 -  18h50 · [[Available Quests]]
 ## 2024-06-23

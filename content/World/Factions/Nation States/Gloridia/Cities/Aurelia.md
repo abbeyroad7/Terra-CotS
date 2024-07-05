@@ -1,35 +1,28 @@
- <font size="15"><center>City Map</center></font>
- ![[aurelia.webp|wtall|center]]
-<center>The Capital city and its districts.</center>
-#### Tanner's Market
+# Maps
+![[aurelia.webp|center-left|512]]![[Map-AureliaRegion.webp|center-right|768]]
+# Districts
+## Tanner's Market
+Situated outside the guard of the city's walls, the Tanner's Market was used as a low-cost market. Following the [[Siege of Aurelia]], the market was razed to the ground and pilfered.
+## Hart's Ward
 
-#### Hart's Ward
+## Feytown
 
-#### Feytown
+## Silverhorn
 
-#### Silverhorn
+## Regal Isle
 
-#### Regal Isle
+## Forgehealm
 
-#### Forgehealm
+## Grove Knot
 
-#### Grove Knot
+## Wolfpointe
 
-#### Wolfpointe
+## Rusthaven
 
-#### Rusthaven
+## Highfall District
 
-#### Highfall District
+## Citadel District
 
-#### Citadel District
+## East Aurelia
 
-#### East Aurelia
-
------------------------------------
- <font size="15"><center>Regional Map</center></font>
-
-![[Map-AureliaRegion.webp|center|1024]]
-
-<div align=center>
-The surrounding region around Aurelia.
-</div>
+![[pagebreak.webp]]
