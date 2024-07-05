@@ -1,4 +1,8 @@
 ## 2024-07-05
+-  13h54 · [[Session 11]]
+-  13h48 · [[Player Characters]]
+-  13h43 · [[Matilda Goldvein]]
+-  13h42 · [[Gunnar Goldvein]]
 -  13h39 · [[Naming Conventions]]
 -  07h56 · [[Terra Calendar (TC)]]
 -  07h51 · [[Aurelia]]
@@ -30,7 +34,6 @@
 -  22h28 · [[Elli Peer]]
 -  22h23 · [[Scribbles]]
 -  22h04 · [[Session 10]]
--  22h03 · [[Session 11]]
 -  22h02 · [[Aquatic Troll]]
 -  21h57 · [[Beastiary]]
 -  00h00 · [[Memories]]
@@ -43,7 +46,6 @@
 -  08h54 · [[Cloudhopper]]
 ## 2024-06-22
 -  23h07 · [[Hilda Goldvein]]
--  22h02 · [[Gunnar Goldvein]]
 ## 2024-06-21
 -  14h10 · [[Conflicts]]
 ## 2024-06-20
@@ -58,5 +60,3 @@
 ## 2024-06-19
 -  23h35 · [[Characters]]
 -  22h27 · [[Nation States]]
--  22h19 · [[Diplomacy]]
--  22h18 · [[Dictionary]]

@@ -1,5 +1,8 @@
 ---
 landing: "true"
+aliases:
+  - The Good Guys, and then Yeldarb
+  - The Good Guys
 ---
 # The Good Guys, and then Yeldarb
 
