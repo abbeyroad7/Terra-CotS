@@ -1,3 +1,8 @@
+---
+aliases:
+  - World
+---
+
 
 ![[Map-Terra.webp|center|1024]]
 

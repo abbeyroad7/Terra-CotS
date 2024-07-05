@@ -1,5 +1,8 @@
 ---
 landing: "true"
+aliases:
+  - Gloridian Empire
+  - Gloridian
 ---
 ![[Gloridia.webp|center|768]]
 

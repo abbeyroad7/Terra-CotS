@@ -1,5 +1,7 @@
 ## 2024-07-04
--  19h13 · [[Aurelia]]
+-  19h32 · [[Aurelia]]
+-  19h31 · [[Terra]]
+-  19h27 · [[Gloridia]]
 -  19h04 · [[Naming Conventions]]
 -  18h12 · [[Items]]
 -  18h02 · [[Staff of Flowers]]
@@ -57,6 +59,3 @@
 -  22h19 · [[Diplomacy]]
 -  22h18 · [[Dictionary]]
 -  22h17 · [[Player Characters]]
--  22h17 · [[Civilians]]
-## 2024-06-17
--  23h44 · [[Royal Hideout]]
