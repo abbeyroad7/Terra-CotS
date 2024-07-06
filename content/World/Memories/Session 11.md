@@ -14,7 +14,7 @@ The party left [[Arcane Liberation Front|ALF-HQ]], and traveled to the outskirts
 She revealed herself to be a friend of the Goldveins, and sought to reunite [[Matilda Goldvein|Matilda]] and her family. The party yielded to her request to join them, and together they found the hidden entryway to the Goldvein Tunnels.
 
 [[Player Characters|The Good Guys, and then Yeldarb]] found the tunnels booby-trapped and laced with danger, but they trudged forward. Finally, they came upon a storage room, laden with dwarven ale and some food provisions that had been left to rot. [[Goobert]] disarmed a spring-loaded blade from one of the barrels, and they collected some ale for the journey.
-\
+
 Later, the tunnel had opened up to a large cavern with an underground lake. At the other end, natural light filtered through a hole in the cave. The party retrieved a rowboat and began to paddle across the lake. Halfway across, an [[Aquatic Troll]] met the group and demanded to consume their flesh.
 
 The party battled with the beast, and finally defeated it on the shallow beach near the exit of the tunnel. After tending to their wounds, the party decided on taking a short rest before continuing upstream.
