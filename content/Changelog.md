@@ -1,10 +1,10 @@
 ## 2024-07-05
+-  23h15 · [[Naming Conventions]]
 -  14h01 · [[Aurelia]]
 -  13h54 · [[Session 11]]
 -  13h48 · [[Player Characters]]
 -  13h43 · [[Matilda Goldvein]]
 -  13h42 · [[Gunnar Goldvein]]
--  13h39 · [[Naming Conventions]]
 -  07h56 · [[Terra Calendar (TC)]]
 ## 2024-07-04
 -  19h31 · [[Terra]]
