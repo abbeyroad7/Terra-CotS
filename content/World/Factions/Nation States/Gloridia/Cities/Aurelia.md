@@ -1,4 +1,4 @@
-![[Map-AureliaRegion.webp|portrait+tall|512]]![[aurelia.webp|center-right|512]]
+![[Map-AureliaRegion.webp|portrait+tall|512]]![[aurelia.webp|center+left|512]]
 
 -------------------------------------------
 # Introduction
