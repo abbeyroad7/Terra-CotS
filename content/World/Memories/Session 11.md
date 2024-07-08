@@ -5,7 +5,7 @@ status: in progress
 
 ---------------------------------
 # The Search for Hilda: The Dwarven Tunnels
-The morning after the party had returned from the [Aurelian National Bank](https://abbeyroad7.github.io/Terra-CoTs/Aurelian-National-Bank), they awoke to [[Gunnar Goldvein|Gunnar]] crying to himself in his cot. [[Matilda Goldvein|Matilda]] was angrily heaving her handaxe at a pile of loose wood.
+The morning after the party had returned from the [[Aurelian National Bank]], they awoke to [[Gunnar Goldvein|Gunnar]] crying to himself in his cot. [[Matilda Goldvein|Matilda]] was angrily heaving her handaxe at a pile of loose wood.
 
 After questioning the sad dwarf, Goobert learned that [[Gunnar Goldvein|Gunnar]] and Matilda were mourning the loss of [[Hilda Goldvein]], who was presumed to have been taken for her prophetic abilities during the [[Siege of Aurelia|Celestrian Siege]]. He further mentioned that if Hilda had escaped, she would have taken to the secret tunnels under their home.
 

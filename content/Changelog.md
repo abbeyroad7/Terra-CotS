@@ -1,7 +1,8 @@
+## 2024-07-07
+-  20h39 · [[Aurelia]]
 ## 2024-07-05
--  23h37 · [[Session 11]]
+-  23h38 · [[Session 11]]
 -  23h15 · [[Naming Conventions]]
--  14h01 · [[Aurelia]]
 -  13h48 · [[Player Characters]]
 -  13h43 · [[Matilda Goldvein]]
 -  13h42 · [[Gunnar Goldvein]]
