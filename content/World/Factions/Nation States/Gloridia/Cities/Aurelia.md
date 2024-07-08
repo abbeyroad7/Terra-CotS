@@ -17,15 +17,16 @@ Regal Isle is a mostly-residential district exclusive to the wealthiest members 
 ## Forgehealm
 Forgehealm is a work district in Aurelia, where most of the city's raw materials are processed. Many worksmiths and depots are found here. In addition, many of the city's lower income citizens live here in dilapitaded housing. Crime is rampant in this area.
 ## Grove Knot
-
+Grove Knot serves as a working district outside the city gates to the northwest of Aurelia. It primarily serves as a lumber and mining depot, where blue collar workers mine and extract raw materials for the city.
 ## Wolfpointe
-
+Wolfpointe is a northern district, halfway split within and outside the city walls. It serves primarily as the barracks and outposts for the city guard.
 ## Rusthaven
-
+Rusthaven is a port district, where much of the city's fishing and naval trade take place along the [[Eldermyst River]].
 ## Highfall District
-
+Highfall serves as a mixed residential district to the east, where the upper middle class reside.
 ## Citadel District
-
+The Citadel District is situated in the south center. This district serves the ruling class, where official government buildings and military outposts reside.
 ## East Aurelia
+East Aurelia is situated across the [[Eldermyst River]] to the northeast of the city, and serves as a mixed residential and commercial area along the river.
 
 ![[pagebreak.webp]]
