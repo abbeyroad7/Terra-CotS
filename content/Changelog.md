@@ -1,5 +1,5 @@
 ## 2024-07-07
--  20h39 · [[Aurelia]]
+-  20h59 · [[Aurelia]]
 ## 2024-07-05
 -  23h38 · [[Session 11]]
 -  23h15 · [[Naming Conventions]]
