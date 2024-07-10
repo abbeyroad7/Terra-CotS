@@ -1,3 +1,22 @@
+---
+aliases:
+  - Tanner's Market
+  - Capital
+  - Hart's Ward
+  - Feytown
+  - Silverhorn
+  - Regal Isle
+  - Forgehealm
+  - Grove Knot
+  - Wolfpointe
+  - Rusthaven
+  - Highfall
+  - Highfall District
+  - Citadel
+  - Citadel District
+  - East Aurelia
+status: in progress
+---
 ![[Map-AureliaRegion.webp|portrait+tall|512]]![[aurelia.webp|center+left|512]]
 
 -------------------------------------------

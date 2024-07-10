@@ -1,7 +1,11 @@
-## 2024-07-08
--  13h44 · [[Aurelia]]
+## 2024-07-09
+-  23h00 · [[Dorian Blackwood]]
+-  22h53 · [[Allies]]
+-  22h50 · [[Aurelia]]
+-  22h50 · [[Session 11]]
+-  22h50 · [[Session 12]]
+-  22h43 · [[Memories]]
 ## 2024-07-05
--  23h38 · [[Session 11]]
 -  23h15 · [[Naming Conventions]]
 -  13h48 · [[Player Characters]]
 -  13h43 · [[Matilda Goldvein]]
@@ -27,8 +31,6 @@
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
 -  02h44 · [[Explore Aurelia]]
 -  02h43 · [[Celestrian Espionage]]
-## 2024-06-28
--  20h42 · [[Allies]]
 ## 2024-06-26
 -  22h30 · [[Goobert]]
 -  22h29 · [[Yeldarb]]
@@ -37,7 +39,6 @@
 -  22h04 · [[Session 10]]
 -  22h02 · [[Aquatic Troll]]
 -  21h57 · [[Beastiary]]
--  00h00 · [[Memories]]
 ## 2024-06-24
 -  18h50 · [[Available Quests]]
 ## 2024-06-23
@@ -58,6 +59,3 @@
 -  01h04 · [[index]]
 -  00h52 · [[quest]]
 -  00h37 · [[Completed Quests]]
-## 2024-06-19
--  23h35 · [[Characters]]
--  22h27 · [[Nation States]]

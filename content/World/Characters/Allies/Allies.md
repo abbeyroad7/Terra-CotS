@@ -5,6 +5,7 @@ This is the landing page for Allies.
 ![[sidebreak.webp|right]]![[characters-allies.webp|right]]
 
 %% Begin Waypoint %%
+- [[Dorian Blackwood]]
 - [[Elara Moonshade]]
 - [[Fjornir Thornbrook]]
 - [[Gareth Silverstream]]
