@@ -19,6 +19,6 @@ This Session 0 reflects the tone of our campaign and I would refer any new playe
 - We will honor a biweekly schedule every other Tuesday at 7pm. This schedule is contingent on the availabilty of everyone, so it may change in the future.
 - If some players are unavailable, we will continue the session unless we bypass a minimum of 3 players.
 # Longevity
-- I would like to homebrew this world as much as I can and develop it into something that's as diverse and alive as our own. That being said, I understand long story arcs may not be the most feasible, so I will plan to dedicate *Chapters* to our sessions. I'm currently outlining each *Chapter* to be no more than a year long in duration, and may adjust this in the future to fit the needs of our players. 
+- I would like to homebrew this world as much as I can and develop it into something that's as diverse and alive as our own. That being said, I understand long story arcs may not be the most feasible, so I will plan to dedicate *Chapters* to our sessions. I'm currently outlining each *Chapter* to be no more than a year long in duration, and may adjust this in the future to fit the needs of our players.
 
 ![[pagebreak.webp]]

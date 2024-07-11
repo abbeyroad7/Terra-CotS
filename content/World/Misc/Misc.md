@@ -16,6 +16,7 @@ sticker: emoji//1f4ac
 %% Begin Waypoint %%
 - [[Guidelines & Rules]]
 - [[Naming Conventions]]
+- [[Player Death]]
 - [[Useful Videos]]
 
 %% End Waypoint %%

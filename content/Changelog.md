@@ -1,10 +1,14 @@
+## 2024-07-10
+-  20h39 · [[Player Death]]
+-  20h36 · [[Guidelines & Rules]]
+-  20h36 · [[Misc]]
 ## 2024-07-09
--  23h00 · [[Dorian Blackwood]]
+-  23h41 · [[Memories]]
+-  23h41 · [[Session 12]]
+-  23h24 · [[Dorian Blackwood]]
 -  22h53 · [[Allies]]
 -  22h50 · [[Aurelia]]
 -  22h50 · [[Session 11]]
--  22h50 · [[Session 12]]
--  22h43 · [[Memories]]
 ## 2024-07-05
 -  23h15 · [[Naming Conventions]]
 -  13h48 · [[Player Characters]]
@@ -18,14 +22,12 @@
 -  18h02 · [[Staff of Flowers]]
 -  01h05 · [[Elara Moonshade]]
 -  01h05 · [[Useful Videos]]
--  01h04 · [[Guidelines & Rules]]
 ## 2024-07-02
 -  18h58 · [[The Teachings of the Hand of Scion]]
 -  14h05 · [[Spite, the Domestic Crow]]
 -  00h33 · [[Races]]
 -  00h19 · [[Freya]]
 ## 2024-06-30
--  02h53 · [[Misc]]
 -  02h44 · [[Supply Run]]
 -  02h44 · [[Seek Celestrian Employment]]
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
@@ -58,4 +60,3 @@
 -  14h21 · [[Arcana Question]]
 -  01h04 · [[index]]
 -  00h52 · [[quest]]
--  00h37 · [[Completed Quests]]
