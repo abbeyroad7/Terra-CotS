@@ -1,6 +1,6 @@
 # Introduction
 - There will be danger for players as they navigate the open world of [[Terra]]. It is not my intention for player character to fall victim to these dangers, but they must practice proper caution and wherewithall to not die before the campaign wraps up. This is DND though, and there is always a chance the dice choose your destiny.
-- In the event your player character is downed and fails all of their *Death Saving Throws*, do not take your frustrations out on me as a DM. Refer again to the Player Behavior section above.
+- In the event your player character is downed and fails all of their *Death Saving Throws*, do not take your frustrations out on me as a DM. Refer to the *Player Behavior* section under the [[Guidelines & Rules]] page.
 
 ![[PlayerDeath.webp|banner]]
 # Afterdeath
