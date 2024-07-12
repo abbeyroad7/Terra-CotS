@@ -5,7 +5,7 @@ status: in progress
 
 ---------------------------------
 # The Lone Ranger and the Bear
-After taking a short-rest, the party abandoned their rowboat and climbed out of the cave. Outside the cavern, [[Player Characters|The Good Guys]] stood on a small eyot.
+After taking a short-rest, the party with [[Elara Moonshade|Elara]] abandoned their rowboat and climbed out of the cave. Outside the cavern, [[Player Characters|The Good Guys]] stood on a small eyot.
 
 The river before them rushed past. They could see a flock of [[Cloudhopper|Cloudhoppers]] bounce overhead.
 
@@ -17,7 +17,13 @@ On land, they discovered a set of small boot prints leading to the forest. They 
 
 The party settled on taking the path heading east based on a vision from [[Leika's Stone]].
 
-Up the road, they encountered a common brown bear. [[Borislav]] was slashed and bitten before the party managed to drop the beast and scavenge its corpse for its pelt and meat.
+Up the road, they encountered a snarling brown bear in the underbrush. Half the party immediately fell to the ground and played dead, but [[Borislav]] and [[Goobert]] stood their ground. [[Borislav]] was slashed and bitten before the party finally managed to defeat the beast and proceed to scavenge its pelt and meat.
 
-Further along, they came to a lumber camp. The entrance was open, with blood smeared across the ground.
+As the party continued, they came upon a deserted lumber camp. The entrance was open, with a long trail of dried blood smeared across the ground. A number of [[Order of Celestria|Celestrian]] soldiers lay dead at the center of the campsite, with a dozen or so fallen loggers nearby.
+
+As they investigated, a lone archer took aim at [[Freya]] and let loose a volley of arrows. The members of the party aware of the attack took cover, while [[Yeldarb]] urinated on an open gravestone. [[Elara Moonshade|Elara]] had gone to find Yeldarb, while [[Scribbles]] searched the logging cabin.
+
+As the team roused to the ambush, they pivoted their way around the sniper, and vaulted the fence to the treeline and surrounded a man with a shirt insignia similar to that of the dead loggers. Upon learning his backstory, [[Yeldarb]] the Barbarian relented in his rage and explained to the man that they were not affiliated with the [[Order of Celestria|Celestrian]] army and were merely seeking to rescue [[Hilda Goldvein]].
+
+The man calmed and put down his longbow, ashamed of his error. He apologized to the adventurers and offered them his single health potion as a consolation. He went on to explain that his campsite had been attacked 3 days prior, after [[Hilda Goldvein|Hilda]] had come.
 ![[pagebreak.webp|center]]
