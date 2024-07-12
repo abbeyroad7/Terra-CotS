@@ -1,5 +1,5 @@
 ## 2024-07-12
--  14h09 · [[Session 12]]
+-  16h55 · [[Session 12]]
 ## 2024-07-10
 -  22h00 · [[Player Death]]
 -  20h36 · [[Guidelines & Rules]]

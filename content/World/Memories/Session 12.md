@@ -25,5 +25,10 @@ As they investigated, a lone archer took aim at [[Freya]] and let loose a volley
 
 As the team roused to the ambush, they pivoted their way around the sniper, and vaulted the fence to the treeline and surrounded a man with a shirt insignia similar to that of the dead loggers. Upon learning his backstory, [[Yeldarb]] the Barbarian relented in his rage and explained to the man that they were not affiliated with the [[Order of Celestria|Celestrian]] army and were merely seeking to rescue [[Hilda Goldvein]].
 
-The man calmed and put down his longbow, ashamed of his error. He apologized to the adventurers and offered them his single health potion as a consolation. He went on to explain that his campsite had been attacked 3 days prior, after [[Hilda Goldvein|Hilda]] had come.
+The man calmed himself and put down his longbow. Ashamed of his grave assumption, he introduced himself as [[Dorian Blackwood]]. [[Dorian Blackwood|Dorian]] apologized to the adventurers and offered them a single health potion as reparation. He went on to explain that their campsite had been attacked 3 days prior, after [[Hilda Goldvein|Hilda]] had come there for refuge. In the onslaught, he had escorted Hilda into the woods north towards the [[Eldermyst River]].
+
+By the time he returned, the [[Order of Celestria|Celestrians]] had gone and killed the rest of his lumbermen. Since then, he had perched himself into a tree overlooking the grounds, waiting for any [[Order of Celestria|Celestrian]] who dared come back.
+
+The party gifted [[Dorian Blackwood|Dorian]] some food provisions and healing spells before they parted north. Soonafter, the party set up camp for the night along the riverfront and ate fresh bear stew.
+
 ![[pagebreak.webp|center]]
