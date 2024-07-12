@@ -1,9 +1,10 @@
 ## 2024-07-12
+-  17h53 · [[FoundryVTT Setup]]
+-  17h00 · [[Misc]]
 -  16h55 · [[Session 12]]
 ## 2024-07-10
 -  22h00 · [[Player Death]]
 -  20h36 · [[Guidelines & Rules]]
--  20h36 · [[Misc]]
 ## 2024-07-09
 -  23h41 · [[Memories]]
 -  23h24 · [[Dorian Blackwood]]
@@ -60,4 +61,3 @@
 -  14h22 · [[The Arcanum Wars]]
 -  14h21 · [[Arcana Question]]
 -  01h04 · [[index]]
--  00h52 · [[quest]]

@@ -14,6 +14,7 @@ sticker: emoji//1f4ac
 ![[misc.webp|center-left]]
 # Index
 %% Begin Waypoint %%
+- [[FoundryVTT Setup]]
 - [[Guidelines & Rules]]
 - [[Naming Conventions]]
 - [[Player Death]]
