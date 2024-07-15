@@ -22,30 +22,31 @@ version: "1.0"
 
 -----------------
 
+![[FoundryVTT6.webp|left|192]]
 4. Click on the *Edit* button in the top left of your character sheet.
-
-![[FoundryVTT6.webp|center|192]]
 
 ------------
 
 5. On the right sidepanel, click the *Chatlog* tab. At the bottom, enter */r 5d6* to roll 4 six-sided die for your character stats.
 
-![[FoundryVTT11.webp|300]]![[FoundryVTT12.webp|300]]![[FoundryVTT13.webp|300]]
+![[FoundryVTT11.webp|350]]![[FoundryVTT12.webp|400]]![[FoundryVTT13.webp|400]]
 
 -------------
 
 6. Expand the dice-roll message by clicking the *expand* arrow. This will show the individual dice results. Take the sum of the highest 3 dice and input the value into your character sheet's ability scores. Repeat steps 5-6 a total of **six** times, for your *Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma*.
 
-![[FoundryVTT14.webp|300]]![[FoundryVTT15.webp|600]]
+![[FoundryVTT14.webp|400]]![[FoundryVTT15.webp|700]]
+
+In this example, we will take the highest 3 rolls: *6+3+3=12* and apply it to our *Strength* ability.
 
 ----------
 
+![[FoundryVTT7.webp|left|300]]
 7. On the right sidepanel, click on the *Compendiums* tab and enter the *5e.tools* folder.
-![[FoundryVTT7.webp|250]]
 
 ------------
 
-8. Start by opening the *Races* compendium. This will open a new popout where you can search for your character's desired race. Click and drag from the popout directly onto your *character sheet*.
+8. Open the *Races* compendium. This will open a new popout where you can search for your character's desired race. Click and drag from the popout directly onto your *character sheet*.
 
 ![[FoundryVTT8.webp|center|512]]
 
