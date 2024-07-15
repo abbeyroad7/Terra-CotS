@@ -1,12 +1,18 @@
+## 2024-07-14
+-  19h57 · [[FoundryVTT Setup]]
+## 2024-07-13
+-  13h17 · [[Memories]]
+-  13h17 · [[Session 12.sync-conflict-20240712-135618-44HHYPV]]
+-  13h17 · [[Session 12.sync-conflict-20240712-172312-44HHYPV]]
 ## 2024-07-12
--  17h53 · [[FoundryVTT Setup]]
--  17h00 · [[Misc]]
+-  18h20 · [[The Arcanum Wars]]
+-  17h59 · [[Getting Started]]
+-  17h57 · [[Misc]]
 -  16h55 · [[Session 12]]
 ## 2024-07-10
 -  22h00 · [[Player Death]]
 -  20h36 · [[Guidelines & Rules]]
 ## 2024-07-09
--  23h41 · [[Memories]]
 -  23h24 · [[Dorian Blackwood]]
 -  22h53 · [[Allies]]
 -  22h50 · [[Aurelia]]
@@ -57,7 +63,3 @@
 ## 2024-06-20
 -  14h25 · [[Quests]]
 -  14h22 · [[The Witchfire Crusades]]
--  14h22 · [[The Divine Restoration]]
--  14h22 · [[The Arcanum Wars]]
--  14h21 · [[Arcana Question]]
--  01h04 · [[index]]

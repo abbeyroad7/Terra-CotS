@@ -29,5 +29,7 @@ sticker: emoji//1f4a4
 - [[Session 10]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 12.sync-conflict-20240712-135618-44HHYPV]]
+- [[Session 12.sync-conflict-20240712-172312-44HHYPV]]
 
 %% End Waypoint %%
