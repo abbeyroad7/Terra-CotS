@@ -23,6 +23,7 @@ version: "1.0"
 -----------------
 
 ![[FoundryVTT6.webp|left|192]]
+
 4. Click on the *Edit* button in the top left of your character sheet.
 
 ------------
@@ -42,6 +43,7 @@ In this example, we will take the highest 3 rolls: *6+3+3=12* and apply it to ou
 ----------
 
 ![[FoundryVTT7.webp|left|300]]
+
 7. On the right sidepanel, click on the *Compendiums* tab and enter the *5e.tools* folder.
 
 ------------
@@ -60,7 +62,7 @@ In this example, we will take the highest 3 rolls: *6+3+3=12* and apply it to ou
 
 10. Subsituting the appropriate compendium, repeat steps 6-7 for your character's *Background, Class,* and *Spell List*.
 
-![[FoundryVTT10.webp|center|300]]
+![[FoundryVTT10.webp|370]]![[FoundryVTT16.webp|600]]
 
 
 ![[pagebreak.webp]]
