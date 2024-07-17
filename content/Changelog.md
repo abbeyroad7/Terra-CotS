@@ -1,4 +1,5 @@
 ## 2024-07-16
+-  22h53 · [[Guidelines & Rules]]
 -  22h46 · [[Player Death]]
 -  13h49 · [[Memories]]
 ## 2024-07-15
@@ -8,8 +9,6 @@
 -  17h59 · [[Getting Started]]
 -  17h57 · [[Misc]]
 -  16h55 · [[Session 12]]
-## 2024-07-10
--  20h36 · [[Guidelines & Rules]]
 ## 2024-07-09
 -  23h24 · [[Dorian Blackwood]]
 -  22h53 · [[Allies]]
