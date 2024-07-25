@@ -17,14 +17,17 @@ On the boat, the party took awe of a pack of [[Gomitoads]] flipping through the 
 
 ----------
 
-![[Session 13a.webp|left|368]]![[Session 13d.webp|left|412]]
+![[Session 13a.webp|left|468]]![[Session 13d.webp|left|512]]
+
+--------
+
 The party continues on, and after a few hours, they arrive to Ironwharf Harbor, in the [[Aurelia|Rusthaven]] district of [[Aurelia]]. After providing their documentation papers, the party steps onto the pier, where they meet a religious cultist brandishing a hand-painted sign, chanting, "The end times are nigh!" over and over.
 
 [[Scribbles]] and [[Yeldarb]] make their way over to a half-elvish child playing alone by the dock's edge. She explains to them she is attempting to lure out a furry mouse hiding behind some barrels in the stowaway of a wooden cart. The Kenku offers to lend a hand, and uses his staff to prod the barrels. As he prods, the cart begins to shake violently, before the back wheel busts off the axel, careening the barrels forward. [[Scribbles]] manages to save the child, but the barrels crash onto the ground, splattering wine everywhere.
 
-A nearby [[Order of Celestria|Celestrian]] guard sees this, and accuses the three of attempting to steal. He instructs them that per [[Order of Celestria|Celestrian]] law, thieves are to face Capital punishment, but he will settle for the removal of their thieverous hands instead.
+A nearby [[Order of Celestria|Celestrian]] guard sees this, and accuses the three of trying to steal. He says to them per [[Order of Celestria|Celestrian]] law, thieves are to face Capital punishment, but he will settle for the removal of thieves' hands instead.
 
-A [[Order of Celestria|Celestrian]] captain watching from afar comes forward and pleads with the soldier under his command. Begrungingly, he relents and goes to cleanup the mess, while continuing to mutter profanities under his breath.
+A [[Order of Celestria|Celestrian]] captain watching from afar comes forward and pleads with the soldier to release the party and the child. Begrungingly, the soldier relents and leaves to cleanup the mess, while continuing to mutter profanities under his breath.
 
 The [[Order of Celestria|Celestrian]] captain invites the party for a drink at the Rusty Anchor, a rustic tavern nearby. Here they meet the owner, a man named [[Thadius Twen]]. His daughter, [[Eirian Twen|Eirian]] bursts through the door, holding back tears as she explains to her father of the recent events. The beguiled man thanks for the Captain and the party for their heroism and announces drinks on the house for everyone.
 
