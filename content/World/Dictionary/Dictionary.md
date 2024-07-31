@@ -16,6 +16,7 @@ This is the landing page for the Dictionary.
 
 %% Begin Waypoint %%
 - [[Arcane]]
+- [[Sapient]]
 - [[Terra Calendar (TC)]]
 - [[Umbra]]
 

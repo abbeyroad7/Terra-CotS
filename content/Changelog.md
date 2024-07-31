@@ -1,8 +1,10 @@
 ## 2024-07-31
--  13h32 · [[Gomitoad]]
+-  18h01 · [[Trawlauth]]
+-  18h01 · [[Gomitoad]]
+-  17h48 · [[Sapient]]
+-  17h48 · [[Dictionary]]
 -  13h32 · [[Tra]]
 -  13h29 · [[Beastiary]]
--  13h29 · [[Trawlauth]]
 ## 2024-07-26
 -  18h00 · [[Order of Celestria]]
 ## 2024-07-24
@@ -62,5 +64,3 @@
 ## 2024-06-23
 -  23h49 · [[Cultures]]
 -  23h48 · [[Leika's Memory]]
--  16h45 · [[Siege of Aurelia]]
--  08h54 · [[Cloudhopper]]
