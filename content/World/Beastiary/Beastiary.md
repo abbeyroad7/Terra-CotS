@@ -18,9 +18,11 @@ This is the landing page for the Beastiary.
 - [[Aquatic Troll]]
 - [[Cloudhopper]]
 - [[Giant Spider]]
+- [[Gomitoad]]
 - [[Meazel]]
 - [[Millitaur]]
 - [[Pombero]]
 - [[Skulk]]
+- [[Trawlauth]]
 
 %% End Waypoint %%

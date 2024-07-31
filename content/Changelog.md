@@ -1,3 +1,10 @@
+## 2024-07-31
+-  13h32 · [[Gomitoad]]
+-  13h32 · [[Tra]]
+-  13h29 · [[Beastiary]]
+-  13h29 · [[Trawlauth]]
+## 2024-07-26
+-  18h00 · [[Order of Celestria]]
 ## 2024-07-24
 -  22h03 · [[Session 13]]
 ## 2024-07-23
@@ -50,7 +57,6 @@
 -  22h23 · [[Scribbles]]
 -  22h04 · [[Session 10]]
 -  22h02 · [[Aquatic Troll]]
--  21h57 · [[Beastiary]]
 ## 2024-06-24
 -  18h50 · [[Available Quests]]
 ## 2024-06-23
@@ -58,10 +64,3 @@
 -  23h48 · [[Leika's Memory]]
 -  16h45 · [[Siege of Aurelia]]
 -  08h54 · [[Cloudhopper]]
-## 2024-06-22
--  23h07 · [[Hilda Goldvein]]
-## 2024-06-21
--  14h10 · [[Conflicts]]
-## 2024-06-20
--  14h25 · [[Quests]]
--  14h22 · [[The Witchfire Crusades]]
