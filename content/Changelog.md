@@ -1,9 +1,12 @@
+## 2024-08-02
+-  13h55 · [[Sapient]]
+## 2024-08-01
+-  07h17 · [[Races]]
 ## 2024-07-31
+-  18h06 · [[Gomitoad]]
+-  18h05 · [[Giant Spider]]
 -  18h01 · [[Trawlauth]]
--  18h01 · [[Gomitoad]]
--  17h48 · [[Sapient]]
 -  17h48 · [[Dictionary]]
--  13h32 · [[Tra]]
 -  13h29 · [[Beastiary]]
 ## 2024-07-26
 -  18h00 · [[Order of Celestria]]
@@ -12,8 +15,6 @@
 ## 2024-07-23
 -  23h31 · [[Memories]]
 -  00h18 · [[Renroc Regalbrook]]
-## 2024-07-22
--  20h35 · [[Races]]
 ## 2024-07-16
 -  22h53 · [[Guidelines & Rules]]
 -  22h46 · [[Player Death]]
