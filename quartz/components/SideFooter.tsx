@@ -14,10 +14,10 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h3>Next Session: Tuesday, August 6 @7:00pm CT</h3>
+		<h3>Next Session: Tuesday, August 20 @7:00pm CT</h3>
 
 		<h4 style="text-align: left; width:49%; display: inline-block;">Navigation</h4>
-		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.52.07</h4>
+		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.52.08</h4>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
