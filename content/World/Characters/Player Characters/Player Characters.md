@@ -17,3 +17,4 @@ aliases:
 # Guest Characters
 
 <a href="World/Characters/Player Characters/Guest Characters/Elli Peer.md">![[characters-elli.webp|left|240]]</a>
+<a href="World/Characters/Player Characters/Guest Characters/Renroc Regalbrook.md">![[characters-renroc.webp|left|240]]</a>

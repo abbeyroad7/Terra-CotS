@@ -1,9 +1,10 @@
 ## 2024-08-19
+-  23h38 · [[Player Characters]]
+-  23h31 · [[Renroc Regalbrook]]
 -  23h25 · [[Session 14]]
 -  23h23 · [[Spite, the Domestic Crow]]
 -  23h23 · [[Elara Moonshade]]
 -  23h22 · [[Hilda Goldvein]]
--  15h56 · [[Renroc Regalbrook]]
 ## 2024-08-09
 -  16h14 · [[Races]]
 ## 2024-08-07
@@ -39,7 +40,6 @@
 -  22h50 · [[Session 11]]
 ## 2024-07-05
 -  23h15 · [[Naming Conventions]]
--  13h48 · [[Player Characters]]
 -  13h43 · [[Matilda Goldvein]]
 -  13h42 · [[Gunnar Goldvein]]
 -  07h56 · [[Terra Calendar (TC)]]
