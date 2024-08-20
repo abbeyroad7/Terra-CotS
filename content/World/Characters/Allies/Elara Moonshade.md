@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Elara
 status: in progress
 ---
 

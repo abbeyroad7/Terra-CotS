@@ -1,5 +1,8 @@
 ## 2024-08-19
--  23h17 · [[Session 14]]
+-  23h25 · [[Session 14]]
+-  23h23 · [[Spite, the Domestic Crow]]
+-  23h23 · [[Elara Moonshade]]
+-  23h22 · [[Hilda Goldvein]]
 -  15h56 · [[Renroc Regalbrook]]
 ## 2024-08-09
 -  16h14 · [[Races]]
@@ -45,11 +48,9 @@
 -  19h27 · [[Gloridia]]
 -  18h12 · [[Items]]
 -  18h02 · [[Staff of Flowers]]
--  01h05 · [[Elara Moonshade]]
 -  01h05 · [[Useful Videos]]
 ## 2024-07-02
 -  18h58 · [[The Teachings of the Hand of Scion]]
--  14h05 · [[Spite, the Domestic Crow]]
 -  00h19 · [[Freya]]
 ## 2024-06-30
 -  02h44 · [[Supply Run]]
@@ -64,5 +65,3 @@
 -  22h23 · [[Scribbles]]
 -  22h04 · [[Session 10]]
 -  22h02 · [[Aquatic Troll]]
-## 2024-06-24
--  18h50 · [[Available Quests]]
