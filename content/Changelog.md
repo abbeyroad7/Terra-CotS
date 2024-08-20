@@ -1,6 +1,6 @@
 ## 2024-08-19
+-  23h44 · [[Renroc Regalbrook]]
 -  23h38 · [[Player Characters]]
--  23h31 · [[Renroc Regalbrook]]
 -  23h25 · [[Session 14]]
 -  23h23 · [[Spite, the Domestic Crow]]
 -  23h23 · [[Elara Moonshade]]

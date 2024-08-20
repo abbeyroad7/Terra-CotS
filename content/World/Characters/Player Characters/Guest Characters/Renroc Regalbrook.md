@@ -4,7 +4,7 @@ aliases:
 status: in progress
 ---
 
-![[Renroc Regalbrook.webp|left|292]]
+![[Renroc Regalbrook.webp|right|292]]
 
 # Background
 
