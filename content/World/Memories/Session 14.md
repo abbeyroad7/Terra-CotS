@@ -11,9 +11,9 @@ In the middle of the night, everyone (minus Scribbles of course) awoke to a soft
 
 Freya rejoined her comrades and explained she had been awoken by Spite along the riverbank. Spite had guided her to the safehouse.
 
-Hilda had come down to meet Freya, and upon reaching her, she became transfixed on Freya's bag. Instinctively, Freya pulled out the vision stone, and Hilda had latched onto it. Her irises clouded over and she became unresponsive. Freya swore she had seen a reflection of fire in her eyes.
+Hilda had come down to meet Freya, and upon reaching her, she became transfixed on Freya's bag. Instinctively, Freya pulled out the vision stone, and Hilda had latched onto it. Her irises clouded over and she became unresponsive. Frozen in place, Freya swore she had seen a reflection of fire in her eyes.
 
-Between short-breaths, Hilda appears visibly shaken. She turns to Renroc, and instructs him to get everyone upstairs as soon as possible. "There is no time to waste," she says.
+Between short-breaths, Hilda appears visibly shaken. She turned to [[Renroc Regalbrook|Renroc]], and instructed him to get everyone upstairs as soon as possible. "There is no time to waste," she said.
 
 The party climbed up the stairs to a decrepit church, where dim lanterns illuminate a center stage, and Hilda had climbed onto to address a small and confused croud.
 
@@ -33,10 +33,14 @@ As the party arms themselves, the front doors are blasted open and more soldiers
 
 After sustaining critical damage, Anato used her mystical abilities and teleported behind the ranged members of the Good Guys, to flank the party. Here, Anato charged head-on with [[Goobert]] and Hilda, where the prophetic Dwarf was killed.
 
-Soonafter, the party managed to defeat the enemy forces and corner one surviving soldier. Renroc questioned the man and discovered the order to attack the church was in response to trailing the party and to eliminate Hilda at all costs. The order has been given by the  upon looting the bodies, they had found a medellion on the second-in-command, adorned with a human-like ourborous. Scribbles immediately recognized the symbol from a book the party had collected from their brief time in [[Anmouth]] - [[The Teachings of the Hand of Scion]].
+Soonafter, the party managed to defeat the enemy forces and corner one surviving soldier. Renroc questioned the man and discovered the order to attack the church was in response to trailing the party and to eliminate Hilda at all costs. The order had been given by the Coven of Celestria, a secretive coalition of aristocrats that rule over [[Order of Celestria|Celestria]].
 
-The surviving followers - [[Sam Greyscale]], [[Zythara Silverblade]] and [[Kaldor Steelhide]] surmised that the [[Cult of Scion]] was somehow tied to the [[Order of Celestria]].
+Upon looting the body of the second-in-command, the party had found he had been wearing a medellion, adorned with a human-like ourborous etched over silver. Scribbles immediately recognized the symbol from a book the party had collected from their brief time in [[Anmouth]] - [[The Teachings of the Hand of Scion]].
 
-Kaldor and the party planned their next move to rally with other formitable leaders in [[Aurelia|Rusthaven]], and to leave the church through the secret entrance before reinforcements arrived.
+![[Scion.webp|right|192]]
+
+The surviving [[Matilda Goldvein|Goldvein]] followers - [[Sam Greyscale]], [[Zythara Silverblade]] and [[Kaldor Steelhide]] surmised that the [[Cult of Scion]] was somehow tied to the [[Order of Celestria]].
+
+Kaldor and the party planned their next move to rally with other formidable leaders in [[Aurelia|Rusthaven]], and to leave the church through the secret entrance before reinforcements arrived.
 
 ![[pagebreak.webp|center]]

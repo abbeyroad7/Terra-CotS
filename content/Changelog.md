@@ -1,5 +1,6 @@
 ## 2024-08-19
--  15h50 · [[Session 14]]
+-  23h17 · [[Session 14]]
+-  15h56 · [[Renroc Regalbrook]]
 ## 2024-08-09
 -  16h14 · [[Races]]
 ## 2024-08-07
@@ -18,8 +19,6 @@
 -  18h00 · [[Order of Celestria]]
 ## 2024-07-24
 -  22h03 · [[Session 13]]
-## 2024-07-23
--  00h18 · [[Renroc Regalbrook]]
 ## 2024-07-16
 -  22h53 · [[Guidelines & Rules]]
 -  22h46 · [[Player Death]]
