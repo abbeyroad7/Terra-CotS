@@ -1,28 +1,28 @@
+## 2024-08-21
+-  12h49 · [[Session 15]]
+-  12h32 · [[Memories]]
+## 2024-08-20
+-  18h11 · [[Sapient]]
+-  18h11 · [[Session 14]]
+-  18h00 · [[Trawlauth]]
+-  17h59 · [[Session 13]]
+-  17h59 · [[Gomitoad]]
 ## 2024-08-19
 -  23h44 · [[Renroc Regalbrook]]
 -  23h38 · [[Player Characters]]
--  23h25 · [[Session 14]]
 -  23h23 · [[Spite, the Domestic Crow]]
 -  23h23 · [[Elara Moonshade]]
 -  23h22 · [[Hilda Goldvein]]
 ## 2024-08-09
 -  16h14 · [[Races]]
-## 2024-08-07
--  10h44 · [[Memories]]
 ## 2024-08-05
 -  13h22 · [[Umbra]]
-## 2024-08-02
--  16h38 · [[Sapient]]
 ## 2024-07-31
--  18h06 · [[Gomitoad]]
 -  18h05 · [[Giant Spider]]
--  18h01 · [[Trawlauth]]
 -  17h48 · [[Dictionary]]
 -  13h29 · [[Beastiary]]
 ## 2024-07-26
 -  18h00 · [[Order of Celestria]]
-## 2024-07-24
--  22h03 · [[Session 13]]
 ## 2024-07-16
 -  22h53 · [[Guidelines & Rules]]
 -  22h46 · [[Player Death]]
@@ -64,4 +64,3 @@
 -  22h28 · [[Elli Peer]]
 -  22h23 · [[Scribbles]]
 -  22h04 · [[Session 10]]
--  22h02 · [[Aquatic Troll]]

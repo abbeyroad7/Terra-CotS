@@ -1,7 +1,7 @@
 ---
 status: in progress
 ---
-![[<% tp.file.title %>.webp|center|768]]
+![[<% tp.file.title %>a.webp|left|256]]![[<% tp.file.title %>b.webp|left|256]]![[<% tp.file.title %>c.webp|left|256]]
 
 ---------------------------------
 # 
