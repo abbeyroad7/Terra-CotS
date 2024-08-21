@@ -13,7 +13,7 @@ On the way, they stumbled upon a trio of [[Order of Celestria|Celestrian]] soldi
 
 Renroc, alarmed by being discovered, cast Sleep on both soldiers and was able to successfully knock one unconscious. The other was dazed, but still alert and entered combat with the party. He was able to shortly alert the rest of his comrades nearby of the surprise attack.
 
-The party battled for some time, but were able to defeat all four Celestrians without any casualties. They continued on up the street to Sardaen Orestone's house, where [[Scribbles]] burst through the door. A bewildered Sardaen was calmed by Kaldor and as the Dragonborn leader explained the situation, Sardaen accepted his new quest and led the party away to find [[Sirvius the Bold]] and [[Vander Warhoof]].
+The party battled for some time, but were able to defeat all four [[Order of Celestria|Celestrians]] without any casualties. They continued on up the street to [[Sardaen Orestone|Sardaen Orestone's]] house, where [[Scribbles]] burst through the door. A bewildered Sardaen was calmed by Kaldor and as the Dragonborn leader explained the situation, Sardaen accepted his new quest and led the party away to find [[Sirvius the Bold]] and [[Vander Warhoof]].
 
 The party took short refuge in a tavern frequented by Sirvius and Vander, but had not yet found the two sapients.
 

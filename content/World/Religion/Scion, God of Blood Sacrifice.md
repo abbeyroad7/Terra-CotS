@@ -4,8 +4,12 @@ aliases:
 ---
 # Introduction
 **Domains:** Death, War
-**Symbol:** A blood-stained dagger or sacrificial altar
+**Symbol:** A human-like ouroboros
 
-**Description:** Scion is a dark and menacing deity, often depicted as a figure cloaked in shadows, with glowing eyes that pierce through the darkness. He exudes an aura of malevolence and power, instilling fear and awe in his followers. His presence is often accompanied by the scent of blood and the sound of distant screams.
+![[Scion.webp|256]]
+
+
+# Description
+Scion serves as the God of Blood Sacrifice, and as such, rewards his followers in their conquests of murder and torture. In the First Age of Terra, he was regarded as one of the prominant Gods of War, instigating death wherever he went.
 
 ![[pagebreak.webp]]

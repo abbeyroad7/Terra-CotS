@@ -1,5 +1,6 @@
 ## 2024-08-21
--  12h49 · [[Session 15]]
+-  12h57 · [[Scion, God of Blood Sacrifice]]
+-  12h51 · [[Session 15]]
 -  12h32 · [[Memories]]
 ## 2024-08-20
 -  18h11 · [[Sapient]]
@@ -63,4 +64,3 @@
 -  22h29 · [[Yeldarb]]
 -  22h28 · [[Elli Peer]]
 -  22h23 · [[Scribbles]]
--  22h04 · [[Session 10]]
