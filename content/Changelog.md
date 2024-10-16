@@ -1,7 +1,14 @@
+## 2024-10-15
+-  22h03 · [[Session 19]]
+-  22h01 · [[Memories]]
+## 2024-09-13
+-  13h13 · [[Session 16]]
+## 2024-09-03
+-  18h42 · [[Session 15]]
+## 2024-08-22
+-  20h02 · [[08-22-24]]
 ## 2024-08-21
 -  12h57 · [[Scion, God of Blood Sacrifice]]
--  12h51 · [[Session 15]]
--  12h32 · [[Memories]]
 ## 2024-08-20
 -  18h11 · [[Sapient]]
 -  18h11 · [[Session 14]]
@@ -61,6 +68,3 @@
 -  02h43 · [[Celestrian Espionage]]
 ## 2024-06-26
 -  22h30 · [[Goobert]]
--  22h29 · [[Yeldarb]]
--  22h28 · [[Elli Peer]]
--  22h23 · [[Scribbles]]
