@@ -11,9 +11,9 @@ Players can search the lands for native vegetables and spices that can be used t
 ## Hunting
 In addition, players can choose to extract animal parts to use them alongside other ingredients. The rarity of certain meats can prove to make certain dishes into delicacies for characters. Though some meats should remain off the kitchen table...
 ### Cooking Process
-Recipes can be cooked over a fire during a short or long rest. The amount of portions created depends on each recipe, and they become inedible **2 days** after being cooked, unless preserved. Consuming a portion takes as little as 1 minute and you are able to eat another portion after 4 hours.
+Recipes can be cooked over a fire during a short or long rest. The amount of portions created depends on each recipe, and they become inedible **2 days** after being cooked, unless preserved. Some portions may be eaten every 4-6 hours to gain the associated meal bonus.
 
-**At the end of the cooking time, you must make a Wisdom check, adding your proficiency bonus if you are proficient with Cook's utensils. This is a Cooking check.**
+**At the end of the cooking time, you must make a Wisdom check, adding your proficiency bonus if you are proficient with Cooking utensils. This is a Cooking check.**
 
 **Recipe DCs are calculated based on the complexity of the dishes as well as the durability of the ingredients being handled.**
 - For example, a simple ham-sandwich may require a DC3 to prepare, but an Elvish herbed duck-cutlet may require a DC16 to prepare adequately.
