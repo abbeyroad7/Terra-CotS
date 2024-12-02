@@ -1,3 +1,6 @@
+## 2024-12-02
+-  14h44 · [[Rule.Cooking]]
+-  14h15 · [[Misc]]
 ## 2024-10-15
 -  22h03 · [[Session 19]]
 -  22h01 · [[Memories]]
@@ -39,7 +42,6 @@
 ## 2024-07-12
 -  18h20 · [[The Arcanum Wars]]
 -  17h59 · [[Getting Started]]
--  17h57 · [[Misc]]
 -  16h55 · [[Session 12]]
 ## 2024-07-09
 -  23h24 · [[Dorian Blackwood]]
@@ -66,5 +68,3 @@
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
 -  02h44 · [[Explore Aurelia]]
 -  02h43 · [[Celestrian Espionage]]
-## 2024-06-26
--  22h30 · [[Goobert]]
