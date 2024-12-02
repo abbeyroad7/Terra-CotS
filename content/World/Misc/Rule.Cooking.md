@@ -15,6 +15,9 @@ Recipes can be cooked over a fire during a short or long rest. The amount of por
 
 **At the end of the cooking time, you must make a Wisdom check, adding your proficiency bonus if you are proficient with Cook's utensils. This is a Cooking check.**
 
+**Recipe DCs are calculated based on the complexity of the dishes as well as the durability of the ingredients being handled.**
+- For example, a simple ham-sandwich may require a DC3 to prepare, but an Elvish herbed duck-cutlet may require a DC16 to prepare adequately.
+
 On a success, you can create the amount of meals you chose. On a failure, all ingredients are wasted, and the meal provides no additional effects and/or becomes inedible, scaling with the value of the roll.
 
 ![[Rule.Cooking2.webp|center|700]]
