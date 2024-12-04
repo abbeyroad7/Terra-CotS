@@ -22,7 +22,8 @@ Characters are able to expand their memory by improving their Intelligence stat.
 
 **Books that have fallen out of memory will lose their related bonuses, but can be reread with Advantage when rolling the Intelligence check.**
 
-![[Rule.Reading3.webp|center|512]]
+![[Rule.Reading3.webp|center|650]]
+
 ### Reading Effects
 Most books will provide Advantage Rolls when the subject matter of the book is recalled into question. In addition, nonfiction books related to Wilderness or the Arcanum Wars could potentially improve certain character skills such as Survival or History.
 
