@@ -5,40 +5,25 @@ version: "1.0"
 ---
 ![[Rule.Reading.webp|center]]
 ## Introduction
-Reading books found across Terra will enlighten players to different topics that could prove useful in day-to-day adventuring.
-### Cooking Process
-Recipes can be cooked over a fire during a short or long rest. The amount of portions created depends on each recipe, and they become inedible **2 days** after being cooked, unless preserved. Some portions may be eaten every 4-6 hours to regain the associated meal bonus.
+Reading books found across Terra will enlighten players to different topics that could prove useful in day-to-day adventuring, or could even inspire them on their most dreary of days.
+### Gameplay
+Books can be read during a short or long rest and are completed based on a Progression system predicated on a character's Intelligence.
 
-**At the end of the cooking time, you must make a Survival check, adding your proficiency bonus if you are proficient with Cooking utensils. This is a Cooking check.**
+**Progression: INT * 5**
+Each hour a character is immersed into a book, they will roll an Intelligence check and multiply the value by 5 to calculate their progress.
 
-**Recipe DCs are calculated based on the complexity of the dishes as well as the durability of the ingredients being handled.**
-- For example, a simple ham-sandwich may require a DC3 to prepare, but an Elvish herbed duck-cutlet may require a DC16 to prepare adequately.
+Bonuses relevant to the subject material are gained when a book is read in-full and committed into the players' Memory.
 
-On a success, you can create the amount of meals you choose. On a failure, all ingredients are wasted, and the meal provides no additional effects and/or becomes inedible, scaling with the value of the roll.
+![[Rule.Reading2.webp|center|700]]
+#### Memory
+As a counterbalance to reading bonuses, effects gained are temporary based on a Memory Slot system. Players will each have 3 slots for books that they can commit into their long-term memory.
 
-![[Rule.Cooking2.webp|center|700]]
-#### Simple Recipes
-These recipes do not require a kitchen, and can be cooked on a campfire or similar source of heat. They include eggs, meats, and stews. These recipes take **0.5 hours** to cook.
-#### Complex Recipes
-These recipes require a kitchen to be cooked. They include broths, desserts, pastries, and soups. These recipes take **2 hours** to cook.
-### Gaining Recipes
-A character with proficiency in Cooking utensils starts with 3 simple recipes and 2 complex recipe of their choice. To acquire more recipes, there are a multitude of avenues:
-- Native dishes in accordance to their race/class background
-- Reading or being taught by another character.
-- Experimentation, as explained below.
+Characters are able to expand their memory by improving their Intelligence stat. **For each +1 to their Intelligence, a character will receive an additional Memory Slot.**
 
-Once a recipe is known, a character knows the full description of a recipe including the Failure Effect.
+**Books that have fallen out of memory will lose their related bonuses, but can be reread with Advantage when rolling the Intelligence check.**
 
-![[Rule.Cooking3.webp|center|512]]
-### Experimentation
-In order to teach yourself a recipe, you must spend the full Cooking time experimenting to the creation of a recipe. During this time, you must have access to fresh samples of the ingredients as well as a source of heat or fire.
-
-At the end of the Cooking time, you must succeed a Cooking check with Disadvantage, or suffer the failure effect of the recipe, scaling in accordance to your roll.
-
-Once a recipe is completed, the ingredients are consumed, and that recipe becomes known to your character.
-### Culinary Effects
-In addition to the satiating effects of typical rations, some recipes provide additional buffs in respect to their taste and fulfillment.
-
-For example, a rare dish may provide additional Inspiration to the party when consumed and some culinary ingredients may provide temporary bonuses in respect to their origin.
+![[Rule.Reading3.webp|center|512]]
+### Reading Effects
+Most books will provide Advantage Rolls when the subject matter of the book is recalled into question. In addition, nonfiction books related to Wilderness or the Arcanum Wars could potentially improve certain character skills such as Survival or History.
 
 ![[pagebreak.webp]]

@@ -1,6 +1,6 @@
 ## 2024-12-03
+-  15h37 · [[Rule.Reading]]
 -  11h08 · [[Rule.Cooking]]
--  10h26 · [[Rule.Reading]]
 ## 2024-12-02
 -  16h58 · [[Misc]]
 ## 2024-10-15
