@@ -15,8 +15,6 @@ Recipes can be cooked over a fire during a short or long rest. The amount of por
 
 **At the end of the cooking time, you must make a Survival check, adding your proficiency bonus if you are proficient with Cooking utensils.**
 
-Recipes can be naturally discovered from others or if you find recipe books, which would negate the disadvantage roll. Disadvantage would only apply if you're trying to create a recipe blind by experimenting. Once a recipe is added to your list of known recipes, you would then roll with Advantage instead.
-
 **Recipe DCs are calculated based on the complexity of the dishes as well as the durability of the ingredients being handled.**
 - For example, a simple ham-sandwich may require a DC3 to prepare, but an Elvish herbed duck-cutlet may require a DC16 to prepare adequately.
 
@@ -40,7 +38,7 @@ Once a recipe is known, a character knows the full description of a recipe inclu
 ### Experimentation
 In order to teach yourself a recipe, you must spend the full Cooking time experimenting to the creation of a recipe. During this time, you must have access to fresh samples of the ingredients as well as a source of heat or fire.
 
-At the end of the Cooking time, you must succeed a Cooking check with Disadvantage, or suffer the failure effect of the recipe, scaling in accordance to your roll.
+At the end of the Cooking time, you must succeed a Cooking check , or suffer the failure effect of the recipe, scaling in accordance to your roll. Higher DC > roll
 
 Once a recipe is completed, the ingredients are consumed, and that recipe becomes known to your character.
 ### Culinary Effects

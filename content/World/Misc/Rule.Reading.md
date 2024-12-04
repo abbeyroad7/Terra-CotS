@@ -16,7 +16,7 @@ Bonuses relevant to the subject material are gained when a book is read in-full 
 
 ![[Rule.Reading2.webp|center|700]]
 #### Memory
-As a counterbalance to reading bonuses, effects gained are temporary based on a Memory Slot system. Players will each have 3 slots for books that they can commit into their long-term memory.
+As a counterbalance to reading bonuses, effects gained are temporary based on a Memory Slot system. Players will each have 4 slots for books that they can commit into their long-term memory.
 
 Characters are able to expand their memory by improving their Intelligence stat. **For each +1 to their Intelligence, a character will receive an additional Memory Slot.**
 
