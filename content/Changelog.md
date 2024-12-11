@@ -1,11 +1,13 @@
+## 2024-12-11
+-  13h44 · [[Session 23]]
+-  13h39 · [[Memories]]
 ## 2024-12-03
+-  19h43 · [[Rule.Reading]]
 -  19h42 · [[Rule.Cooking]]
--  19h40 · [[Rule.Reading]]
 ## 2024-12-02
 -  16h58 · [[Misc]]
 ## 2024-10-15
 -  22h03 · [[Session 19]]
--  22h01 · [[Memories]]
 ## 2024-09-13
 -  13h13 · [[Session 16]]
 ## 2024-09-03
@@ -68,4 +70,3 @@
 -  02h44 · [[Supply Run]]
 -  02h44 · [[Seek Celestrian Employment]]
 -  02h44 · [[Investigate Hilda Goldvein's Disappearance]]
--  02h44 · [[Explore Aurelia]]
