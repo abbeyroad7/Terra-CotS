@@ -14,8 +14,6 @@ Yeldarb is entranced, his eyes glazed over. The map's light flickers and pulses,
 
 You notice Freya's pack begins to glow. The same familiar voice that had warned you in the Citadel's dungeons comes through the Stone, clearer than before.
 
-You recognize it as Hilda Goldvein.
-
 “You must hurry,” she urges. “The Forest of Petrified Trees is not far from here, but the plane’s grip on you grows stronger still. I've left this map for you as a guide. Find me in a marked grove just beyond the red thicket.”
 
 ### The Forest of Petrified Trees
