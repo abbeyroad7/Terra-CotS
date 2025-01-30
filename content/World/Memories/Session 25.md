@@ -5,7 +5,7 @@ status: in progress
 
 ---------------------------------
 # The Forest of Petrified Trees
-### Introduction
+### Aiskhel
 As you look upon the decrepit hut before you, you notice the material structure seems impossibly old, its thin walls made of twisted wood that creaks and groans.
 
 Inside, you find Yeldarb seated at a rickety table, his face illuminated by a faint, swirling glow coming from an ancient map sprawled before him. The map seems alive, its ink shifting and twisting as if charting routes to unseen places.
@@ -23,7 +23,7 @@ The party enters the forest, where jagged, fossilized trees fìll your vision.
 
 On closer inspection, the twisted bark seems to form the anguished visages of forgotten Elves, their mouths frozen in silent screams and eyes hollowed by time. The faces shift subtly in your periphery, their anguished visages growing more pronounced. You feel as though they are watching you.
 
-You destroy all the Undead Trees.
+A battle ensues with the Undead Trees.
 
 After the battle, you notice a deep-red color, just beyond the corpse of one of the fallen trees. It stands out to you, as the only saturation in this place seems to be closer to greyscale.
 
